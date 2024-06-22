@@ -1,0 +1,262 @@
+tipo_crime;numero_processo;sentença_base;sentença_definitiva;conclusao;nome_suspeito;nome_juiz
+Roubo ; 0002139-41.2017.8.26.0191 ; 4 ANOS DE RECLUSÃO E PAGAMENTO DE 10 DIAS-MULTA ; 05 (CINCO) ANOS E 04 (QUATRO) MESES DE RECLUSÃO E PAGAMENTO DE 13 (TREZE) DIAS-MULTA ; condenado ; JONAS MIQUEIAS BISPO DOS REIS ; Daniela Martins de Castro Mariani Cavallanti
+Corrupção de Menores ; 0002139-41.2017.8.26.0191 ; 01 (UM) ANO DE RECLUSÃO ; 01 (UM) ANO DE RECLUSÃO ; condenado ; JONAS MIQUEIAS BISPO DOS REIS ; Daniela Martins de Castro Mariani Cavallanti
+Roubo ; 0002117-26.2017.8.26.0306 ; 05 (cinco) anos de reclusão e 12 (doze) dias-multa ; 06 (seis) anos e 08 (oito) meses de reclusão e 16 (dezesseis) dias-multa ; condenado ; LEANDRO APARECIDO DE CARVALHO ; Natália Berti
+Roubo ; 0002117-26.2017.8.26.0306 ; 05 (cinco) anos de reclusão e 12 (doze) dias-multa ; 05 (cinco) anos, 06 (seis) meses e 20 (vinte) dias de reclusão e 13 (treze) dias-multa ; condenado ; ALAN GONÇALVES RIBEIRO ; Natália Berti
+Roubo ; 0004453-57.2021.8.26.0566 ; 04 (quatro) anos de reclusão e no pagamento de 10 dias-multa ; 05 (cinco) anos e 04 (quatro) meses de reclusão e 13 (treze) dias-multa ; condenado ; HENRIQUE SOARES DA SILVA ; EDUARDO CEBRIAN ARAUJO REIS
+Roubo ; 0005417-90.2020.8.26.0564 ; 4 anos e 8 meses de reclusão e pagamento de  11 dias-multa ; 9 anos e 26 dias de reclusão e pagamento de 21 dias-multa ; condenado ; MATHEUS CARVALHO DE ALMEIDA ; MARTA OLIVEIRA DE SÁ
+Roubo ; 0001129-23.2020.8.26.0654 ; 4 anos reclusão e 10 dias-multa ; None ; None ; EDGARD CAROLINO DA SILVA ; Patrícia Érica Luna da Silva
+Roubo ; 0000759-24.2009.8.26.0268 ; None ; None ; absolvido ; PAULO RICARDO VIDAL BRAGA DOS SANTOS ; LUCAS DADALTO SAHÃO
+Roubo ; 0000759-24.2009.8.26.0268 ; None ; None ; absolvido ; MÁRCIO BARBOSA DA SILVA FILHO ; LUCAS DADALTO SAHÃO
+Roubo ; 0000592-74.2019.8.26.0294 ; 04 anos de reclusão e 10 dias-multa ; 08 anos e 10 meses de reclusão e 21 dias-multa ; condenado ; MATHEUS DA SILVA CRUZ ; Gabriela de Oliveira Thomaze
+Associação Criminosa ; 0000592-74.2019.8.26.0294 ; None ; None ; absolvido ; MATHEUS DA SILVA CRUZ ; Gabriela de Oliveira Thomaze
+Roubo ; 0012749-93.2017.8.26.0506 ; cinco anos de reclusão e pagamento de dezesseis dias-multa ; oito anos e três meses de reclusão e pagamento de sessenta e seis dias-multa ; condenado ; JORGE SANTANA POSITO ; SYLVIO RIBEIRO DE SOUZA NETO
+Roubo ; 0012749-93.2017.8.26.0506 ; None ; None ; absolvido ; VAGNER GONÇALVES TEIXEIRA ; SYLVIO RIBEIRO DE SOUZA NETO
+Roubo ; 0000910-19.2017.8.26.0394 ; 4 (quatro) anos, 9 (nove) meses e 18 (dezoito) dias e o pagamento de 12 (doze) dias-multa ; 05 (cinco) anos e 04 (quatro) meses de reclusão e 13 (treze) dias-multa ; condenado ; Jair Jose Nunes ; ELIANE CASSIA DA CRUZ
+Roubo ; 0001357-26.2022.8.26.0040 ; None ; None ; Reabilitado ; Paulo Carneiro da Silva ; Daniel Romano Soares
+Roubo ; 0005692-21.2015.8.26.0659 ; Não definido ; Absolvido ; Absolvido ; Luciano Soares Guimarães ; Fábio Marcelo Holanda
+Roubo ; 0009300-76.2016.8.26.0114 ; 4 anos e 8 meses de reclusão e 11 dias-multa ; 6 anos, 10 meses e 28 dias de reclusão e 14 dias-multa ; Condenado ; Wellington Fernando Emke ; LISSANDRA REIS CECCON
+Roubo ; 0005875-30.2016.8.26.0635 ; Não definido ; Extinta a punibilidade da pena de multa ; Extinta a punibilidade da pena de multa ; Ronaldo de Sena Pansonato ; EVA LOBO CHAIB DIAS JORGE
+Roubo ; 0001360-88.2015.8.26.0116 ; 24 anos de reclusão e 10 dias-multa ; 12 anos de reclusão e 5 dias-multa ; Condenado ; DIEGO LIMA FEITOR ; Mateus Veloso Rodrigues Filho
+Roubo ; 0001121-11.2018.8.26.0268 ; Não definido ; Absolvido ; Absolvido ; Rafael Gonçalves Oliveira ; Fernando Augusto Andrade Conceição
+Roubo ; 0001615-29.2017.8.26.0099 ; Não definido ; Absolvido ; Absolvido ; GUSTAVO BUENO DE SOUZA ; Laércio José Mendes Ferreira Filho
+Roubo ; 0009036-45.2016.8.26.0248 ; Não definido ; Absolvido ; Absolvido ; OSWALDO HENRIQUE DA COSTA BOTELHO ; JOSE EDUARDO DA COSTA
+Roubo ; 0002452-06.2017.8.26.0028 ; Não definido ; Absolvido ; Absolvido ; ADRIANO ALVES CARDOSO ; LUCAS GARBOCCI DA MOTTA
+Roubo ; 0002909-60.2016.8.26.0323 ; 5 anos e 12 dias-multa ; 9 anos, 7 meses e 15 dias de reclusão e 22 dias-multa ; Condenado ; CARLOS MATHEUS ALVES DA DA SILVA ; Daniel Otero Pereira da Costa
+Roubo ; 0006706-63.2015.8.26.0037 ; Não definido ; Absolvido ; Absolvido ; ELIAS VITOR NASCIMENTO PEREIRA ; Roberto Raineri Simão
+Roubo ; 0014699-89.2012.8.26.0223 ; 4 anos e 8 meses de reclusão e 11 dias multa ; 7 anos, 3 meses e 3 dias de reclusão e 16 dias-multa ; condenado ; Julio Cesar Lima de Menezes ; André Rossi
+Roubo ; 0000598-39.2014.8.26.0300 ; 4 anos de reclusão e pagamento de 10 dias-multa ; 6 anos de reclusão e pagamento de 15 dias-multa ; condenado ; LARISSA PEREIRA GOULART ; Joice Sofiati Salgado
+Roubo ; 0000060-45.2019.8.26.0571 ; 4 anos e 8 meses de reclusão e pagamento de 12 dias-multa ; 8 anos de reclusão e pagamento de 21 dias-multa ; condenado ; ALINE LEME PINTO ; DIOGO DA SILVA CASTRO
+Roubo ; 0000060-45.2019.8.26.0571 ; 4 anos de reclusão e pagamento de 10 dias-multa ; 6 anos de reclusão e pagamento de 15 dias-multa ; condenado ; PEDRO HENRIQUE SILVA DE OLIVEIRA ; DIOGO DA SILVA CASTRO
+Roubo ; 0001083-30.2022.8.26.0471 ; 4 anos e 08 meses de reclusão e ao pagamento de 11 dias-multa ; 12 anos, 01 mês e 05 dias de reclusão e ao pagamento de 26 dias-multa ; condenado ; Cristoffer Ribeiro de Jesus ; Ana Cristina Paz Neri Vignola
+Roubo ; 0008034-06.2008.8.26.0156 ; 2 anos de reclusão, regime inicial fechado, e ao pagamento de 06  dias-multa ; Pena de multa extinta ; Pena de multa extinta ; William de Oliveira Ferreira ; Claudionor Antonio Contri Junior
+Roubo ; 0011820-26.2012.8.26.0477 ; None ; None ; extinta a punibilidade ; Renato Cardoso Lino ; Antonio Carlos Costa Pessoa Martins
+Roubo ; 0013427-10.2009.8.26.0597 ; 6 anos de reclusão e no pagamento de 15 dias-multa ; 8 anos e 06 meses de reclusão e pagamento de 21 dias-multa ; condenado ; Marcelo Santana Fernandes ; Angel Tomas Castroviejo
+Roubo ; 0008457-15.2001.8.26.0510 ; 4 anos e 08 meses de reclusão e pagamento de 11 dias-multa ; 7 anos, 03 meses e 03 dias de reclusão e pagamento de 16 dias-multa ; absolvido ; Mauro Ferreira ; MARCELA MACHADO MARTINIANO
+Roubo ; 0006174-45.2018.8.26.0050 ; 04 anos, 09 meses e 18 dias de reclusão e pagamento de 12 dias-multa ; 18 anos, 04 meses e 08 dias de reclusão e pagamento de 36 dias-multa ; condenado ; LUCELIO BARBOSA DA SILVA ; Ana Claudia dos Santos Sillas
+Extorsão ; 0006174-45.2018.8.26.0050 ; 07 anos de reclusão, e ao pagamento de 11 dias-multa ; 18 anos, 04 meses e 08 dias de reclusão e pagamento de 36 dias-multa ; condenado ; LUCELIO BARBOSA DA SILVA ; Ana Claudia dos Santos Sillas
+Roubo ; 0002946-25.2006.8.26.0069 ; 04 (quatro) anos e 08 (oito) meses de reclusão e pagamento de 11 (onze) dias-multa ; 07 (sete) anos, 03 (três) meses e 03 (três) dias de reclusão e pagamento de 16 (dezesseis) dias-multa ; condenado ; José Ednaldo Tenório de Miranda ; Arthur Lutiheri Baptista Nespoli
+Roubo ; 0005059-22.2007.8.26.0099 ; N/A ; N/A ; Extinta a punibilidade pela prescrição ; Osvaldo Vieira de Souza Filho ; Nicole de Almeida Campos Leite Colombini
+Roubo ; 0001281-59.2014.8.26.0435 ; N/A ; Extinta a pena de multa ; Extinta a pena de multa pelo integral cumprimento. ; Luiz Carlos Farinacio Junior ; IOHANA FRIZZARINI EXPOSITO
+Roubo ; 0000216-22.2014.8.26.0405 ; N/A ; Extinta a punibilidade em relação às penas de multa ; Extinta a punibilidade em relação às penas de multa ; VANESSA MONICA MOTA e ROGÉRIO JOSÉ DE OLIVEIRA ; Ana Paula Achoa Mezher
+Roubo ; 0001149-16.2021.8.26.0642 ; 4 anos de reclusão e 10 dias multa ; 9 anos e 26 dias de reclusão, e 21 dias multa ; Condenado ; WEYDER PAULO CARDOSO ; Diogo Volpe Gonçalves Soares
+Roubo ; 0002735-83.2022.8.26.0309 ; 4 anos de reclusão e 10 dias-multa ; 5 anos e 4 meses de reclusão e 13 dias-multa ; Condenado ; SAMUEL ALVES DA SILVA ; MAURICIO GARIBE
+Roubo ; 0000342-49.2013.8.26.0424 ; N/A ; N/A ; Absolvido ; Sergio de Jesus da Cruz ; ANDRE GOMES DO NASCIMENTO
+Roubo ; 0000906-73.2022.8.26.0404 ; Roubo: 4 anos e 8 meses de reclusão e 12 dias-multa. Latrocínio: 23 anos e 4 meses de reclusão e 12 dias-multa ; 22 anos e 8 meses de reclusão, e 69 dias-multa ; Condenado ; ALEF MARTINS LOPES ; CLOVIS HUMBERTO LOURENCO JUNIOR
+Roubo ; 0003804-30.2017.8.26.0050 ; N/A ; N/A ; Absolvido ; LUCAS DOS SANTOS GOMES ; FABIOLA OLIVEIRA SILVA
+Roubo ; 0001375-51.2012.8.26.0152 ; 7 anos, 5 meses e 25 dias de reclusão, e 16 dias-multa ; 14 anos, 11 meses e 20 dias de reclusão, e 32 dias-multa ; Condenado ; Frank Cruz Nogueira ; DJALMA MOREIRA GOMES JUNIOR
+Roubo ; 0001287-67.2017.8.26.0045 ; N/A ; N/A ; Absolvido ; CLAYTON HENRIQUE DO CARMO TEIXEIRA  SOUSA ; NAIRA BLANCO MACHADO
+Roubo ; 0003103-30.2021.8.26.0050 ; 4 anos de reclusão e 10 dias-multa ; 5 anos e 4 meses de reclusão e 13 dias-multa ; Condenado ; MATEUS BATISTA ; Ana Claudia dos Santos Sillas
+Roubo ; 0010581-22.2017.8.26.0635 ; 2 anos de reclusão e 5 dias-multa ; Extinta a punibilidade pela ocorrência da prescrição da pretensão punitiva ; Extinta a punibilidade ; JUAN CAMILO CASTANO OSPINA ; Waldir Calciolari
+Roubo ; 0015539-80.2018.8.26.0032 ; None ; Absolvido ; Absolvido ; BRUCY NICOLAS SIMÃO NAGY ; DANILO BRAIT
+Roubo ; 0007071-47.2010.8.26.0505 ; None ; Absolvido ; Absolvido ; Leonardo de Oliveira Silva ; DANNIEL ADRIANO ARALDI MARTINS
+Roubo ; 0002010-80.2015.8.26.0587 ; None ; Absolvido ; Absolvido ; IGOR TEIXEIRA DOS SANTOS ; GLAUCIA FERNANDES PAIVA
+Roubo ; 0006076-94.2017.8.26.0050 ; None ; Absolvido ; Absolvido ; ANTONIO DOMICIANO PEREIRA NETO ; Eliana Cassales Tosi Bastos
+Roubo ; 0010573-20.2018.8.26.0050 ; 4 anos e 8 meses de reclusão e 11 dias-multa ; 10 anos, 10 meses e 20 dias de reclusão e pagamento de 25 dias-multa ; Condenado ; JACKSON DA SILVA FERREIRA ; ROBERTA HALLAGE GONDIM TEIXEIRA
+Roubo ; 0009553-49.2015.8.26.0292 ; None ; Extinta a punibilidade pela prescrição ; Extinta a punibilidade ; HENRIQUE LOPES DE OLIVEIRA ; MARCOS AUGUSTO BARBOSA DOS REIS
+Roubo ; 0011437-21.2018.8.26.0224 ; 4 anos de reclusão e 10 dias-multa ; 5 anos e 6 meses de reclusão e 13 dias-multa ; Condenado ; KAUAM BERNARDO DE ANDRADE ; Glaucio Roberto Brittes de Araujo
+Roubo ; 0011437-21.2018.8.26.0224 ; 4 anos e 8 meses de reclusão e 11 dias-multa ; 7 anos, 5 meses e 25 dias de reclusão e 16 dias-multa ; Condenado ; CARLOS REZENDE BASÍLIO ; Glaucio Roberto Brittes de Araujo
+Receptação ; 0011437-21.2018.8.26.0224 ; None ; Absolvida ; Absolvida ; LUCIA NUNES PIMENTEL ; Glaucio Roberto Brittes de Araujo
+Receptação ; 0011437-21.2018.8.26.0224 ; None ; Absolvida ; Absolvida ; FRANÇOISE PINELLI DA SILVA ; Glaucio Roberto Brittes de Araujo
+Roubo ; 0000648-26.2021.8.26.0169 ; 4 anos de reclusão e 10 dias-multa ; 8 anos de reclusão e 20 dias-multa ; Condenado ; JOÃO LENON FERREIRA DE SOUZA ; Luciano Siqueira de Pretto
+Roubo ; 0000665-56.2020.8.26.0441 ; 4 anos de reclusão e 10 dias-multa ; 6 anos e 4 meses de reclusão e 13 dias multa ; Danilo e Matheus foram condenados, Wladimir foi absolvido ; DANILO DOS SANTOS BATISTA, MATHEUS COSTAL BUCANAS e WLADIMIR DA CONCEIÇÃO ; Danielle Camara Takahashi Cosentino Grandinetti
+Roubo ; 0001720-94.2018.8.26.0220 ; 4 anos de reclusão e 10 dias-multa para Mateus e 4 anos e 8 meses de reclusão e 11 dias-multa para Yan ; 5 anos, 7 meses e  6 dias de reclusão, e  14 dias-multa para Mateus e 7 anos,  7 meses e 14 dias, e  16 dias-multa para Yan ; Condenados ; YAN ESTEVÃO DE OLIVEIRA e MATEUS DE FREITAS TEODORO ; Maria Isabella Carvalhal Esposito Braga
+Roubo ; 0015413-34.2022.8.26.0050 ; 5 anos de reclusão e  12 dias-multa ; 8 anos e 7 dias de reclusão, e ao pagamento de   19 dias-multa ; Condenado ; JORGE ASSNAR KIKUMOTO ; Sirley Claus Prado Tonello
+Roubo ; 0000204-63.2016.8.26.0655 ; Não foi definida, pois o réu foi absolvido. ; Absolvido ; Absolvido ; FABIO CAVALCANTE DA SILVA ; Flávia Cristina Campos Luders
+Roubo ; 0005496-76.2015.8.26.0101 ; 4 anos de reclusão, além de 10 dias-multa ; 06 (seis) anos de reclusão, além de 15 dias-multa ; Condenado ; MARCOS VINICIUS ANDRADE DOS SANTOS ; Gustavo de Campos Machado
+Roubo ; 0003625-47.2014.8.26.0068 ; Não foi definida, pois o réu foi absolvido. ; Absolvido ; Absolvido ; Marcos Rogério Francino ; Fabio Calheiros do Nascimento
+Roubo ; 0000596-78.2020.8.26.0229 ; 7 (sete) anos e 8 (oito) meses de reclusão e pagamento de 15 (quinze) dias-multa ; 6 (seis) anos e 5 (cinco) meses de reclusão e pagamento de 12 (doze) dias-multa ; Condenado ; MALCY TEIXEIRA CHAVES ; LEONARDO DELFINO
+Roubo ; 0008892-11.2018.8.26.0019 ; quatro anos de reclusão e dez dias-multa ; 06 (seis) anos, 02 (dois) meses e 20 (vinte) dias de reclusão e 14 (catorze) dias-multa ; Condenado ; MATHEUS EDUARDO BENEDICTO ; EUGENIO AUGUSTO CLEMENTI JUNIOR
+Roubo ; 0010258-86.2003.8.26.0318 ; 04 (quatro) anos de reclusão e pagamento de 10 (dez) dias-multa ; 05 (cinco) anos e 08 (oito) meses de reclusão e pagamento de 14 (catorze) dias-multa ; Condenado ; Sidnei Fernandes da Silva ; FELIPE CAVASSO
+Roubo ; 0004887-03.2022.8.26.0278 ; 26 (vinte e seis) anos e 8 (oito) meses de reclusão e 13 (treze) dias-multa ; 22 (vinte e dois) anos, 3 (três) meses e 20 (vinte) dias de reclusão e 11 (onze) dias-multa ; Condenado por latrocínio ; ALEXANDRE ALCANTARA DA SILVA ; ÉRICA PEREIRA DE SOUSA
+Roubo ; 0001531-60.2018.8.26.0659 ; None ; None ; Absolvido ; William Rodrigues Froes ; Fábio Marcelo Holanda
+Roubo ; 0003798-62.2021.8.26.0606 ; 4 anos de reclusão e 10 dias-multa ; 8 anos e 4 meses de reclusão e 20 dias-multa ; Condenado ; Jonas Magalhães de Almeida Junior ; FERNANDO OLIVEIRA CAMARGO
+Roubo ; 0005316-59.2021.8.26.0292 ; 4 anos e 8 meses de reclusão e 11 dias-multa ; 3 anos, 7 meses e 16 dias de reclusão 7 meses de detenção e 8 dias-multa ; Condenado ; EVANDRO DA SILVA FERREIRA ; FERNANDA AMBROGI
+Roubo ; 0005316-59.2021.8.26.0292 ; 4 anos de reclusão e 10 dias-multa ; 3 anos, 1 mês e 10 dias de reclusão e 7 dias-multa ; Condenado ; CARLOS EDUARDO DA SILVA MOTTA ; FERNANDA AMBROGI
+Roubo ; 0004731-91.2017.8.26.0568 ; None ; None ; Absolvido ; LEONARDO ALVES JÚNIOR ; Elaní Cristina Mendes Marum
+Roubo ; 0001147-24.2018.8.26.0651 ; 4 anos e 8 meses de reclusão e 12 dias multa ; 7 anos e 3 meses de reclusão e 19 dias multa ; Condenado ; ANTONIO FRANCISCO FIGUEIREDO RABELO ; ELISA LEONESI MALUF
+Roubo ; 0004923-70.2018.8.26.0606 ; 4 anos de reclusão e 10 dias-multa ; 5 anos e 4 meses de reclusão e pagamento de 13 dias-multa ; Condenado ; JUAN JESUS DA SILVA QUEIROZ ; FERNANDO OLIVEIRA CAMARGO
+Roubo ; 0007469-59.2018.8.26.0037 ; None ; None ; Absolvido ; Roberto Piccini ; Adriana Albergueti Albano
+Roubo ; 0014222-91.2022.8.26.0554 ; None ; None ; Reabilitado ; Pedro Nunes Junior ; Jarbas Luiz dos Santos
+Roubo ; 0003748-08.2018.8.26.0132 ; 4 anos de reclusão ; 4 anos de reclusão e pagamento de 10 dias-multa ; Condenado ; Cristian Rogério Schimitd ; Sandro Nogueira de Barros Leite
+Roubo ; 0000034-65.2011.8.26.0106 ; 4 anos de reclusão e 10 dias-multa ; 5 anos e 06 meses de reclusão e 13 dias multa ; Condenado ; ADRIANO SANTOS DA SILVA ; Gabriela de Oliveira Thomaze
+Roubo ; 0000034-65.2011.8.26.0106 ; 4 anos de reclusão e 10 dias-multa ; 5 anos e 06 meses de reclusão e 13 dias multa ; Condenado ; CHARLLES CESAR CACULA DOS SANTOS ; Gabriela de Oliveira Thomaze
+Roubo ; 0006143-71.2011.8.26.0405 ; None ; None ; Absolvida ; MARCIA LEMOS DOS SANTOS ; ULISSES AUGUSTO PASCOLATI JUNIOR
+Roubo ; 0009649-16.2015.8.26.0114 ; 4 anos e 8 meses de reclusão e 11 dias-multa ; 6 anos, 2 meses e 20 dias de reclusão e 14 dias-multa ; Condenado ; Gustavo Rodrigues Tavares ; PATRÍCIA SUÁREZ PAE KIM
+Roubo ; 0006197-97.2022.8.26.0228 ; 4 anos de reclusão e 10 dias-multa ; 5 anos e 4 meses de reclusão e 13 dias-multa ; Condenado ; GABRIEL PIRES DOS SANTOS ; Augusto Antonini
+Roubo ; 0001790-68.2017.8.26.0278 ; None ; None ; Absolvidos ; Wellington Santos Pardinho e WILLIAN SILVA BISPO DOS SANTOS ; ERICA PEREIRA DE SOUSA
+Roubo ; 0005555-52.2016.8.26.0126 ; None ; None ; Extinta a punibilidade pela ocorrência da prescrição da pretensão punitiva do Estado ; MICHAEL ARAÚJO DOS SANTOS ; JULIO DA SILVA BRANCHINI
+Roubo ; 0002871-17.2016.8.26.0495 ; None ; None ; Absolvido ; LUIZ CARLOS PEREIRA BARBOSA ; Barbara Donadio Antunes Chinen
+Roubo ; 0006809-41.2017.8.26.0606 ; None ; None ; Absolvido ; José Cícero da Silva ; FERNANDO OLIVEIRA CAMARGO
+Roubo ; 0000265-13.2017.8.26.0323 ; None ; None ; Absolvido ; Lucas Vinicius Ribeiro da Silva ; Daniel Otero Pereira da Costa
+Roubo ; 0000884-66.2021.8.26.0075 ; 5 anos e 4 meses de reclusão, além de 13 dias-multa ; 8 anos, 10 meses e 20 dias de reclusão, além de 22 dias-multa ; Condenado ; Rodrigo da Conceição Silva ; ISABELLA CAROLINA MIRANDA RODRIGUES
+Roubo ; 0000515-25.2016.8.26.0115 ; 9 anos e quatro meses de reclusão e pagamento de treze dias-multa ; sete anos, nove meses e dez dias de reclusão e pagamento de dez dias-multa ; Condenado ; GUSTAVO DOURADO DA SILVA ; Marcel Nai Kai Lee
+Roubo ; 0000181-82.2016.8.26.0505 ; None ; None ; condenação ; DARLAN BISPO NEVES ; TARSILA MACHADO DE SA JUNQUEIRA
+Roubo ; 0011940-67.2021.8.26.0602 ; 05 anos e 04 meses de reclusão ; 07 anos, 01 mês e 10 dias de reclusão ; condenação ; GUILHERME RAFAEL RODRIGUES DIAS ; Margarete Pellizari
+Roubo ; 0005184-33.2020.8.26.0196 ; 04 anos de reclusão e 10 dias-multa ; 05 anos e 04 meses de reclusão e 13 dias-multa ; condenação ; VINICIUS OLIVEIRA BORGES ; Luciano Franchi Lemes
+Roubo ; 0000058-65.2017.8.26.0306 ; 04 (quatro) anos de reclusão e 10 (dez) dias-multa ; 05 (cinco) anos e 4 (quatro) meses de reclusão e 13 (treze) dias-multa ; condenação ; MARCELINO DE SOUZA LOURENÇO ; Natália Berti
+Roubo ; 0002728-83.2016.8.26.0606 ; None ; None ; absolvido ; ALAN ALMEIDA NEVES ; José Eugenio Do Amaral Souza Neto
+Roubo ; 0000636-16.2019.8.26.0352 ; None ; None ; absolvido ; ERIKSON PEREIRA DA SILVA ; DANIEL DIEGO CARRIJO
+Roubo ; 0004892-30.2018.8.26.0451 ; quatro anos de reclusão e dez dias-multa ; cinco anos e seis meses de reclusão e treze dias-multa ; condenação ; DANIEL RICHARD ALVES DA SILVA ; Gisela Ruffo
+Roubo ; 0004892-30.2018.8.26.0451 ; quatro anos de reclusão e dez dias-multa ; seis anos, dez meses e quinze dias de reclusão e dezesseis dias-multa ; condenação ; TIAGO MARQUES DA SILVA ; Gisela Ruffo
+Roubo ; 0000095-32.2014.8.26.0263 ; None ; None ; absolvido ; AILTON DE ANDRADE ; DIOGO DA SILVA CASTRO
+Roubo ; 0000339-09.2014.8.26.0635 ; 4 anos de reclusão e 10 dias-multa para cada roubo ; 8 anos, 1 mês e 10 dias de reclusão e 17 dias-multa ; Condenado ; ERICSON HENRIQUE GARBINI DA SILVA ; Erika Soares de Azevedo Mascarenhas
+Roubo ; 0002260-56.2015.8.26.0315 ; None ; Extinta a punibilidade do réu ; None ; GIOVANE BARATA DE ARRUDA ; ELIANE CRISTINA CINTO
+Roubo ; 0004942-08.2011.8.26.0223 ; 4 anos de reclusão e pagamento de 10 dias-multa ; 6 anos, 2 meses e 20 dias de reclusão e 26 dias-multa ; LARISSON FERNANDES DOS SANTOS CondenadoJOÃO CARLOS DOS SANTOS OLIVEIRA Absolvido ; Larisson Fernandes dos Santos e João Carlos dos Santos Oliveira ; André Rossi
+Roubo ; 0000044-18.2016.8.26.0306 ; LUIS GUILHERME SILVA 04 anos e 08 meses de reclusão e 11 dias-multaYAGO GABRIEL ALVES BARBOSA 01 ano de reclusão e 10 dias-multa ; LUIS GUILHERME SILVA: 08 anos, 05 meses e 18 dias de reclusão e 32 dias-multaYAGO GABRIEL ALVES BARBOSA: 01 ano de reclusão e 10 dias-multa ; Condenado ; YAGO GABRIEL ALVES BARBOSA e LUIS GUILHERME SILVA ; Natália Berti
+Roubo ; 0002341-84.2015.8.26.0127 ; 4 (quatro) anos e 8 (oito) meses de reclusão e pagamento de 11 (onze) dias-multa ; 8 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, e pagamento de 21 (vinte e um) dias-multa ; ERICK CORDEIRO DOS SANTOS Condenado por rouboAbsolvido por adulteração de sinal identificador de veículo  ; ERICK CORDEIRO DOS SANTOS ; Carolina Hispagnol Marchi
+Roubo ; 0002590-64.2015.8.26.0279 ; None ; Absolvido ; Absolvido ; RONALDO HENRIQUE FARIAS DOS SANTOS ; JOCIMAR DAL CHIAVON
+Roubo ; 0000229-32.2022.8.26.0634 ; ANA CRISTINA DE MORAES: 04 (quatro) anos de reclusão e ao pagamento de 12 (dez) dias-multa.WANDERSON APARECIDO REGLOSKI: 05 (cinco) anos e 04 (quatro) meses de reclusão e pagamento de 13 (treze) dias-multa. ; ANA CRISTINA DE MORAES : 07 (sete) anos e 01(um) mês de reclusão, e ao pagamento de 17 (dezessete) dias-multaWANDERSON APARECIDO REGLOSKI: 10 (dez) anos, 08 (oito) meses de reclusão e ao pagamento de 25 (vinte e cinco) dias-multa ; Condenado ; ANA CRISTINA DE MORAES e WANDERSON APARECIDO REGLOSKI ; JULIANA GUIMARAES ORNELLAS
+Roubo ; 0008307-60.2018.8.26.0050 ; 04 (quatro) anos de reclusão e pagamento de 10 (dez) dias-multa ; 05 (cinco) anos e 06 (seis) meses de reclusão e pagamento de 13 (treze) dias-multa ; Condenado ; DOUGLAS MANUEL DOS SANTOS ; Cynthia Maria Sabino Bezerra Camurri
+Roubo ; 0003648-49.2014.8.26.0114 ; 4 (quatro) anos de reclusão e a pena pecuniária de 10 (dez) dias-multa ; 7 (sete) anos, 2 (dois) meses e 12 (doze) dias de reclusão e 18 (dezoito) dias-multa ; Condenado ; RONALDO HENRIQUE LOURENÇO FERREIRA ; PATRÍCIA SUÁREZ PAE KIM
+Roubo ; 0003262-22.2019.8.26.0606 ; 5 anos de reclusão e ao pagamento de 12 dias multa ; 7 anos, 9 meses e 10 dias de reclusão e ao pagamento de 18 dias-multa ; AGNALDO VICTOR DO NASCIMENTO e ROBERTO VICTOR DO NASCIMENTO Condenado ; AGNALDO VICTOR DO NASCIMENTO e ROBERTO VICTOR DO NASCIMENTO ; FERNANDO OLIVEIRA CAMARGO
+Roubo ; 0004374-31.2017.8.26.0045 ; Não encontrado. ; Não encontrado. ; Absolvido ; WESLEY MENDONÇA CALDEIRA BARBOSA ; NAIRA BLANCO MACHADO
+Roubo ; 0002368-63.2016.8.26.0505 ; Não encontrado. ; Não encontrado. ; Não encontrado ; João Guilherme de Lima Campos ; TARSILA MACHADO DE SA JUNQUEIRA
+Roubo ; 0011618-30.2017.8.26.0071 ; Não encontrado. ; Não encontrado. ; Absolvido ; Edgar Soares dos Santos ; Érica Marcelina Cruz
+Roubo ; 0000293-73.2021.8.26.0441 ; Não encontrado. ; 14 anos, 2 meses e 19 dias de reclusão e 42 dias-multa ; Condenado ; LUAN ALVES DE SOUZA ; JOÃO COSTA RIBEIRO NETO
+Roubo ; 0003926-34.2017.8.26.0441 ; 05 (cinco) anos, 05 (cinco) meses e 10 (dez) dias de reclusão e pagamento de 12 (doze) dias-multa ; 01 (um) ano e 04 (quatro) meses de reclusão, em regime inicial fechado, e 03 (três) dias-multa ; Condenado ; Douglas Ferreira Goulart ; ANDERSON JOSÉ BORGES DA MOTA
+Roubo ; 0000235-31.2020.8.26.0627 ; 4 anos de reclusão e 10 dias-multa ; 5 (cinco) anos e 3 (três) meses de reclusão e 13 (treze) dias multa ; Condenado ; KELVIN BEZERRA BATISTA ; LUCAS SILVA BARRETTO
+Roubo ; 0003487-09.2021.8.26.0271 ; 04 (quatro) anos e 06 (seis) meses de reclusão ; 06 (seis) anos de reclusão ; Condenado ; DEBORA ALEXANDRE SILVA ; Udo Wolff Dick Appolo Do Amaral
+Roubo ; 0005768-62.2022.8.26.0477 ; Não encontrado. ; Não encontrado. ; Extinta a punibilidade do beneficiado pelo acordo ; VITOR EZIDIO DE FREITAS ; Antonio Carlos Costa Pessoa Martins
+Roubo ; 0003093-17.2018.8.26.0300 ; Não encontrado. ; Não encontrado. ; Absolvido ; RAMON ÍCARO LEITE ; Mariana Tonoli Angeli
+Roubo ; 0005388-30.2006.8.26.0435 ; Não encontrado. ; Não encontrado. ; Extinta a punibilidade ; Francisco Gilmar de Oliveira Soares ; IOHANA FRIZZARINI EXPOSITO
+Roubo ; 0000273-62.2022.8.26.0404 ; 5 anos e 04 meses de reclusão e pagamento de 13 dias-multa ; 6 anos e 08 meses de reclusão e pagamento de 15 dias-multa ; Condenado ; Márcio Cruz Belletti ; JOÃO PAULO RODRIGUES DA CRUZ
+Roubo ; 0007742-50.2010.8.26.0156 ; 1 ano, 10 meses e 12 dias de reclusão e pagamento de 4 dias-multa ; Pena de multa extinta ; Pena de multa extinta ; Fabio de Oliveira Sales ; Claudionor Antonio Contri Junior
+Roubo ; 0000454-11.2018.8.26.0111 ; Não definido ; Absolvido ; Absolvido ; ELIESER DANIEL LUZ ; Bruna Araújo Capelin Matioli
+Roubo ; 0006770-67.2021.8.26.0068 ; 4 anos e 8 meses de reclusão e 11 dias-multa ; 11 anos e 8 meses de reclusão e 26 dias-multa ; Condenado ; Douglas do Nascimento Pinheiro ; RICARDO VENTURINI BROSCO
+Roubo ; 0001648-98.2017.8.26.0493 ; Roubo: 4 anos e 08 meses de reclusão e 11 dias-multaExtorsão: 4 anos de reclusão e 10 dias-multa ; 14 anos, 01 mês e 16 dias de reclusão, e 32 dias-multa ; Condenado ; ROGÉRIO DOS SANTOS ; MARCEL PANGONI GUERRA
+Roubo ; 0001094-36.2017.8.26.0115 ; Não definido ; Pena de multa extinta ; Pena de multa extinta ; Willyan Ferreira Pereira ; MARCELO HENRIQUE MARIANO
+Roubo ; 0007525-82.2015.8.26.0430 ; Não definido ; Absolvido ; Absolvido ; TIAGO LOPES MARTINS ; LUAN CASAGRANDE
+Roubo ; 0000706-28.2012.8.26.0045 ; 4 anos e 09 meses de reclusão e 11 dias-multa ; 7 anos, 07  e 06 dias de reclusão, cumulada com 15 dias-multa ; Condenado ; BRUNO PAIVA DE OLIVEIRA ; NAIRA BLANCO MACHADO
+Roubo ; 0000757-59.2018.8.26.0035 ; CHRISTOPHER WESLEY FERNANDES: 6 anos e 08 meses de reclusão e 16 dias-multaRODRIGO ALVES CORDEIRO: 6 anos e 08 meses de reclusão e 16 dias-multa ; CHRISTOPHER WESLEY FERNANDES: 08 anos, 10 meses e 20 dias de reclusão e 21 dias-multaRODRIGO ALVES CORDEIRO: 08 anos, 10 meses e 20 dias de reclusão e 21 dias-multa ; Condenado ; CHRISTOPHER WESLEY FERNANDES e RODRIGO ALVES CORDEIRO ; Fabiola Brito do Amaral
+Roubo ; 0009802-03.2022.8.26.0050 ; 4 anos de reclusão e 10 dias-multa ; 06 anos e 08 meses de reclusão e pagamento de 16 dias-multa ; Condenada ; GREICE KELLI NUNES DOS SANTOS ; Margot Chrysostomo Corrêa
+Roubo ; 0005457-75.2019.8.26.0348 ; 4 anos de reclusão e 10 dias-multa ; 5 anos e 4 meses de reclusão e 13 dias-multa ; Condenado ; OZIAS DOMINGOS DOS SANTOS ; SANDRO RAFAEL BARBOSA PACHECO
+Roubo ; 0006260-97.2004.8.26.0505 ; None ; None ; Extinta a Punibilidade ; Jamerson Henrique Ferreira Leite ; JULIANA MARIA MACCARI GONÇALVES
+Roubo ; 0009182-66.2017.8.26.0405 ; 4 anos de reclusão e 10 dias-multa ; 5 anos e 6 meses de reclusão e 13 dias-multa para o roubo e 8 anos e 3 meses de reclusão e 13 dias-multa para a extorsão ; Condenado ; MARCELO BATISTA FEITOZA ; MARCIA DE MELLO ALCOFORADO HERRERO
+Roubo ; 0001049-91.2015.8.26.0506 ; 4 anos de reclusão e 10 dias-multa ; 5 anos e 6 meses de reclusão e 13 dias-multa ; Condenado ; Vinicius Rocha Pontes e William Robertson Goulart de Oliveira ; Vanessa Aparecida Pereira Barbosa
+Roubo ; 0001347-45.2022.8.26.0019 ; 20 anos de reclusão ; 28 anos de reclusão e 12 dias-multa ; Condenado ; WILLIAM RICARDO PEREIRA SEMIÃO ; Wendell Lopes Barbosa de Souza
+Roubo ; 0000685-91.2022.8.26.0242 ; 4 anos de reclusão e 10 dias-multa ; 14 anos e 26 dias de reclusão e 30 dias-multa ; Condenado ; Maicon Douglas de Sousa Oliveira ; PEDRO HENRIQUE BICALHO CARVALHO
+Roubo ; 0004488-26.2016.8.26.0361 ; None ; None ; A ação penal é procedente, mas a sentença não foi finalizada para todos os réus. ; DANILO LAMEU, REINALDO DE ÁVILA JÚNIOR, LUIZ ANTÔNIO DA CUNHA JÚNIOR, LUIZ ANTÔNIO DE ARAÚJO e JONAS SIMÕES ANTÔNIO ; Tatiana Saes Valverde Ormeleze
+Roubo ; 0000455-12.2021.8.26.0201 ; 4 anos de reclusão e 10 dias-multa ; 2 anos, 5 meses e 1 dia de reclusão e 5 dias-multa ; Condenado ; ROBERTO GALDINO DE CARVALHO JUNIOR ; JAMIL ROS SABBAG
+Roubo ; 0003026-70.2018.8.26.0197 ; None ; None ; Absolvido ; JEFFERSON FERREIRA DE JESUS ; RODRIGO MARCOS DE ALMEIDA GERALDES
+Roubo ; 0001017-73.2011.8.26.0394 ; 4 anos de reclusão e 10 dias-multa ; 5 anos e 8 meses de reclusão e 14 dias-multa ; Condenado ; Joel Alves da Cruz Junior ; GUILHERME SOUZA LIMA AZEVEDO
+Roubo ; 0001742-32.1994.8.26.0338 ; Extinta a punibilidade ; Extinta a punibilidade ; Absolvido ; ANTONIO FRANCISCO DE ARAUJO ; SANDRO CAVALCANTI ROLLO
+Roubo ; 0001807-88.2017.8.26.0542 ; Extinta a punibilidade ; Extinta a punibilidade ; Absolvido ; GUSTAVO MOREIRA DE PINHO ; DANIELLE MARTINS CARDOSO
+Roubo ; 0009437-02.2016.8.26.0068 ; 9 anos, 04 meses e 06 dias de reclusão, e 111 dias-multa ; 9 anos, 04 meses e 06 dias de reclusão, e 111 dias-multa ; Condenado ; BRUNO CABRAL PIRES ; FABIO MARTINS MARSIGLIO
+Roubo ; 0009437-02.2016.8.26.0068 ; 8 anos, 09 meses e 18 dias de reclusão, e 104 dias-multa ; 8 anos, 09 meses e 18 dias de reclusão, e 104 dias-multa ; Condenado ; FELIPE MAXIMIANO TEODOSIO DA SILVA ; FABIO MARTINS MARSIGLIO
+Roubo ; 0009437-02.2016.8.26.0068 ; 09 anos, 07 meses e 15 dias de reclusão e 115 dias-multa ; 09 anos, 07 meses e 15 dias de reclusão e 115 dias-multa ; Condenado ; PATRICK MAICK DOS SANTOS ; FABIO MARTINS MARSIGLIO
+Roubo ; 0001329-09.2016.8.26.0286 ; 06 (seis) anos de reclusão, além de 15 (quinze) dias-multa ; 07 (sete) anos de reclusão, além de 15 (quinze) dias-multa ; Condenado ; GABRIEL DOS SANTOS SOUZA ; Andrea Ribeiro Borges
+Roubo ; 0008153-27.2009.8.26.0642 ; Extinta a punibilidade ; Extinta a punibilidade ; Absolvido ; LUIZ CLAUDIO VENÂNCIO DA SILVA ; ISABELLA CAROLINA MIRANDA RODRIGUES
+Roubo ; 0003009-29.2022.8.26.0606 ; Extinta a punibilidade ; Extinta a punibilidade ; Reabilitado ; EDISON CARDOSO PACHECO ; José Eugenio Do Amaral Souza Neto
+Roubo ; 0005057-52.2016.8.26.0191 ; Extinta a punibilidade ; Extinta a punibilidade ; Absolvido ; Maicon Nogueira da Silva ; FERNANDO AWENSZTERN PAVLOVSKY
+Roubo ; 0005057-52.2016.8.26.0191 ; Extinta a punibilidade ; Extinta a punibilidade ; Extinta a punibilidade ; Felipe Araújo Moraes ; FERNANDO AWENSZTERN PAVLOVSKY
+Roubo ; 0005057-52.2016.8.26.0191 ; Extinta a punibilidade ; Extinta a punibilidade ; Extinta a punibilidade ; William Fernandes Ramos da Silva ; FERNANDO AWENSZTERN PAVLOVSKY
+Roubo ; 0003034-97.2014.8.26.0161 ; Extinta a punibilidade ; Extinta a punibilidade ; Extinta a punibilidade ; Diego Teixeira dos Santos ; Maria da Conceição Pinto Vendeiro
+Roubo ; 0014150-28.2002.8.26.0127 ; Extinta a pena de multa ; Extinta a pena de multa ; Extinta a pena de multa ; NILTO CARDOSO DO NASCIMENTO ; Carolina Hispagnol Marchi
+Roubo ; 0002173-02.2017.8.26.0616 ; Extinta a punibilidade ; Extinta a punibilidade ; Extinta a punibilidade ; Rafael Bonifácio dos Santos ; ERICA PEREIRA DE SOUSA
+Roubo ; 0001900-87.2008.8.26.0050 ; 6 anos 02 meses e 20 dias de reclusão ; Reabilitação Criminal ; Reabilitado ; Wellington Ballet Miguel ; Margot Chrysostomo Corrêa
+Roubo ; 0002681-03.2017.8.26.0242 ; None ; Absolvição ; Absolvido ; Elton Oliveira Silva ; Pedro Henrique Bicalho Carvalho
+Roubo ; 0007456-26.2011.8.26.0063 ; 4 anos e 8 meses de reclusão e 11 dias-multa ; 6 anos, 4 meses e 24 dias de reclusão e 15 dias-multa ; Condenado ; Renato Henrique de Souza ; CERES DE OLIVEIRA DANCKWARDT
+Roubo ; 0009015-70.2010.8.26.0445 ; 4 anos e 08 meses de reclusão, além do pagamento de 11 dias-multa ; 4 anos e 08 meses de reclusão, além do pagamento de 11 dias-multa ; Condenado ; Jefferson Alves da Silva ; FELIPE ESTEVAO DE MELO GONCALVES
+Roubo ; 0004020-49.2015.8.26.0506 ; None ; Absolvição ; Absolvido ; Lucas Victor da Silva Bento ; CAROLINA MOREIRA GAMA
+Roubo ; 0002709-68.2018.8.26.0457 ; 4 anos e 8 meses de reclusão, e pagamento de 12 dias-multa ; 7 anos de reclusão e pagamento de 18 dias-multa ; Condenada ; Tamiris de Meneses Bacarin ; Rafael Pinheiro Guarisco
+Roubo ; 0008541-38.2015.8.26.0635 ; 02 anos e 08 meses de reclusão ; Reabilitação Criminal ; Reabilitado ; HUDSON SPROVIERI ; LETICIA DE ASSIS BRUNING
+Roubo ; 0015037-82.2015.8.26.0506 ; 4 anos de reclusão e ao pagamento de 11 dias-multa ; 8 anos, 8 meses e 24 dias de reclusão e ao pagamento de 18 dias-multa ; Condenado ; MARCIO LEANDRO MAGALINI ; Vanessa Aparecida Pereira Barbosa
+Roubo ; 0013755-19.2015.8.26.0050 ; 23 anos e 04 meses de reclusão e pagamento de 11 dias-multa ; 10 anos de reclusão e pagamento de 05 dias-multa ; Condenado ; ARTHUR CIRQUEIRA BARBOSA ; Valéria Longobardi
+Roubo ; 0004342-69.2020.8.26.0223 ; 4 (quatro) anos de reclusão e 10 (dez) dias-multa ; 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão e 15 (quinze) dias-multa, e 03 (três) meses de detenção ; Condenado ; RUAN GOMES DOS SANTOS ; Denise Gomes Bezerra Mota
+Roubo ; 0007715-03.2020.8.26.0161 ; 4 anos de reclusão e 10 dias-multa ; 7 anos, 2 meses e 12 dias de reclusão, em regime inicial fechado, e 18 dias-multa ; Condenado ; RODNEI DA SILVA RIBEIRO ; MARIA LUIZA DE ALMEIDA TORRES VILHENA
+Roubo ; 0001215-61.2014.8.26.0635 ; 4 anos, 9 meses e 18 dias de reclusão e 12 dias-multa ; 6 anos, 4 meses e 24 dias de reclusão, em regime inicial fechado, e 16 dias-multa ; Condenado ; JOSE RICARDO RODRIGUES DOS SANTOS ; VICENTE LUIZ ADUA
+Roubo ; 0000493-98.2018.8.26.0372 ; None ; None ; Absolvido ; JOSÉ APARECIDO MAGALHÃES, PAULO FRANCISCO GOMES e EVERTON DA SILVA PEREIRA ; Rafael Imbrunito Flores
+Roubo ; 0001333-95.2017.8.26.0323 ; 5 anos de reclusão e 12 dias-multa ; 8 anos e 7 dias de reclusão, em regime inicial fechado, e 19 dias-multa ; Condenado ; MICHAEL ANTONIO RIBEIRO ; Daniel Otero Pereira da Costa
+Roubo ; 0010048-63.1998.8.26.0624 ; None ; 5 anos, 5 meses e 10 dias de reclusão ; Extinta a Punibilidade ; RUI CUNHA ARAUJO ; MARIANA TEIXEIRA SALVIANO DA ROCHA
+Roubo ; 0008356-06.2006.8.26.0541 ; None ; None ; Extinta a Punibilidade ; Cristiano Rocha da Silva ; MARCOS HIDEAKI SATO
+Roubo ; 0003540-13.2016.8.26.0223 ; 4 anos e 6 meses de reclusão e 11 dias multa (Valmir)4 anos e 8 meses de reclusão e 11 dias multa (Jonathan) ; 5 anos e 4 meses de reclusão e pagamento de 13 dias-multa ; Condenado ; JONATHAN ALVES DE LIRA e VALMIR GOULART DE FRANÇA JÚNIOR ; THOMAZ CORREA FARQUI
+Roubo ; 0000397-49.2018.8.26.0642 ; None ; None ; Absolvido ; Maiconli Santos Moraes e ANDERSON CORREIA DE SOUZA ; ISABELLA CAROLINA MIRANDA RODRIGUES
+Roubo ; 0000581-37.2014.8.26.0224 ; None ; 2 anos de reclusão, em regime inicial ABERTO, e ao pagamento de 5 dias-multa ; Extinta a Punibilidade ; Antelme Bezerra Cavalcante ; PRISCILA DEVECHI FERRAZ MAIA
+Roubo ; 0006127-41.2022.8.26.0047 ; 5 anos e 4 meses de reclusão e pagamento de 13 dias-multa ; 9 anos, 5 meses e 23 dias de reclusão, no regime inicial fechado, e pagamento de 22 dias-multa ; Condenado ; ARMANDO MACIEL NETO ; Arnaldo Luiz Zasso Valderrama
+Roubo ; 0007330-19.2013.8.26.0220 ; None ; None ; A ação penal é parcialmente procedente. ; Leandro Ferreira ; Daniel Otero Pereira da Costa
+Roubo ; 0012535-80.2018.8.26.0405 ; None ; None ; JULGO IMPROCEDENTE a presente ação penal ; YURI SGURSKY MESSINA ; Gisele de Castro Catapano
+Roubo ; 0000026-32.2016.8.26.0068 ; 1 a 4 anos de reclusão, e multa. ; 1 ano de detenção ; JULGO PARCIALMENTE PROCEDENTE a pretensão punitiva ; Paula Telles Prado ; Fabio Calheiros do Nascimento
+Roubo ; 0016106-62.2016.8.26.0071 ; None ; None ; JULGO IMPROCEDENTE a presente ação penal ; ALISON GUSTAVO DO NASCIMENTO ; Marina Freire
+Roubo ; 0001520-91.2016.8.26.0306 ; 01 ano de reclusão e 10 dias-multa ; 01 ano de reclusão e 10 dias-multa ; JULGO PARCIALMENTE PROCEDENTE a pretensão punitiva apresentada na denúncia ; JOÃO VITOR DE SOUZA ; Natália Berti
+Roubo ; 0002142-34.2016.8.26.0319 ; QUATRO ANOS DE RECLUSÃO ; SEIS ANOS, DOIS MESES E VINTE DIAS DE RECLUSÃO e QUATORZE DIAS-MULTA ; PROCEDE EM PARTE a pretensão punitiva estatal deduzida na denúncia ; Eduardo Henrique da Silva Chaves ; Mario Ramos dos Santos
+Roubo ; 0008057-86.2016.8.26.0635 ; 4 (quatro) anos e 8 (oito) meses de reclusão ; 07 (sete) anos e 03 (três) meses 03 (três) dias de reclusão, em regime inicial fechado, e 18 (quinze) dias-multa, no valor unitário mínimo ; JULGO PROCEDENTE o pedido condenatório ; JOÃO PAULO SOTTO DO AMARAL ; CLAUDIA GUIMARAES DOS SANTOS
+Roubo ; 0000718-18.2017.8.26.0352 ; None ; None ; DECLARO EXTINTA a pena de multa aplicada ao sentenciado ; Bruno Pereira Fagundes ; ELISA LEONESI MALUF
+Roubo ; 0000077-24.2022.8.26.0071 ; 4 (quatro) anos de reclusão e 10 (dez) diárias ; 3 (três) anos, 6 (seis) meses e 20 (vinte) dias de reclusão e 8 (oito) dias-multa ; julgo PROCEDENTE a ação penal e CONDENO ; UESLEI CAPORALINI SAMPAIO ; Érica Marcelina Cruz
+Roubo ; 0002501-15.2015.8.26.0223 ; None ; None ; JULGO IMPROCEDENTE a ação e ABSOLVO ; Luiz Felipe Lira de Oliveira ; André Rossi
+Roubo ; 0004023-86.2016.8.26.0338 ; 4 anos e 06 meses de reclusão, e 11 dias-multa ; 7 anos de reclusão e 16 dias-multa ; Condenado ; Eduardo Luis Bem Rocha ; Daniela Aoki de Andrade Maria Orlandi
+Roubo ; 0000843-19.2016.8.26.0223 ; quatro anos e oito meses de reclusão e pagamento de onze dias-multa ; cinco anos, cinco meses e dez dias de reclusão e doze dias multa ; Condenado ; SERGIO MARTINS DE OLIVEIRA ; André Rossi
+Roubo ; 0004024-76.2011.8.26.0587 ; 04 (quatro) anos e 08 (oito) meses de reclusão e pagamento de 11 (onze) dias-multa ; 06 (seis) anos, 02 (dois) meses e 20 (vinte) dias de reclusão e pagamento de 14 (catorze) dias-multa ; Condenado ; Guilherme Arante da Silva ; GLAUCIA FERNANDES PAIVA
+Roubo ; 0001463-55.2021.8.26.0417 ; 7 anos de reclusão ; 11 anos e 8 meses de reclusão ; Condenado ; WANDERLEY LUIZ DE SOUZA JÚNIOR ; ALINE AMARAL DA SILVA
+Roubo ; 0001463-55.2021.8.26.0417 ; 7 anos de reclusão ; 9 anos, 8 meses e 20 dias de reclusão ; Condenado ; ROTIL CAVALCANTE DE SOUZA CRUZ ; ALINE AMARAL DA SILVA
+Roubo ; 0001463-55.2021.8.26.0417 ; None ; None ; Absolvido ; CLÁUDIO JHONATA CAMILLO ; ALINE AMARAL DA SILVA
+Roubo ; 0000627-41.2016.8.26.0358 ; None ; None ; Absolvido ; PAULO HENRIQUE LUCAS DA SILVA DOS SANTOS ; ANDRÉ DA FONSECA TAVARES
+Roubo ; 0000406-32.2021.8.26.0116 ; None ; None ; Condenado ; IZAQUE SOUZA BRAGA ; Mateus Veloso Rodrigues Filho
+Roubo ; 0000406-32.2021.8.26.0116 ; None ; None ; Condenado ; ALESSANDRO RIBEIRO COSTA ; Mateus Veloso Rodrigues Filho
+Roubo ; 0000207-73.2018.8.26.0420 ; 04 (quatro) anos de reclusão, mais pagamento de 11 (onze) dias-multa ; 9 (nove) anos, 2 (dois) meses e 7 (sete) dias de reclusão e pagamento de 21 (vinte e um) dias-multa ; Condenado ; DENIS HENRIQUE DO NASCIMENTO ; DIOGO DA SILVA CASTRO
+Roubo ; 0000277-92.2022.8.26.0471 ; 4 (quatro) anos de reclusão e 10 (dez) dias multa ; 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão e 18 (dezoito) dias multa ; Condenado ; GERSIANO PEDRO DA SILVA ; JORGE PANSERINI
+Roubo ; 0000124-17.2016.8.26.0068 ; 4 anos de reclusão ; 5 anos e 4 meses de reclusão ; Condenado ; EDER LOPES DA SILVA ; Fabio Calheiros do Nascimento
+Roubo ; 0001168-24.2015.8.26.0095 ; 4 anos e 8 meses de reclusão e 11 dias-multa ; 8 anos, 2 meses de reclusão e 18 dias-multa ; Condenado ; ADÃO ALVES DO NASCIMENTO ; MARCELA MACHADO MARTINIANO
+Roubo ; 0001168-24.2015.8.26.0095 ; None ; None ; Absolvido ; BRUNA DOS SANTOS RUBIA ; MARCELA MACHADO MARTINIANO
+Roubo ; 0001168-24.2015.8.26.0095 ; None ; None ; Absolvido ; CÉLIO MENDES DOS SANTOS JÚNIOR ; MARCELA MACHADO MARTINIANO
+Roubo ; 0001168-24.2015.8.26.0095 ; None ; None ; Absolvido ; DONIZETE CLAUDINEI CAVINA ; MARCELA MACHADO MARTINIANO
+Roubo ; 0001168-24.2015.8.26.0095 ; None ; None ; Absolvido ; MICHEL RÚBIA DE TOLEDO ; MARCELA MACHADO MARTINIANO
+Roubo ; 0016109-17.2016.8.26.0071 ; Não definido na sentença ; Absolvido ; Absolvido ; MAURÍCIO BERNARDO PEREIRA ; Fábio Correia Bonini
+Roubo ; 0008649-18.2017.8.26.0176 ; 4 anos de reclusão e 10 dias-multa ; 5 anos e 04 meses de reclusão e 13 dias-multa para roubo, extinta a punibilidade para corrupção de menores ; Condenado por roubo, extinta a punibilidade para corrupção de menores ; Vitor Alexandre Silva Cavalcante ; Gustavo de Azevedo Marchi
+Roubo ; 0000775-05.2018.8.26.0060 ; 1 ano de reclusão e 10 dias-multa para apropriação indébita, 4 anos de reclusão e 10 dias-multa para roubo majorado ; 1 ano e 03 meses de reclusão e 12 dias-multa para apropriação indébita, 8 anos e 04 meses de reclusão e 20 dias-multa para roubo majorado, totalizando 9 anos e 07 meses de reclusão e 32 dias-multa em concurso material ; Condenado ; Jefferson da Silva Fontes ; Alexandre Yuri Kiataqui
+Roubo ; 0002888-66.2018.8.26.0565 ; Não definido na sentença ; Absolvido ; Absolvido ; Daniel de Oliveira Fernandez ; Jarbas Luiz dos Santos
+Roubo ; 0004177-03.2008.8.26.0624 ; Não definido na sentença ; Extinta a punibilidade de ED CARLOS ANDRINO por falecimento. ; Extinta a punibilidade por falecimento ; ED CARLOS ANDRINO ; Mariana Teixeira Salviano da Rocha
+Roubo ; 0002448-72.2016.8.26.0587 ; 4 anos e 08 meses de reclusão e 11 dias-multa para roubo ; 5 anos, 04 meses e 23 dias de reclusão e pagamento de 11 dias-multa para roubo, extinta a punibilidade para corrupção de menores ; Condenado por roubo, extinta a punibilidade para corrupção de menores ; Gabriel Lins da Rocha dos Santos ; GLAUCIA FERNANDES PAIVA
+Roubo ; 0001323-53.2019.8.26.0526 ; 4 anos de reclusão e 10 dias-multa ; 7 anos e 06 meses de reclusão e 80 dias-multa ; Condenado ; Anderson Alexandre Leite ; Beatriz Sylvia Straube de Almeida Prado Costa
+Roubo ; 0006695-58.2013.8.26.0278 ; 4 anos e 08 meses de reclusão e 20 dias-multa para roubo ; 6 anos e 10 meses de reclusão e 26 dias-multa para o crime de roubo majorado,  1 ano e 04 meses de reclusão e 05 dias-multa para associação criminosa, 3 anos e 04 meses de reclusão e 10 dias-multa para o crime de extorsão, totalizando 11 anos, 02 meses e 41 dias-multa em concurso material extinta a punibilidade em relação ao crime previsto no artigo 307 do CP (falsa identidade). ; Condenado por roubo majorado, associação criminosa e extorsão extinta a punibilidade para o crime de falsa identidade. ; ALLAN GIMENES LOZANO ; ALEXANDRE MUNOZ
+Roubo ; 0003643-82.2016.8.26.0655 ; Não definido na sentença ; Absolvido ; Absolvido ; Murilo Cauan Rondel de Lara ; Flávia Cristina Campos Luders
+Roubo ; 0000857-55.2014.8.26.0681 ; 1 ano e 04 meses de reclusão para Renato, mesma pena para JUCERLANDIO por ausência de características subjetivas diversas ; 2 anos, 01 mês e 19 dias de reclusão para ambos os réus ; Condenado ; Renato Pedulla Filho e JUCERLANDIO PEREIRA DE LIMA ; Camila Corbucci Monti Manzano
+Roubo ; 0001403-14.2018.8.26.0506 ; 4 anos e 8 meses de reclusão e 14 dias-multa ; 7 anos, 6 meses e 20 dias de reclusão e 26 dias-multa ; Condenado ; Marcelo Junior da Silva ; SYLVIO RIBEIRO DE SOUZA NETO
+Roubo ; 0002546-92.2013.8.26.0189 ; Não informado ; 3 anos e 6 meses de reclusão e 17 dias-multa ; Condenado ; Alfredo Aparecido Arantes e Taisa Vicente ; VINICIUS CASTREQUINI BUFULIN
+Roubo ; 0000046-36.2022.8.26.0610 ; 4 anos de reclusão e 10 dias-multa ; 2 anos e 6 meses de reclusão e 6 dias-multa ; Condenado ; Jonas Morais Leite ; CAROLINA NUNES VIEIRA
+Roubo ; 0005355-09.2012.8.26.0248 ; Não informado ; Extinta a punibilidade ; Extinta a punibilidade ; Luan de Sene ; JOSE EDUARDO DA COSTA
+Roubo ; 0006086-83.2003.8.26.0615 ; Não informado ; Extinta a punibilidade ; Extinta a punibilidade ; João Batista Nunes ; Renato Soares de Melo Filho
+Roubo ; 0001860-90.2018.8.26.0362 ; Não informado ; Absolvido ; Absolvido ; CRISTIANO ANTONIO DA SILVA e Rafael da Silva Nogueira ; PAULO ROGERIO MALVEZZI
+Roubo ; 0001303-35.2017.8.26.0299 ; 4 anos de reclusão e pagamento de 10 dias-multa ; 4 anos de reclusão e pagamento de 10 dias-multa ; Condenado ; Andre Luiz dos Santos ; Carolina Hispagnol Marchi
+Roubo ; 0001021-27.2011.8.26.0066 ; Não informado ; Extinta a punibilidade ; Extinta a punibilidade ; MAICON HUMBERTO DE SOUSA NASCIMENTO ; LUCIANO DE OLIVEIRA SILVA
+Roubo ; 0002046-53.2021.8.26.0445 ; Não informado ; Absolvido ; Absolvido ; WILLIAN FRANCISCO MARIANO ; FELIPE ESTEVAO DE MELO GONCALVES
+Roubo ; 0011882-03.2017.8.26.0506 ; Não encontrado ; oito anos, seis meses e vinte dias de reclusão ; Condenado ; Kleber Wesley Fernandes Veiga ; Guaracy Sibille Leite
+Roubo ; 0010527-67.2013.8.26.0127 ; Não encontrado ; 08 anos, 06 meses e 20 dias de reclusão ; Pena de multa extinta por prescrição ; ISTALONE DA SILVA RIBEIRO ; Carolina Hispagnol Marchi
+Roubo ; 0005108-88.2022.8.26.0050 ; 05 (cinco) anos de reclusão e pagamento de 12 (doze) dias-multa ; 22 (vinte e dois) anos e 06 (seis) meses de reclusão ; Condenado por roubo, absolvido por extorsão ; EMANUEL AUGUSTO CESAR ALBURQUERQUE ; ROBERTA HALLAGE GONDIM TEIXEIRA
+Roubo ; 0000800-13.2017.8.26.0655 ; Não encontrado ; Absolvido ; Absolvido ; PEDRO GARCIA SENA ; Flávia Cristina Campos Luders
+Roubo ; 0000919-27.2016.8.26.0681 ; Não encontrado ; Absolvido ; Absolvido ; José Aparecido de Brito e Luciano Nunes da Cunha ; Camila Corbucci Monti Manzano
+Roubo ; 0011141-27.1999.8.26.0624 ; Não encontrado ; Pena extinta por prescrição ; Pena extinta por prescrição ; MARIO SERGIO DE CAMPOS MORAES ; MARIANA TEIXEIRA SALVIANO DA ROCHA
+Roubo ; 0004364-98.2020.8.26.0362 ; 5 anos de reclusão e pagamento de 12 dias-multa ; 12 anos, 11 meses e 16 dias de reclusão e pagamento de 30 dias multa ; Condenado ; LUCIANO JOSE DE PAULA ; PAULO ROGERIO MALVEZZI
+Roubo ; 0000676-32.2018.8.26.0352 ; Não encontrado ; Absolvido ; Absolvido ; Josimar da Silva Oliveira ; José Magno Loureiro Júnior
+Roubo ; 0006771-61.2016.8.26.0348 ; Não encontrado ; Absolvido ; Absolvido ; PAULO JAYME JUNIOR ; Paulo Antonio Canali Campanella
+Roubo ; 0001070-10.2018.8.26.0394 ; 04 anos, 09 meses e 18 dias de reclusão e 12 dias-multa ; 05 anos, 01 mês e 13 dias de reclusão e 13 dias-multa ; Condenado ; Guilherme Guedes Campos ; GUILHERME SOUZA LIMA AZEVEDO
+Roubo ; 0004460-23.2021.8.26.0510 ; 4 anos de reclusão ; 06 anos, 02 meses e 20 dias de reclusão e pagamento de 15 dias multa ; Condenado ; TAUAN INACIO DA SILVA ; SERGIO LAZZARESCHI DE MESQUITA
+Roubo ; 0001620-51.2017.8.26.0681 ; 04 (quatro) anos e 08 (oito) meses de reclusão e 11 (onze) dias-multa ; 08 (oito) anos, 11 (onze) meses e 28 (vinte e oito) dias de reclusão e 19 (dezenove) dias-multa ; Condenado ; LUCIANO CASTRO DE OLIVEIRA ; Camila Corbucci Monti Manzano
+Roubo ; 0009058-21.2007.8.26.0539 ; 4 (quatro) anos e 8 (oito) meses de reclusão e 11 (onze) dias-multa ; 9 (nove) anos, 11 (onze) meses e 13 (treze) dias de reclusão e 21 (vinte e um) dias-multa ; Condenado ; ALESSANDRO DA SILVA CRUZ ; PEDRO DE CASTRO E SOUSA
+Roubo ; 0004750-30.2022.8.26.0566 ; 04 (quatro) anos de reclusão e no pagamento de 10 dias-multa ; 09 (nove) anos e 26 (vinte e seis) dias de reclusão, em regime inicial fechado, e ao pagamento de 21 (vinte e um) dias-multa ; Condenado ; JEFFERSON DONIZETE FERREIRA DOS SANTOS ; EDUARDO CEBRIAN ARAUJO REIS
+Roubo ; 0000048-64.2016.8.26.0594 ; 05 anos  e 04 meses de reclusão e pagamento de 13 dias-multa ; 11 anos e 21 dias de reclusão e pagamento de 25 dias-multa ; Condenado ; LUCAS CALDERARI ; Érica Marcelina Cruz
+Roubo ; 0000055-47.2021.8.26.0605 ; 4 anos de reclusão ; 5 anos e 4 meses de reclusão e 13 dias-multa ; Condenado ; JEAN GUIDO MONNI GUARNIERE ; Pedro Luiz Fernandes Nery Rafael
+Roubo ; 0012885-91.2017.8.26.0635 ; 04 (quatro) anos de reclusão e multa de 10 (dez) dias-multa ; 05 (cinco) anos e 04 (quatro) meses de reclusão e multa de 13 (treze) dias-multa ; Condenado ; HENRIQUE LIRA SILVA ; Ana Lucia Fernandes Queiroga
+Roubo ; 0000031-34.2021.8.26.0600 ; 4 (quatro) anos de reclusão e 10 (dez) dias-multa ; 4 (quatro) anos, 9 (nove) meses e 18 (doze) dias de reclusão e 12 (doze) dias-multa ; Condenado ; JOSE ANTONIO FERREIRA DE SOUZA ; MOEMA MOREIRA PONCE LACERDA
+Roubo ; 0003311-39.2014.8.26.0606 ; None ; None ; Absolvido ; Andre Rodrigues Pereira Martins ; José Eugenio Do Amaral Souza Neto
+Roubo ; 0000485-22.1999.8.26.0588 ; None ; None ; Extinta a pena de multa ; Ronaldo Pinheiro Alves ; Valéria Carvalho dos Santos
+Roubo ; 0003624-91.2020.8.26.0152 ; None ; 39 anos, 01 mês e 10 dias de reclusão e 92 dias-multa para o réu Jhonatan 52 anos, 11 meses e 14 dias de reclusão, e 112 dias-multa para o réu Bruno ; Condenado ; Bruno de Oliveira e Jhonatan Henrique da Silva ; DJALMA MOREIRA GOMES JUNIOR
+Roubo ; 0012931-89.2018.8.26.0071 ; 04 anos de reclusão e 10 dias-multa ; 06 anos e 05 meses de reclusão e 15 dias-multa ; Condenado ; Diogo Antonio da Silva ; Daniele Mendes de Melo
+Roubo ; 0000920-06.2018.8.26.0628 ; 05 anos de reclusão ; 09 anos e 15 dias de reclusão e 16 dias-multa ; Condenado ; ANDRE LUIS DA ROCHA SILVA ; BARBARA CAROLA HINDERBERGER CARDOSO DE ALMEIDA
+Roubo ; 0001341-48.2013.8.26.0441 ; 4 anos de reclusão e 10 dias-multa ; 06 anos, 02 meses e 20 dias de reclusão e  30 dias-multa ; Condenado ; Cesar Ferreira da Silva e Deivid Orozimbo Pereira ; Danielle Camara Takahashi Cosentino Grandinetti
+Roubo ; 0006270-34.2015.8.26.0028 ; None ; None ; Extinta a Punibilidade ; Vitoria Sandra dos Santos Paulino, Mariângela dos Santos Paulino, Larissa Cristina dos Santos Belas e Carol ; LUÍSA TOSTES ESCOCARD DE OLIVEIRA
+Roubo ; 0000091-54.2021.8.26.0552 ; 04 anos e 09 meses de reclusão e 54 dias-multa ; 06 anos e 04 meses de reclusão e pagamento de 72 dias-multa ; Condenado ; TIAGO DONIZETE CAMILO ; JOANNA PALMIERI ABDALLAH
+Roubo ; 0001766-87.2016.8.26.0306 ; 05 anos de reclusão e 12 dias-multa ; 07 anos, 09 meses e 10 dias de reclusão e 18 dias-multa ; Condenado ; Antonio Fernando Lima da Silva ; Natália Berti
+Roubo ; 0005565-88.2006.8.26.0145 ; None ; None ; Extinta a Punibilidade ; Joao Batista de Oliveira ; BÁRBARA GALVÃO SIMÕES DE CAMARGO
+Roubo ; 0001400-70.2021.8.26.0533 ; 04 anos e 08 meses de reclusão e 11 dias-multa ; 06 anos e 02 meses e 20 dias de reclusão e 14 dias-multa ; Condenado ; Lucas Fonseca Cavalcante ; Camilla Marcela Ferrari Arcaro
+Roubo ; 0000974-95.2018.8.26.0102 ; None ; None ; Absolvido Impróprio - Medida de Segurança de tratamento ambulatorial por tempo indeterminado ; ALEX DOS REIS ; BRUNO SANTOS VILELA
+Roubo ; 0007454-22.2016.8.26.0050 ; 4 anos de reclusão e 10 dias-multa ; 1 ano, 7 meses e 6 dias de reclusão e 4 dias-multa ; Extinta a punibilidade do réu Antônio Laércio de Magalhães Brasil pela prescrição da pretensão punitiva. ; ANTONIO LAERCIO DE MAGALHAES BRASIL ; Fernando Augusto Andrade Conceição
+Roubo ; 0001783-67.2015.8.26.0045 ; Não definida, pois os réus foram absolvidos. ; Absolvição dos réus THIAGO HENRIQUE LEITE e RICARDO JAVANOVITE ; Absolvição dos réus THIAGO HENRIQUE LEITE e RICARDO JAVANOVITE, por insuficiência de provas. ; THIAGO HENRIQUE LEITE e RICARDO JAVANOVITE ; NAIRA BLANCO MACHADO
+Roubo ; 0000912-58.2018.8.26.0101 ; 4 anos de reclusão e 10 dias-multa ; 5 anos e 4 meses de reclusão, e 13 dias-multa ; Condenação do réu GABRIEL SANTOS FELICIANO. ; GABRIEL SANTOS FELICIANO ; Gustavo de Campos Machado
+Roubo Majorado ; 0000529-27.2021.8.26.0505 ; Não definida, pois o réu foi absolvido. ; Absolvição do réu Wellington Geraldo da Silva. ; Absolvição do réu Wellington Geraldo da Silva por insuficiência de provas. ; Welington Geraldo da Silva ; DANNIEL ADRIANO ARALDI MARTINS
+Roubo ; 0008626-98.2009.8.26.0452 ; Não definida, pois o réu foi absolvido. ; Absolvição do réu SIDNEY JOSÉ DE MELO ; Absolvição do réu SIDNEY JOSÉ DE MELO por insuficiência de provas. ; SIDNEY JOSÉ DE MELO ; LUCAS DADALTO SAHÃO
+Roubo ; 0007993-76.2019.8.26.0019 ; 4 anos de reclusão e 10 dias-multa ; 6 anos, 2 meses e 20 dias de reclusão, e 14 dias-multa ; Condenação do réu LUCAS FONSECA CAVALCANTE. ; LUCAS FONSECA CAVALCANTE ; EUGENIO AUGUSTO CLEMENTI JUNIOR
+Roubo ; 0001512-50.2017.8.26.0219 ; Não definida, pois o réu foi absolvido. ; Absolvição do réu ERICK MICKAEL MELO GONÇALVES NASCIMENTO ; Absolvição do réu ERICK MICKAEL MELO GONÇALVES NASCIMENTO por insuficiência de provas. ; ERICK MICKAEL MELO GONÇALVES NASCIMENTO ; Vanêssa Christie Enande
+Roubo ; 0004722-71.2021.8.26.0348 ; 4 anos e 8 meses de reclusão e 11 dias-multa ; 8 anos, 3 meses e 16 dias de reclusão e 18 dias-multa ; Condenação do réu JONHON LENON DE JESUS SANTOS. ; JONHON LENON DE JESUS SANTOS ; Paulo Antonio Canali Campanella
+Roubo ; 0009685-87.2013.8.26.0127 ; Não explicitada na sentença. ; Extinta a pena de multa imposta na sentença a MANOEL VENTURA MACHADO e GUILHERME MARQUES TEIXEIRA ; Extinção da pena de multa pela prescrição da pretensão executória. ; GUILHERME MARQUES TEIXEIRA ; Carolina Hispagnol Marchi
+Roubo ; 0013906-39.2016.8.26.0635 ; Não explicitada na sentença. ; Extinta a punibilidade de VALDINEI SOUZA SANTOS ; Extinção da punibilidade de VALDINEI SOUZA SANTOS em virtude da ocorrência da prescrição da pretensão executória. ; VALDINEI SOUZA SANTOS ; Marcos Fleury Silveira de Alvarenga

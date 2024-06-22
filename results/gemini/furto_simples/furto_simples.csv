@@ -1,0 +1,573 @@
+tipo_crime;numero_processo;sentença_base;sentença_definitiva;conclusao;nome_suspeito;nome_juiz
+Furto ; 0001557-61.2017.8.26.0540 ; 1 ano de reclusão e 10 dias-multa ; 1 ano e 4 meses de reclusão e 13 dias-multa ; Condenado ; Rodrigo Aparecido Rodrigues de Moraes ; Paulo Antonio Canali Campanella
+Furto ; 0000617-20.2018.8.26.0069 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; Lindomar Barros Roza ; FABIO ALEXANDRE MARINELLI SOLA
+Furto ; 0005351-24.2016.8.26.0153 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Meire Adriana Carvalho ; GABRIEL ALVES BUENO PEREIRA
+Furto ; 0000198-92.2011.8.26.0247 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Vivian de Oliveira Salvador ; LUCAS GARBOCCI DA MOTTA
+Furto ; 0001238-74.2016.8.26.0493 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão, e 14 dias-multa ; Condenado ; IVO TIAGO PEIXOTO DE ANDRADE ; MARCEL PANGONI GUERRA
+Furto ; 0000149-84.2018.8.26.0189 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Suely Peres Gama ; JULIANO SANTOS DE LIMA
+Furto ; 0004190-17.2016.8.26.0108 ; Não informado ; Extinta a pena de multa ; Extinta a pena de multa ; MARCO ANTONIO SANDES DE OLIVEIRA ; Renato dos Santos
+Furto ; 0000583-78.2022.8.26.0142 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Naiara Beatriz dos Santos da Cruz ; FAULER FELIX DE AVILA
+Furto ; 0003890-90.2014.8.26.0022 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa, substituída por pena restritiva de direitos ; Condenado ; Alex Sandro Ribeiro ; Fabiola Brito do Amaral
+Furto ; 0000560-97.2018.8.26.0587 ; 2 anos de reclusão e 10 dias-multa ; 2 anos de reclusão e 10 dias-multa, substituída por pena restritiva de direitos ; Condenado ; JOÃO VITOR LUCRÉCIO ; Glaucia Fernandes Paiva
+Furto (art. 155) ; 0006111-93.2012.8.26.0223 ; 1 ano e 2 meses de reclusão, regime inicial aberto, e pagamento de 6 dias-multa ; Extinta a punibilidade pela ocorrência da prescrição da pretensão executória do Estado ; Extinta a Punibilidade ; Raul Portela Cândido ; Denise Gomes Bezerra Mota
+Furto ; 0008328-27.2018.8.26.0635 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; RUBENS MIGLIANO MONTELEONE ; Lilian Lage Humes
+Furto (art. 155) ; 0006246-87.2014.8.26.0271 ; 5 anos e 4 meses de reclusão e 168 dias-multa, em regime fechado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Silvio Rezende Viana ; Udo Wolff Dick Appolo Do Amaral
+Furto (art. 155) ; 0005385-43.2010.8.26.0271 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; Danilo Pereira Pinheiro ; Udo Wolff Dick Appolo Do Amaral
+Furto ; 0000206-93.2018.8.26.0095 ; N/A ; Absolvido ; Absolvido ; WILLIAN TESSUTTI GUILHERME ; MARCELA MACHADO MARTINIANO
+Furto ; 0000206-93.2018.8.26.0095 ; N/A ; Absolvido ; Absolvido ; IGOR JULIO DE ALMEIDA ; MARCELA MACHADO MARTINIANO
+Furto ; 0007673-03.2017.8.26.0405 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; KARINA MARIA DO ROSARIO ANTONIO ; MARIANA HORTA GREENHALGH
+Furto ; 0000618-37.2017.8.26.0587 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; ISRAEL PEREIRA BARRETO ; GLAUCIA FERNANDES PAIVA
+Furto ; 0002147-21.2018.8.26.0405 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; ITALO RODRIGUES CONCIO ; MARIANA HORTA GREENHALGH
+Furto ; 0004262-86.2014.8.26.0459 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; WALDEMIR ANTÔNIO MATRICARDI JÚNIOR ; FREDERICO PUPO CARRIJO DE ANDRADE
+Furto ; 0007765-33.2004.8.26.0050 ; N/A ; Extinta a punibilidade ; Extinta a punibilidade ; Maria Sidineide Barbosa ; Cynthia Torres Cristofaro
+Furto ; 0000812-44.2019.8.26.0368 ; 2 anos e 4 meses de reclusão e 17 dias-multa ; 2 anos, 7 meses e 15 dias de reclusão e 19 dias-multa ; Condenada ; Andréia Thomaz Ventura ; Gilson Miguel Gomes da Silva
+Furto ; 0001369-91.2017.8.26.0306 ; 01 ano e 02 meses de reclusão ; 02 anos, 08 meses e 20 dias de reclusão e 10 dias-multa ; Condenado ; Adenilson Cândido de Oliveira ; Natália Berti
+Furto ; 0000446-02.2018.8.26.0348 ; 02 anos e 04 meses de reclusão e 11 dias-multa ; 03 anos, 07 meses e 16 dias de reclusão e 16 dias-multa ; Condenado ; EDiSON DE SOUZA NASCIMENTO ; Paulo Antonio Canali Campanella
+Furto ; 0009133-48.2016.8.26.0635 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; None ; Extinta a Punibilidade ; BRIAN CHIARELLI LYRA COSTA ; LETICIA DE ASSIS BRUNING
+Furto ; 0009503-42.2022.8.26.0562 ; 1 ano de reclusão e 10 dias-multa ; 01 ano e 04 meses de reclusão, com o pagamento de 13 dias-multa ; Condenado ; GABRIEL SILVA MORAES ; Leonardo de Mello Gonçalves
+Furto (art. 155) ; 0000120-10.2020.8.26.0045 ; 02 (dois) anos de reclusão e 10 dias-multa ; 02 (dois) anos de reclusão, além de 10 dias multa ; Condenado ; Antonio Almeida de Araujo ; NAIRA BLANCO MACHADO
+Furto ; 0000600-83.2013.8.26.0125 ; None ; None ; Extinta a punibilidade ; Ricardo Giatti ; ANDRE LUIZ MARCONDES PONTES
+Furto ; 0007258-31.2016.8.26.0348 ; 1 ano de reclusão e 10 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão, e 15 dias-multa ; Condenada ; GIOVANA RODRIGUES SOARES ; SANDRO RAFAEL BARBOSA PACHECO
+Furto ; 0007258-31.2016.8.26.0348 ; 1 ano de reclusão e 10 dias-multa ; 1 ano e 2 meses de reclusão, e 11 dias-multa ; Condenado ; SILVIO DOMINGUES DE CAMPOS ; SANDRO RAFAEL BARBOSA PACHECO
+Furto ; 0001125-86.2021.8.26.0383 ; None ; None ; Absolvido ; JOÃO ANTÔNIO FREITAS PEREIRA ; Kerla Karen Ramalho de Castilho Magrini
+Furto (art. 155) ; 0000492-73.2022.8.26.0534 ; 2 anos de reclusão e 10 dias-multa ; None ; Reabilitado ; Flaviano de Souza Alves ; Adriana Vicentin Pezzatti de Carvalho
+Furto ; 0001396-11.2018.8.26.0542 ; Não informado ; Extinta a punibilidade ; Absolvido ; WELDON SANTOS CUSTODIO ; MARIANA HORTA GREENHALGH
+Furto (art. 155) ; 0004041-49.2017.8.26.0152 ; Não informado ; Extinta a punibilidade ; Absolvido ; Edmauro Jose da Silva ; RAFAEL RAUCH
+Furto ; 0004682-02.2016.8.26.0272 ; Não informado ; Extinta a punibilidade ; Absolvido ; Rogerio  Augusto da Silva ; VANESSA APARECIDA BUENO
+Furto ; 0005348-34.2022.8.26.0032 ; 2 anos e 4 meses de reclusão e 11 dias-multa. ; 2 anos, 8 meses e 20 dias de reclusão e 12 dias-multa ; Condenado ; Edilson Jeso da Silva ; Roberto Soares Leite
+Furto ; 0007970-67.2015.8.26.0635 ; Não informado ; Extinta a punibilidade ; Absolvido ; ALEXANDRE PEREIRA CYRILLO DA SILVA ; FERNANDO AUGUSTO ANDRADE CONCEIÇÃO
+Furto ; 0002644-71.2016.8.26.0642 ; Não informado ; 4 meses de reclusão e 3 dias-multa ; Condenado ; Carlos Heller Moses Ferreira ; Diogo Volpe Gonçalves Soares
+Furto ; 0001862-87.2020.8.26.0201 ; Não informado ; Absolvido ; Absolvido ; FABIO MARTINS SAROA ; TIAGO TADEU SANTOS COELHO
+Furto ; 0001461-66.2017.8.26.0210 ; 1 ano de reclusão e 10 dias-multa ; 1 ano e 4 meses de reclusão e 13 dias-multa ; Condenado ; Wiliam Carlos dos Santos ; ANDERSON VALENTE
+Furto ; 0001459-19.2016.8.26.0150 ; 2 anos de reclusão e 10 dias-multa ; Extinta a punibilidade ; Absolvido ; CLAUDINEI ALVES DA SILVA ; Maria Thereza Nogueira Pinto
+Furto ; 0001459-19.2016.8.26.0150 ; 2 anos de reclusão e 10 dias-multa ; Extinta a punibilidade ; Absolvido ; LUIS CARLOS MORAIS ; Maria Thereza Nogueira Pinto
+Receptação qualificada ; 0001459-19.2016.8.26.0150 ; Não informado ; Absolvido ; Absolvido ; ANTONIO ALBERTO GOMES DE SOUZA ; Maria Thereza Nogueira Pinto
+Furto (art. 155) ; 0003694-70.2006.8.26.0582 ; Não informado ; Absolvido ; Absolvido ; Anderson Alves Pedroso ; Matheus Oliveira Nery Borges
+Furto ; 0004827-58.2016.8.26.0272 ; Não informado ; Extinção da pena de multa ; Extinção da pena de multa ; DAVID RAFAEL DE SOUZA ; Helia Regina Pichotano
+Furto ; 0004349-37.2016.8.26.0050 ; Não informado ; Absolvido ; Absolvido ; MARCO ANTONIO MASSARO ; ANA CAROLINA MUNHOZ DE ALMEIDA
+Furto de coisa comum ; 0000875-19.2011.8.26.0152 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; MAURO FERREIRA DA CRUZ e SANDRO REBELLO DA SILVA ; Andressa Martins Bejarano
+Furto ; 0000044-83.2017.8.26.0564 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; ANGELO KISSELOFF LOPES RUBINHO ; Edegar de Sousa Castro
+Furto ; 0002107-13.2013.8.26.0050 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; CLAYTON MOTA PIRES DE ALMEIDA ; Augusto Antonini
+Furto ; 0002511-28.2016.8.26.0028 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Danielle Aparecida Marcondes de Carvalho ; ANDERSON DA SILVA ALMEIDA
+Furto ; 0005813-09.2016.8.26.0079 ; 1 ano e 2 meses de reclusão ; Pena restritiva de direito - Prestação de serviços à comunidade e pena pecuniária ; Condenado ; MAICON DE LIMA ; CRISTINA ESCHER
+Furto ; 0000634-65.2017.8.26.0530 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Lerediana Andressa Alves e Marta Chenci ; Guaracy Sibille Leite
+Furto ; 0000162-58.2017.8.26.0435 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Raphael Júnior Guedes Paula ; Dayse Lemos de Oliveira
+Furto ; 0008016-62.2018.8.26.0405 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; WASHINGTON LUIZ CORREIA ; MARIANA HORTA GREENHALGH
+Furto ; 0002603-79.2017.8.26.0542 ; Não encontrado ; Extinta a punibilidade ; Absolvido ; VANDERLEI DE CASTRO JUNIOR ; MARIANA HORTA GREENHALGH
+Furto ; 0002284-62.2016.8.26.0408 ; 1 a 4 anos de reclusão ; Extinta a punibilidade ; Absolvido ; MARCOS BARBOSA ; Renata Ferreira dos Santos Carvalho
+Furto ; 0004086-66.2018.8.26.0201 ; Não encontrado ; 3 anos, 1 mês e 10 dias de reclusão e 15 dias-multa ; Condenado ; Nilton Antonio de Lima ; Renata Lima Ribeiro Raia
+Furto ; 0000556-62.2021.8.26.0617 ; 1 ano e 6 meses de reclusão e 15 dias-multa ; 1 ano, 4 meses e 13 dias de reclusão e 13 dias-multa ; Condenado ; VICTOR HUGO FILETO ; DENISE VIEIRA MOREIRA
+Furto ; 0008543-17.2015.8.26.0050 ; Não encontrado ; Extinta a punibilidade ; Absolvido ; Marcos Gilberto Santiago ; Rodrigo Cesar Muller Valente
+Furto ; 0000016-31.2018.8.26.0322 ; 1 ano e 4 meses de reclusão, mais 13 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão, mais 15 dias-multa ; Condenado ; Anderson Leandro Trindade ; Jane Carrasco Alves Floriano
+Furto ; 0005625-97.2018.8.26.0482 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão e 14 dias-multa ; Condenado ; Alexandre dos Reis Piccinin ; Cibele Carrasco Rainho Novo
+Furto ; 0005748-40.2015.8.26.0405 ; Não encontrado ; Extinta a punibilidade ; Absolvido ; Jose Carlos de Lima Silva Veroneze ; MARIANA HORTA GREENHALGH
+Furto ; 0002523-42.2018.8.26.0361 ; 1 ano, 02 meses e 12 dias de reclusão e 12 dias-multa ; 1 ano, 02 meses e 12 dias de reclusão e 12 dias-multa ; Condenado ; Carlos Kevin Gimenes ; Tatiana Saes Valverde Ormeleze
+Receptação ; 0002523-42.2018.8.26.0361 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; Davy Camargo Casanova Poso ; Tatiana Saes Valverde Ormeleze
+Furto ; 0000992-17.2012.8.26.0300 ; 2 anos de reclusão e 10 dias-multa ; 2 anos e 8 meses de reclusão e 13 dias-multa ; Condenado ; Cleã Henrique de Oliveira ; Mariana Tonoli Angeli
+Furto ; 0000992-17.2012.8.26.0300 ; Não encontrado ; Absolvido ; Absolvido ; Rafael Alexandre Carvalho ; Mariana Tonoli Angeli
+Furto ; 0000117-12.2021.8.26.0630 ; 2 anos, 4 meses e 24 dias de reclusão e 12 dias-multa ; 3 anos, 8 meses e 24 dias de reclusão e 18 dias-multa ; Condenado ; Moises de Oliveira ; EUGENIO AUGUSTO CLEMENTI JUNIOR
+Furto ; 0001837-05.2011.8.26.0035 ; 2 anos de reclusão e 10 dias-multa ; 1 ano e 4 meses de reclusão e 6 dias-multa ; Condenado ; CLODOALDO LUCIANO DOS REIS ; Fabiola Brito do Amaral
+Furto ; 0003406-28.2020.8.26.0099 ; 2 anos de reclusão e 10 dias-multa ; 8 meses de reclusão e 3 dias-multa ; Condenado ; JEFFERSON PIRES COUVO ; Nicole de Almeida Campos Leite Colombini
+Furto ; 0002274-20.2014.8.26.0430 ; None ; None ; Extinta a Punibilidade ; MARCOS ALESSANDRO DE SOUZA DA SILVA ; LUAN CASAGRANDE
+Furto ; 0001601-27.2018.8.26.0126 ; None ; None ; Extinta a Punibilidade ; ELZILÉIA VENTURA DA SILVA ; JULIO DA SILVA BRANCHINI
+Furto ; 0006308-68.2015.8.26.0441 ; None ; None ; Extinta a Pena ; Daniel Iatauro Navarro ; ANDERSON JOSÉ BORGES DA MOTA
+Furto ; 0005215-29.2018.8.26.0453 ; None ; None ; Absolvida ; Camila Bardini Freitas ; MOEMA MOREIRA PONCE LACERDA
+Furto ; 0005215-29.2018.8.26.0453 ; None ; None ; Absolvida ; MÁRCIA CHAVES GALLO ; MOEMA MOREIRA PONCE LACERDA
+Furto ; 0002551-07.2017.8.26.0535 ; 1 ano de reclusão e 10 dias-multa ; 6 meses de reclusão e 5 dias-multa ; Condenado ; WILLIAM SANTOS RIVAROLI ; MIRIAN KEIKO SANCHES MACEDO
+Furto ; 0001281-04.2018.8.26.0408 ; None ; None ; Extinta a Punibilidade ; JOSÉ LUCIANO DA SILVA ; Renata Ferreira dos Santos Carvalho
+Furto ; 0000329-46.2016.8.26.0456 ; None ; None ; Extinto o Feito ; DIEGO DA SILVA CRISTINO ; ADRIANO CAMARGO PATUSSI
+Furto ; 0000025-30.2022.8.26.0426 ; None ; None ; Absolvido ; MICHELLE APARECIDA BARBOSA DE OLIVEIRA ; DANIEL DIEGO CARRIJO
+Furto ; 0000025-30.2022.8.26.0426 ; None ; None ; Condenado ; CLEBER PADILHA FERRARI ; DANIEL DIEGO CARRIJO
+Furto ; 0008951-41.2017.8.26.0566 ; None ; None ; None ; RENATA COIMBRÃO TIKAMI ; André Luiz de Macedo
+Furto ; 0001779-17.2016.8.26.0038 ; None ; None ; Absolvido ; JOSÉ NELSON RIBEIRO DOS SANTOS ; Rafael Pavan de Moraes Filgueira
+Furto ; 0000766-59.2015.8.26.0024 ; 02 (dois) anos de reclusão e 10 (dez) dias multa ; 02 (dois) anos de reclusão e 10 (dez) dias multa ; Condenado ; JEFFERSON PEREIRA DA SILVA ; ALEXANDRE RODRIGUES FERREIRA
+Furto ; 0008394-12.2015.8.26.0635 ; None ; None ; None ; CAIO EDUARDO GOMES DO NASCIMENTO ; Lilian Lage Humes
+Furto ; 0009320-31.2016.8.26.0126 ; None ; None ; None ; MARIA DE LOURDES DE ABREU ANDRADE ; JULIO DA SILVA BRANCHINI
+Furto (Crime Tentado) ; 0000581-75.2017.8.26.0630 ; 10 (dez) dias-multa ; 6 (seis) dias-multa ; Condenado ; CRISTIANO VIEIRA VILA ; Letícia Lemos Rossi
+Furto ; 0005432-81.2016.8.26.0408 ; None ; None ; None ; JOÃO VITOR LEMES ; Renata Ferreira dos Santos Carvalho
+Furto ; 0004369-82.2017.8.26.0635 ; None ; None ; None ; PEDRO FERNANDES BELEBECHA FILHO ; Augusto Antonini
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano de reclusão, além de 10 dias-multa ; 1 ano de reclusão, além de 10 dias-multa ; Condenado ; VINICIUS ROBERTO GOMES DE FREITAS ; Alexandro Conceição dos Santos
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano de reclusão, além de 10 dias-multa ; 1 ano de reclusão, além de 10 dias-multa ; Condenado ; PAULO HENRIQUE MOREIRA ORSI ; Alexandro Conceição dos Santos
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano de reclusão, além de 10 dias-multa ; 1 ano de reclusão, além de 10 dias-multa ; Condenado ; PAULO ROGÉRIO CERQUEIRA FILHO ; Alexandro Conceição dos Santos
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano, 3 meses e 6 dias de reclusão, além de 12 dias-multa ; 1 ano, 8 meses e 8 dias de reclusão, além de 16 dias-multa ; Condenado ; CRISTIANO MORAES SILVA ; Alexandro Conceição dos Santos
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano de reclusão ; 1 ano de reclusão ; Condenado ; MICHEL ALEXANDRE DA SILVA ; Alexandro Conceição dos Santos
+Furto ; 0004193-47.2016.8.26.0568 ; 2 anos de reclusão ; 2 anos de reclusão, convertidos em 10 dias-multa e prestação de serviços à comunidade ; Condenado ; GUILHERME AUGUSTO SANSANA ; Elaní Cristina Mendes Marum
+Furto ; 0001342-92.2015.8.26.0625 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; Joao Luiz Goncalves Neto Junior ; Fernanda Teixeira Salviano da Rocha
+Furto (art. 155) ; 0001618-20.2007.8.26.0459 ; Não informado ; Extinta a punibilidade ; Prescrição da Pretensão Punitiva ; CLEBER RODRIGO TOMAZELLI ; FREDERICO PUPO CARRIJO DE ANDRADE
+Furto ; 0004445-81.2018.8.26.0438 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade pelo cumprimento do acordo de não persecução penal ; GUILHERME HENRIQUE GOMES DE SOUZA ; PEDRO DE CASTRO E SOUSA
+Furto (art. 155) ; 0002040-59.2016.8.26.0271 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Adriano da Silva dos Reis ; Udo Wolff Dick Appolo Do Amaral
+Furto ; 0004520-91.2018.8.26.0189 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Catia Grigatti dos Santos ; JULIANO SANTOS DE LIMA
+Furto ; 0002748-32.2018.8.26.0565 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; CAIO DA SILVA GONÇALVES ; Pedro Corrêa Liao
+Furto ; 0001450-87.2016.8.26.0625 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Daniela Ferreira dos Santos ; Cláudia Calles Novellino Ballestero
+Furto ; 0004037-37.2012.8.26.0459 ; Não informado ; Extinta a punibilidade ; Prescrição da Pretensão Punitiva ; JESSICA PATRÍCIA CONSTANTINO DE CASTRO ; FREDERICO PUPO CARRIJO DE ANDRADE
+Furto ; 0009550-87.2019.8.26.0152 ; 3 anos e 6 meses de reclusão e 97 dias-multa ; 3 anos e 6 meses de reclusão e 97 dias-multa, convertidos em prestação de serviços à comunidade e prestação pecuniária ; Condenado ; Marcos Antonio Alves da Silva ; RAFAEL RAUCH
+Furto ; 0005717-89.2015.8.26.0576 ; 1 ano de reclusão e 10 dias-multa ; 1 ano e 2 meses de reclusão e 11 dias-multa ; Condenado ; ELTON KLEBER DA SILVA ; LUCIANA CASSIANO ZAMPERLINI COCHITO
+Furto ; 0005717-89.2015.8.26.0576 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; FERNANDO DONIZETI DA SILVA ; LUCIANA CASSIANO ZAMPERLINI COCHITO
+Furto ; 0005717-89.2015.8.26.0576 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; CLEYTON DE SOUZA UNGRIAS ; LUCIANA CASSIANO ZAMPERLINI COCHITO
+Furto ; 0000813-15.2017.8.26.0072 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; THIAGO FERNANDES PEREIRA ; JOAO CARLOS SAUD ABDALA FILHO
+Furto ; 0009336-19.2016.8.26.0050 ; Não informado ; Extinta a Punibilidade ; Extinção da Punibilidade ; ROBSON FRANCA FIUZA DA SILVA ; FABIOLA OLIVEIRA SILVA
+Receptação ; 0001566-97.2017.8.26.0095 ; Não informado ; Absolvido ; Absolvido ; WELINGTON FERNANDO DA SILVA ; MARCELA MACHADO MARTINIANO
+Furto ; 0000801-94.2016.8.26.0311 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; Emerson Carlos Nogueira de Oliveira ; VANDICKSON SOARES EMIDIO
+Furto ; 0005063-16.2008.8.26.0587 ; Não informado ; Extinta a Punibilidade ; Extinção da Punibilidade ; Juvenal Rocha da Silva ; GLAUCIA FERNANDES PAIVA
+Furto ; 0006406-91.2018.8.26.0362 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Rogerio de Souza ; PAULO ROGERIO MALVEZZI
+Furto ; 0000038-53.2015.8.26.0659 ; Não informado ; Absolvida ; Absolvido ; Valdete do Nascimento Martins ; Fábio Marcelo Holanda
+Furto ; 0000601-61.2016.8.26.0352 ; Não informado ; Extinta a pena de multa ; Extinção da Pena de Multa ; DANILO HENRIQUE PAULA DE OLIVEIRA ; ELISA LEONESI MALUF
+Furto ; 0002387-17.2016.8.26.0587 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão e 14 dias-multa ; Extinta a Punibilidade ; JOSÉ FABIANO RIBEIRO SILVA ; GLAUCIA FERNANDES PAIVA
+Furto ; 0006100-79.2018.8.26.0635 ; None ; 8 meses de reclusão e 6 dias-multa ; Condenado ; JOHNNY STEPHAN DE SOUSA CESARIO ; Ana Helena Rodrigues Mellim
+Furto ; 0009108-64.2006.8.26.0189 ; None ; None ; Extinta a Punibilidade ; Antonio Carlos dos Santos ; VINICIUS CASTREQUINI BUFULIN
+Furto ; 0000198-95.2017.8.26.0566 ; None ; None ; Extinta a Punibilidade ; Hélio Vendramini Junior ; André Luiz de Macedo
+Furto ; 0007282-94.2006.8.26.0482 ; None ; None ; Extinta a Punibilidade ; Valderlei da Silva Siqueira ; Cibele Carrasco Rainho Novo
+Furto ; 0000802-08.2018.8.26.0603 ; None ; None ; Extinta a Punibilidade ; Pedro Borges Filho ; Leonardo Lopes Sardinha
+Furto ; 0006039-92.2011.8.26.0045 ; 2 anos de reclusão ; 2 anos de reclusão e 10 dias-multa ; Condenado ; Fernando Aparecido Catani ; NAIRA BLANCO MACHADO
+Furto ; 0003620-96.2016.8.26.0248 ; 2 anos de reclusão e 10 dias-multa ; 2 anos e 4 meses de reclusão e 11 dias-multa ; Condenado ; Ivonete Alexandrina dos Santos ; Daniela Faria Romano
+Furto ; 0000967-64.2015.8.26.0537 ; None ; None ; Extinta a Punibilidade ; Rosimeire Galdino dos Santos ; KLEBER LELES DE SOUZA
+Furto ; 0002267-50.2022.8.26.0526 ; 3 anos de reclusão e 15 dias-multa ; 4 anos e 8 meses de reclusão e 22 dias-multa ; Condenado ; ALEX DA ROCHA PINHEIRO ; Beatriz Sylvia Straube de Almeida Prado Costa
+Furto ; 0000391-84.2018.8.26.0628 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; ERIVALTO DE JESUS SANTOS ; TALES NOVAES FRANCIS DICLER
+Furto ; 0006395-53.2017.8.26.0635 ; 2 anos e 4 meses de reclusão e 11 dias-multa ; 2 anos e 4 meses de reclusão, substituída por prestação de serviços à comunidade, e 11 dias-multa ; Condenado ; Anderson Aparecido Santana ; Fabíola Oliveira Silva
+Furto ; 0000234-17.2016.8.26.0488 ; None ; None ; Extinta a Punibilidade ; Michel dos Santos Silva ; Lucas Campos de Souza
+Furto ; 0005148-03.2018.8.26.0635 ; None ; None ; Extinta a Punibilidade ; MAIKE RODRIGO DOS SANTOS DIAS ; Renata William Rached Catelli
+Furto ; 0000614-97.2016.8.26.0275 ; 2 anos e 4 meses de reclusão e 11 dias-multa ; 2 anos de reclusão, substituída por prestação de serviços à comunidade e prestação pecuniária, e 10 dias-multa ; Condenado ; Clélio Cristóvão Santos de Almeida ; VINICIUS JOSÉ CAETANO MACHADO DE LIMA
+Furto ; 0000614-97.2016.8.26.0275 ; 2 anos e 4 meses de reclusão e 11 dias-multa ; 2 anos de reclusão, substituída por prestação de serviços à comunidade e prestação pecuniária, e 10 dias-multa ; Condenado ; Diogo de Souza Silva ; VINICIUS JOSÉ CAETANO MACHADO DE LIMA
+Furto ; 0005187-09.2022.8.26.0037 ; 3 anos de reclusão e 15 dias multa ; 5 anos e 10 meses de reclusão, além do pagamento de 28 dias-multa ; Condenado ; JOÃO DE PAULA DA SILVA NETO ; Roberto Raineri Simão
+Furto ; 0005074-50.2022.8.26.0362 ; 1 anos e 3 meses de reclusão e pagamento de 12 dias-multa ; 1 ano, 11 meses e 10 dias de reclusão e pagamento de 18 dias multa ; Condenado ; MARCIO DONIZETE APARECIDA ; PAULO ROGERIO MALVEZZI
+Furto ; 0000096-87.2017.8.26.0238 ; None ; None ; Extinta a Punibilidade ; BENTO JOAQUIM DE OLIVEIRA NETO ; Luiz Fernando Angiolucci
+Furto ; 0001112-82.2016.8.26.0506 ; dois anos, oito meses e vinte dias de reclusão e pagamento de doze dias-multa ; 3 (três) anos, 2 (dois) meses e 3 (três) dias de reclusão e pagamento de 14 dias-multa ; Condenado ; Jean Rafael de Carvalho ; Guacy Sibille Leite
+Furto ; 0000759-73.2021.8.26.0536 ; 1 (um) ano de reclusão e 10 (dez) dias-multa ; 6 (seis) meses de reclusão ; Condenado ; JOSE CARLOS DOS SANTOS FILHO ; EDMILSON ROSA DOS SANTOS
+Furto ; 0000156-88.2017.8.26.0358 ; 02 anos e 04 meses de reclusão e 11 dias-multa ; 03 anos, 10 meses e 20 dias de reclusão e 18 dias-multa ; Condenado ; Kevin Maxi Miler Fuzati Costa ; Natália Berti
+Furto ; 0003746-57.2013.8.26.0538 ; Não informado ; Absolvido ; Absolvido ; Gustavo Michelon ; FELIPE GUINSANI
+Furto ; 0007189-53.2018.8.26.0566 ; Não informado ; Extinção da punibilidade ; Extinção da punibilidade ; MARCIO APARECIDO GAINO ; André Luiz de Macedo
+Furto (art. 155) ; 0003137-35.2012.8.26.0142 ; Não encontrado ; Absolvido ; Absolvido ; LUIZ HENRIQUE DE OLIVEIRA MANSIN ; FABIANO MOTA CARDOSO
+Furto ; 0000750-53.2015.8.26.0106 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; FABIO DOS SANTOS LISBOA ; DANIEL NAKAO MAIBASHI
+Furto ; 0002721-63.2017.8.26.0022 ; Não encontrado ; 1 ano de reclusão em regime aberto ; Condenado ; EDSON FERNANDO TAVARES ; Fernando Leonardi Campanella
+Furto ; 0000500-86.2018.8.26.0535 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; ROGERIO AUGUSTO DE OLIVEIRA ; ANDRE LUIZ DA SILVA DA CUNHA
+Furto ; 0000337-93.2018.8.26.0022 ; Não encontrado ; 8 meses e 26 dias de reclusão em regime semiaberto ; Condenado ; CARLOS ROBINSON DAÓLIO ; Fernando Leonardi Campanella
+Furto ; 0005069-67.2017.8.26.0050 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; ADALBERTO CARLOS DOS REIS ; Lilian Lage Humes
+Furto ; 0002062-82.2017.8.26.0530 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Ronaldo Adriano da Silva ; Guaracy Sibille Leite
+Furto (art. 155) ; 0007820-41.2010.8.26.0157 ; Não encontrado ; Extinta a Pena de Multa ; Extinta a Pena de Multa ; MARCELO FERREIRA ; Rodrigo Pinati da Silva
+Furto ; 0001610-74.2017.8.26.0594 ; Não encontrado ; 1 ano, 6 meses e 20 dias de reclusão em regime aberto ; Condenado ; LUCAS MATHEUS DIAS DA SILVA ; Cláudio Augusto Saad Abujamra
+Furto ; 0000125-82.2016.8.26.0591 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; LUCAS SANTOS BARBOSA DA SILVA ; ALINE TABUCHI DA SILVA
+Furto ; 0002807-18.2016.8.26.0168 ; None ; None ; Extinta a pena de multa ; Eduardo Soares da Silva de Jesus ; Aline Sugahara Bertaco
+Furto ; 0002074-11.2020.8.26.0201 ; 2 anos e 4 meses de reclusão e 11 dias-multa ; 2 anos, 8 meses e 20 dias de reclusão e 12 dias-multa ; Condenado ; JEAN CELSO EVANGELISTA ; Renata Lima Ribeiro Raia
+Furto ; 0002074-11.2020.8.26.0201 ; 2 anos de reclusão e 10 dias-multa ; 2 anos de reclusão e 10 dias-multa ; Condenada, pena substituida por restritivas de direito ; CASSIA STEFANI DE PAULA ; Renata Lima Ribeiro Raia
+Furto (art. 155) ; 0000150-13.2001.8.26.0562 ; None ; None ; Extinta a punibilidade ; UBIRACI TORRES GARCIA ; Silvana Amneris Rôlo Pereira Borges
+Furto (art. 155) ; 0008905-20.2008.8.26.0323 ; 1 ano, 1 mês e 15 dias de reclusão e 11 dias-multa ; 1 ano, 8 meses e 29 dias de reclusão e 16 dias-multa ; Condenado ; JOEL GUEDES DIAS ; Daniel Otero Pereira da Costa
+Furto ; 0000981-28.2018.8.26.0542 ; None ; None ; Extinta a punibilidade ; ROBSON RIBEIRO ; MARCIA DE MELLO ALCOFORADO HERRERO
+Furto (art. 155) ; 0000295-91.2010.8.26.0291 ; None ; None ; Extinta a punibilidade ; Marcelo Cândido da Silva ; Leandro Galluzzi dos Santos
+Furto ; 0003845-31.2014.8.26.0590 ; None ; None ; Extinta a punibilidade ; Marcelo Marcos Guimarães ; Luís Guilherme Vaz de Lima Cardinale
+Furto ; 0000088-79.2017.8.26.0022 ; None ; None ; Extinta a pena de multa ; Luis Henrique Martins ; Fernando Leonardi Campanella
+Furto ; 0001287-73.2022.8.26.0536 ; None ; None ; Absolvido ; Marcos Roberto da Silva ; Alexandre Torres de Aguiar
+Furto ; 0003042-70.2015.8.26.0248 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado, pena substituida por restritiva de direitos ; Maykon de Lima Francisco ; Daniela Faria Romano
+Furto ; 0002645-28.2013.8.26.0168 ; Não foi definido. ; Absolvido. ; Absolvido ; Gevaldo Matias Dantas ; ALINE TABUCHI DA SILVA
+Furto ; 0000207-78.2018.8.26.0095 ; 1 ano e 10 dias-multa ; 8 meses de reclusão e 6 dias-multa. ; Condenado ; Wesley Fernando Cardoso ; MARCELA MACHADO MARTINIANO
+Furto ; 0000207-78.2018.8.26.0095 ; Não foi definido. ; Absolvido. ; Absolvido ; Matheus Fernando Pereira ; MARCELA MACHADO MARTINIANO
+Furto ; 0000859-39.2018.8.26.0146 ; Não foi definido. ; Absolvido. ; Absolvido ; Valentim Moreira dos Santos ; JULIANA SILVA FREITAS
+Furto ; 0008464-12.2018.8.26.0348 ; 02 anos de reclusão e 10 dias-multa ; 02 anos de reclusão e 10 dias-multa ; Condenado ; Giovani Burato Alvim ; Paulo Antonio Canali Campanella
+Furto ; 0003009-29.2015.8.26.0362 ; Não foi definido. ; Extinta a punibilidade ; Extinta a punibilidade ; Isaque Fernandes ; PAULO ROGERIO MALVEZZI
+Furto ; 0002466-34.2016.8.26.0542 ; Não foi definido. ; Extinta a punibilidade ; Extinta a punibilidade ; Wesley de Lucas ; MARIANA HORTA GREENHALGH
+Furto ; 0008698-03.2012.8.26.0510 ; Não foi definido. ; Absolvido. ; Absolvido ; Nilton dos Santos de Almeida ; CAIO CESAR GINEZ ALMEIDA BUENO
+Furto ; 0002070-50.2010.8.26.0095 ; Não foi definido. ; Absolvido. ; Absolvido ; Luzia Santos da Silva ; MARCELA MACHADO MARTINIANO
+Furto ; 0000001-69.2013.8.26.0538 ; Não foi definido. ; Extinta a punibilidade ; Extinta a punibilidade ; Priscila Segantini ; GUILHERME MARTINS DAMINI
+Furto ; 0000001-69.2013.8.26.0538 ; Não foi definido. ; Extinta a punibilidade ; Extinta a punibilidade ; Isabel Cristina Gimenez Segantini ; GUILHERME MARTINS DAMINI
+Furto ; 0007524-33.2015.8.26.0322 ; Não foi definido. ; Absolvido. ; Absolvido ; Alex Henrique Pereira Alves ; Jane Carrasco Alves Floriano
+Furto ; 0006079-44.2013.8.26.0291 ; Não informado ; Extinta a punibilidade em relação à pena de multa ; Extinção da Punibilidade ; Alafi Rodrigo Carreira ; Leandro Galluzzi dos Santos
+Furto ; 0007364-26.2014.8.26.0586 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Carlos Cesar da Paixao Marinho ; Flavio Roberto de Carvalho
+Furto ; 0004091-47.2018.8.26.0635 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 8 meses de reclusão e 6 dias-multa ; Condenado ; JOSUE JORDAN RICARDO LINARES MIRANDA ; MANOELA ASSEF DA SILVA
+Furto ; 0007342-34.2008.8.26.0050 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Alceri Floriano Ferreira ; Luciane Jabur Mouchaloite Figueiredo
+Furto ; 0002556-44.2014.8.26.0079 ; 1 ano de reclusão ; 1 ano de reclusão ; Condenado ; Fabio Andrade Santiago ; CRISTINA ESCHER
+Furto ; 0001634-44.2014.8.26.0615 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 4 meses de reclusão e 3 dias-multa ; Condenado ; Jeferson Augusto de Souza ; Renato Soares de Melo Filho
+Furto ; 0006933-93.2016.8.26.0077 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Franciscarlos de Jesus de Souza ; ADRIANO PINTO DE OLIVEIRA
+Furto ; 0003675-83.2015.8.26.0506 ; Não informado ; Absolvido ; Absolvido ; Alex Adriano Fratti ; Guacy Sibille Leite
+Furto ; 0000468-96.2018.8.26.0530 ; Não informado ; Extinta a pena de multa ; Extinção da pena de multa ; Vinicius Soares da Silva ; Viviane Decnop Freitas Figueira
+Furto ; 0000662-03.2016.8.26.0616 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Renato Seichi Seo ; Milton de Oliveira Sampaio Neto
+Furto ; 0003578-47.2016.8.26.0248 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão, em regime inicial aberto, e 10 dias-multa ; Condenado ; Junior Aparecido Satil ; JOSE EDUARDO DA COSTA
+Furto ; 0004579-60.2008.8.26.0050 ; None ; None ; Extinta a Punibilidade ; Ivanei Penha da Silva ; Margot Chrysostomo Corrêa
+Furto ; 0001834-96.2016.8.26.0642 ; 1 ano de reclusão e 11 dias-multa ; 1 ano e 2 meses de reclusão, em regime inicial semiaberto, e 11 dias-multa ; Condenado ; Carlos Andre Machado Garcia ; Diogo Volpe Gonçalves Soares
+Furto ; 0001117-62.2022.8.26.0161 ; 3 anos de reclusão e 15 dias-multa ; 3 anos de reclusão, em regime aberto, e 15 dias-multa ; Condenado ; Guilhermo Orlando Buitrago Bustos ; Patrícia Helena Hehl Forjaz de Toledo
+Furto ; 0005875-55.2018.8.26.0604 ; 2 anos de reclusão e 20 dias-multa ; 2 anos reclusão, em regime inicial semiaberto, e 20 dias-multa ; Condenado ; ELIABINER HENRIQUE RIBEIRO ; André Forato Anhê
+Furto ; 0005468-62.2007.8.26.0595 ; None ; None ; Extinta a Punibilidade ; Joao Antonio Lopes Gonzales ; JULIANA MARIA FINATI
+Furto ; 0002685-58.2009.8.26.0068 ; None ; None ; Extinta a Punibilidade ; Amarildo dos Santos Donizete ; Cyntia Menezes de Paula Straforini
+Furto ; 0002850-60.2017.8.26.0542 ; 2 anos e 4 meses de reclusão, e 11 dias-multa ; 2 anos, 8 meses e 20 dias de reclusão, em regime inicial fechado, e 12 dias-multa ; Condenado ; Renato Silva de Oliveira ; MARCIA DE MELLO ALCOFORADO HERRERO
+Furto ; 0000449-43.2020.8.26.0620 ; 02 (dois) anos e 09 (nove) meses de reclusão e 53 (cinquenta e três) dias-multa ; 02 (dois) anos e 09 (nove) meses de reclusão, no regime ABERTO,  além de pagamento de 53 (cinquenta e três) dias-multa ; Condenado ; Eliseu de Camargo ; DIANA CRISTINA SILVA SPESSOTTO
+Furto ; 0003472-92.2018.8.26.0126 ; None ; None ; Extinta a Punibilidade ; ALAN DE MORAES ARAÚJO ; JULIO DA SILVA BRANCHINI
+tipo_crime;numero_processo;sentença_base;sentença_definitiva;conclusao;nome_suspeito;nome_juiz
+Furto ; 0001557-61.2017.8.26.0540 ; 1 ano de reclusão e 10 dias-multa ; 1 ano e 4 meses de reclusão e 13 dias-multa ; Condenado ; Rodrigo Aparecido Rodrigues de Moraes ; Paulo Antonio Canali Campanella
+Furto ; 0000617-20.2018.8.26.0069 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; Lindomar Barros Roza ; FABIO ALEXANDRE MARINELLI SOLA
+Furto ; 0005351-24.2016.8.26.0153 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Meire Adriana Carvalho ; GABRIEL ALVES BUENO PEREIRA
+Furto ; 0000198-92.2011.8.26.0247 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Vivian de Oliveira Salvador ; LUCAS GARBOCCI DA MOTTA
+Furto ; 0001238-74.2016.8.26.0493 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão, e 14 dias-multa ; Condenado ; IVO TIAGO PEIXOTO DE ANDRADE ; MARCEL PANGONI GUERRA
+Furto ; 0000149-84.2018.8.26.0189 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Suely Peres Gama ; JULIANO SANTOS DE LIMA
+Furto ; 0004190-17.2016.8.26.0108 ; Não informado ; Extinta a pena de multa ; Extinta a pena de multa ; MARCO ANTONIO SANDES DE OLIVEIRA ; Renato dos Santos
+Furto ; 0000583-78.2022.8.26.0142 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Naiara Beatriz dos Santos da Cruz ; FAULER FELIX DE AVILA
+Furto ; 0003890-90.2014.8.26.0022 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa, substituída por pena restritiva de direitos ; Condenado ; Alex Sandro Ribeiro ; Fabiola Brito do Amaral
+Furto ; 0000560-97.2018.8.26.0587 ; 2 anos de reclusão e 10 dias-multa ; 2 anos de reclusão e 10 dias-multa, substituída por pena restritiva de direitos ; Condenado ; JOÃO VITOR LUCRÉCIO ; Glaucia Fernandes Paiva
+Furto (art. 155) ; 0006111-93.2012.8.26.0223 ; 1 ano e 2 meses de reclusão, regime inicial aberto, e pagamento de 6 dias-multa ; Extinta a punibilidade pela ocorrência da prescrição da pretensão executória do Estado ; Extinta a Punibilidade ; Raul Portela Cândido ; Denise Gomes Bezerra Mota
+Furto ; 0008328-27.2018.8.26.0635 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; RUBENS MIGLIANO MONTELEONE ; Lilian Lage Humes
+Furto (art. 155) ; 0006246-87.2014.8.26.0271 ; 5 anos e 4 meses de reclusão e 168 dias-multa, em regime fechado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Silvio Rezende Viana ; Udo Wolff Dick Appolo Do Amaral
+Furto (art. 155) ; 0005385-43.2010.8.26.0271 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; Danilo Pereira Pinheiro ; Udo Wolff Dick Appolo Do Amaral
+Furto ; 0000206-93.2018.8.26.0095 ; N/A ; Absolvido ; Absolvido ; WILLIAN TESSUTTI GUILHERME ; MARCELA MACHADO MARTINIANO
+Furto ; 0000206-93.2018.8.26.0095 ; N/A ; Absolvido ; Absolvido ; IGOR JULIO DE ALMEIDA ; MARCELA MACHADO MARTINIANO
+Furto ; 0007673-03.2017.8.26.0405 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; KARINA MARIA DO ROSARIO ANTONIO ; MARIANA HORTA GREENHALGH
+Furto ; 0000618-37.2017.8.26.0587 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; ISRAEL PEREIRA BARRETO ; GLAUCIA FERNANDES PAIVA
+Furto ; 0002147-21.2018.8.26.0405 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; ITALO RODRIGUES CONCIO ; MARIANA HORTA GREENHALGH
+Furto ; 0004262-86.2014.8.26.0459 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; WALDEMIR ANTÔNIO MATRICARDI JÚNIOR ; FREDERICO PUPO CARRIJO DE ANDRADE
+Furto ; 0007765-33.2004.8.26.0050 ; N/A ; Extinta a punibilidade ; Extinta a punibilidade ; Maria Sidineide Barbosa ; Cynthia Torres Cristofaro
+Furto ; 0000812-44.2019.8.26.0368 ; 2 anos e 4 meses de reclusão e 17 dias-multa ; 2 anos, 7 meses e 15 dias de reclusão e 19 dias-multa ; Condenada ; Andréia Thomaz Ventura ; Gilson Miguel Gomes da Silva
+Furto ; 0001369-91.2017.8.26.0306 ; 01 ano e 02 meses de reclusão ; 02 anos, 08 meses e 20 dias de reclusão e 10 dias-multa ; Condenado ; Adenilson Cândido de Oliveira ; Natália Berti
+Furto ; 0000446-02.2018.8.26.0348 ; 02 anos e 04 meses de reclusão e 11 dias-multa ; 03 anos, 07 meses e 16 dias de reclusão e 16 dias-multa ; Condenado ; EDiSON DE SOUZA NASCIMENTO ; Paulo Antonio Canali Campanella
+Furto ; 0009133-48.2016.8.26.0635 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; None ; Extinta a Punibilidade ; BRIAN CHIARELLI LYRA COSTA ; LETICIA DE ASSIS BRUNING
+Furto ; 0009503-42.2022.8.26.0562 ; 1 ano de reclusão e 10 dias-multa ; 01 ano e 04 meses de reclusão, com o pagamento de 13 dias-multa ; Condenado ; GABRIEL SILVA MORAES ; Leonardo de Mello Gonçalves
+Furto (art. 155) ; 0000120-10.2020.8.26.0045 ; 02 (dois) anos de reclusão e 10 dias-multa ; 02 (dois) anos de reclusão, além de 10 dias multa ; Condenado ; Antonio Almeida de Araujo ; NAIRA BLANCO MACHADO
+Furto ; 0000600-83.2013.8.26.0125 ; None ; None ; Extinta a punibilidade ; Ricardo Giatti ; ANDRE LUIZ MARCONDES PONTES
+Furto ; 0007258-31.2016.8.26.0348 ; 1 ano de reclusão e 10 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão, e 15 dias-multa ; Condenada ; GIOVANA RODRIGUES SOARES ; SANDRO RAFAEL BARBOSA PACHECO
+Furto ; 0007258-31.2016.8.26.0348 ; 1 ano de reclusão e 10 dias-multa ; 1 ano e 2 meses de reclusão, e 11 dias-multa ; Condenado ; SILVIO DOMINGUES DE CAMPOS ; SANDRO RAFAEL BARBOSA PACHECO
+Furto ; 0001125-86.2021.8.26.0383 ; None ; None ; Absolvido ; JOÃO ANTÔNIO FREITAS PEREIRA ; Kerla Karen Ramalho de Castilho Magrini
+Furto (art. 155) ; 0000492-73.2022.8.26.0534 ; 2 anos de reclusão e 10 dias-multa ; None ; Reabilitado ; Flaviano de Souza Alves ; Adriana Vicentin Pezzatti de Carvalho
+Furto ; 0001396-11.2018.8.26.0542 ; Não informado ; Extinta a punibilidade ; Absolvido ; WELDON SANTOS CUSTODIO ; MARIANA HORTA GREENHALGH
+Furto (art. 155) ; 0004041-49.2017.8.26.0152 ; Não informado ; Extinta a punibilidade ; Absolvido ; Edmauro Jose da Silva ; RAFAEL RAUCH
+Furto ; 0004682-02.2016.8.26.0272 ; Não informado ; Extinta a punibilidade ; Absolvido ; Rogerio  Augusto da Silva ; VANESSA APARECIDA BUENO
+Furto ; 0005348-34.2022.8.26.0032 ; 2 anos e 4 meses de reclusão e 11 dias-multa. ; 2 anos, 8 meses e 20 dias de reclusão e 12 dias-multa ; Condenado ; Edilson Jeso da Silva ; Roberto Soares Leite
+Furto ; 0007970-67.2015.8.26.0635 ; Não informado ; Extinta a punibilidade ; Absolvido ; ALEXANDRE PEREIRA CYRILLO DA SILVA ; FERNANDO AUGUSTO ANDRADE CONCEIÇÃO
+Furto ; 0002644-71.2016.8.26.0642 ; Não informado ; 4 meses de reclusão e 3 dias-multa ; Condenado ; Carlos Heller Moses Ferreira ; Diogo Volpe Gonçalves Soares
+Furto ; 0001862-87.2020.8.26.0201 ; Não informado ; Absolvido ; Absolvido ; FABIO MARTINS SAROA ; TIAGO TADEU SANTOS COELHO
+Furto ; 0001461-66.2017.8.26.0210 ; 1 ano de reclusão e 10 dias-multa ; 1 ano e 4 meses de reclusão e 13 dias-multa ; Condenado ; Wiliam Carlos dos Santos ; ANDERSON VALENTE
+Furto ; 0001459-19.2016.8.26.0150 ; 2 anos de reclusão e 10 dias-multa ; Extinta a punibilidade ; Absolvido ; CLAUDINEI ALVES DA SILVA ; Maria Thereza Nogueira Pinto
+Furto ; 0001459-19.2016.8.26.0150 ; 2 anos de reclusão e 10 dias-multa ; Extinta a punibilidade ; Absolvido ; LUIS CARLOS MORAIS ; Maria Thereza Nogueira Pinto
+Receptação qualificada ; 0001459-19.2016.8.26.0150 ; Não informado ; Absolvido ; Absolvido ; ANTONIO ALBERTO GOMES DE SOUZA ; Maria Thereza Nogueira Pinto
+Furto (art. 155) ; 0003694-70.2006.8.26.0582 ; Não informado ; Absolvido ; Absolvido ; Anderson Alves Pedroso ; Matheus Oliveira Nery Borges
+Furto ; 0004827-58.2016.8.26.0272 ; Não informado ; Extinção da pena de multa ; Extinção da pena de multa ; DAVID RAFAEL DE SOUZA ; Helia Regina Pichotano
+Furto ; 0004349-37.2016.8.26.0050 ; Não informado ; Absolvido ; Absolvido ; MARCO ANTONIO MASSARO ; ANA CAROLINA MUNHOZ DE ALMEIDA
+Furto de coisa comum ; 0000875-19.2011.8.26.0152 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; MAURO FERREIRA DA CRUZ e SANDRO REBELLO DA SILVA ; Andressa Martins Bejarano
+Furto ; 0000044-83.2017.8.26.0564 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; ANGELO KISSELOFF LOPES RUBINHO ; Edegar de Sousa Castro
+Furto ; 0002107-13.2013.8.26.0050 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; CLAYTON MOTA PIRES DE ALMEIDA ; Augusto Antonini
+Furto ; 0002511-28.2016.8.26.0028 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Danielle Aparecida Marcondes de Carvalho ; ANDERSON DA SILVA ALMEIDA
+Furto ; 0005813-09.2016.8.26.0079 ; 1 ano e 2 meses de reclusão ; Pena restritiva de direito - Prestação de serviços à comunidade e pena pecuniária ; Condenado ; MAICON DE LIMA ; CRISTINA ESCHER
+Furto ; 0000634-65.2017.8.26.0530 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Lerediana Andressa Alves e Marta Chenci ; Guaracy Sibille Leite
+Furto ; 0000162-58.2017.8.26.0435 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Raphael Júnior Guedes Paula ; Dayse Lemos de Oliveira
+Furto ; 0008016-62.2018.8.26.0405 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; WASHINGTON LUIZ CORREIA ; MARIANA HORTA GREENHALGH
+Furto ; 0002603-79.2017.8.26.0542 ; Não encontrado ; Extinta a punibilidade ; Absolvido ; VANDERLEI DE CASTRO JUNIOR ; MARIANA HORTA GREENHALGH
+Furto ; 0002284-62.2016.8.26.0408 ; 1 a 4 anos de reclusão ; Extinta a punibilidade ; Absolvido ; MARCOS BARBOSA ; Renata Ferreira dos Santos Carvalho
+Furto ; 0004086-66.2018.8.26.0201 ; Não encontrado ; 3 anos, 1 mês e 10 dias de reclusão e 15 dias-multa ; Condenado ; Nilton Antonio de Lima ; Renata Lima Ribeiro Raia
+Furto ; 0000556-62.2021.8.26.0617 ; 1 ano e 6 meses de reclusão e 15 dias-multa ; 1 ano, 4 meses e 13 dias de reclusão e 13 dias-multa ; Condenado ; VICTOR HUGO FILETO ; DENISE VIEIRA MOREIRA
+Furto ; 0008543-17.2015.8.26.0050 ; Não encontrado ; Extinta a punibilidade ; Absolvido ; Marcos Gilberto Santiago ; Rodrigo Cesar Muller Valente
+Furto ; 0000016-31.2018.8.26.0322 ; 1 ano e 4 meses de reclusão, mais 13 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão, mais 15 dias-multa ; Condenado ; Anderson Leandro Trindade ; Jane Carrasco Alves Floriano
+Furto ; 0005625-97.2018.8.26.0482 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão e 14 dias-multa ; Condenado ; Alexandre dos Reis Piccinin ; Cibele Carrasco Rainho Novo
+Furto ; 0005748-40.2015.8.26.0405 ; Não encontrado ; Extinta a punibilidade ; Absolvido ; Jose Carlos de Lima Silva Veroneze ; MARIANA HORTA GREENHALGH
+Furto ; 0002523-42.2018.8.26.0361 ; 1 ano, 02 meses e 12 dias de reclusão e 12 dias-multa ; 1 ano, 02 meses e 12 dias de reclusão e 12 dias-multa ; Condenado ; Carlos Kevin Gimenes ; Tatiana Saes Valverde Ormeleze
+Receptação ; 0002523-42.2018.8.26.0361 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; Davy Camargo Casanova Poso ; Tatiana Saes Valverde Ormeleze
+Furto ; 0000992-17.2012.8.26.0300 ; 2 anos de reclusão e 10 dias-multa ; 2 anos e 8 meses de reclusão e 13 dias-multa ; Condenado ; Cleã Henrique de Oliveira ; Mariana Tonoli Angeli
+Furto ; 0000992-17.2012.8.26.0300 ; Não encontrado ; Absolvido ; Absolvido ; Rafael Alexandre Carvalho ; Mariana Tonoli Angeli
+Furto ; 0000117-12.2021.8.26.0630 ; 2 anos, 4 meses e 24 dias de reclusão e 12 dias-multa ; 3 anos, 8 meses e 24 dias de reclusão e 18 dias-multa ; Condenado ; Moises de Oliveira ; EUGENIO AUGUSTO CLEMENTI JUNIOR
+Furto ; 0001837-05.2011.8.26.0035 ; 2 anos de reclusão e 10 dias-multa ; 1 ano e 4 meses de reclusão e 6 dias-multa ; Condenado ; CLODOALDO LUCIANO DOS REIS ; Fabiola Brito do Amaral
+Furto ; 0003406-28.2020.8.26.0099 ; 2 anos de reclusão e 10 dias-multa ; 8 meses de reclusão e 3 dias-multa ; Condenado ; JEFFERSON PIRES COUVO ; Nicole de Almeida Campos Leite Colombini
+Furto ; 0002274-20.2014.8.26.0430 ; None ; None ; Extinta a Punibilidade ; MARCOS ALESSANDRO DE SOUZA DA SILVA ; LUAN CASAGRANDE
+Furto ; 0001601-27.2018.8.26.0126 ; None ; None ; Extinta a Punibilidade ; ELZILÉIA VENTURA DA SILVA ; JULIO DA SILVA BRANCHINI
+Furto ; 0006308-68.2015.8.26.0441 ; None ; None ; Extinta a Pena ; Daniel Iatauro Navarro ; ANDERSON JOSÉ BORGES DA MOTA
+Furto ; 0005215-29.2018.8.26.0453 ; None ; None ; Absolvida ; Camila Bardini Freitas ; MOEMA MOREIRA PONCE LACERDA
+Furto ; 0005215-29.2018.8.26.0453 ; None ; None ; Absolvida ; MÁRCIA CHAVES GALLO ; MOEMA MOREIRA PONCE LACERDA
+Furto ; 0002551-07.2017.8.26.0535 ; 1 ano de reclusão e 10 dias-multa ; 6 meses de reclusão e 5 dias-multa ; Condenado ; WILLIAM SANTOS RIVAROLI ; MIRIAN KEIKO SANCHES MACEDO
+Furto ; 0001281-04.2018.8.26.0408 ; None ; None ; Extinta a Punibilidade ; JOSÉ LUCIANO DA SILVA ; Renata Ferreira dos Santos Carvalho
+Furto ; 0000329-46.2016.8.26.0456 ; None ; None ; Extinto o Feito ; DIEGO DA SILVA CRISTINO ; ADRIANO CAMARGO PATUSSI
+Furto ; 0000025-30.2022.8.26.0426 ; None ; None ; Absolvido ; MICHELLE APARECIDA BARBOSA DE OLIVEIRA ; DANIEL DIEGO CARRIJO
+Furto ; 0000025-30.2022.8.26.0426 ; None ; None ; Condenado ; CLEBER PADILHA FERRARI ; DANIEL DIEGO CARRIJO
+Furto ; 0008951-41.2017.8.26.0566 ; None ; None ; None ; RENATA COIMBRÃO TIKAMI ; André Luiz de Macedo
+Furto ; 0001779-17.2016.8.26.0038 ; None ; None ; Absolvido ; JOSÉ NELSON RIBEIRO DOS SANTOS ; Rafael Pavan de Moraes Filgueira
+Furto ; 0000766-59.2015.8.26.0024 ; 02 (dois) anos de reclusão e 10 (dez) dias multa ; 02 (dois) anos de reclusão e 10 (dez) dias multa ; Condenado ; JEFFERSON PEREIRA DA SILVA ; ALEXANDRE RODRIGUES FERREIRA
+Furto ; 0008394-12.2015.8.26.0635 ; None ; None ; None ; CAIO EDUARDO GOMES DO NASCIMENTO ; Lilian Lage Humes
+Furto ; 0009320-31.2016.8.26.0126 ; None ; None ; None ; MARIA DE LOURDES DE ABREU ANDRADE ; JULIO DA SILVA BRANCHINI
+Furto (Crime Tentado) ; 0000581-75.2017.8.26.0630 ; 10 (dez) dias-multa ; 6 (seis) dias-multa ; Condenado ; CRISTIANO VIEIRA VILA ; Letícia Lemos Rossi
+Furto ; 0005432-81.2016.8.26.0408 ; None ; None ; None ; JOÃO VITOR LEMES ; Renata Ferreira dos Santos Carvalho
+Furto ; 0004369-82.2017.8.26.0635 ; None ; None ; None ; PEDRO FERNANDES BELEBECHA FILHO ; Augusto Antonini
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano de reclusão, além de 10 dias-multa ; 1 ano de reclusão, além de 10 dias-multa ; Condenado ; VINICIUS ROBERTO GOMES DE FREITAS ; Alexandro Conceição dos Santos
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano de reclusão, além de 10 dias-multa ; 1 ano de reclusão, além de 10 dias-multa ; Condenado ; PAULO HENRIQUE MOREIRA ORSI ; Alexandro Conceição dos Santos
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano de reclusão, além de 10 dias-multa ; 1 ano de reclusão, além de 10 dias-multa ; Condenado ; PAULO ROGÉRIO CERQUEIRA FILHO ; Alexandro Conceição dos Santos
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano, 3 meses e 6 dias de reclusão, além de 12 dias-multa ; 1 ano, 8 meses e 8 dias de reclusão, além de 16 dias-multa ; Condenado ; CRISTIANO MORAES SILVA ; Alexandro Conceição dos Santos
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano de reclusão ; 1 ano de reclusão ; Condenado ; MICHEL ALEXANDRE DA SILVA ; Alexandro Conceição dos Santos
+Furto ; 0004193-47.2016.8.26.0568 ; 2 anos de reclusão ; 2 anos de reclusão, convertidos em 10 dias-multa e prestação de serviços à comunidade ; Condenado ; GUILHERME AUGUSTO SANSANA ; Elaní Cristina Mendes Marum
+Furto ; 0001342-92.2015.8.26.0625 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; Joao Luiz Goncalves Neto Junior ; Fernanda Teixeira Salviano da Rocha
+Furto (art. 155) ; 0001618-20.2007.8.26.0459 ; Não informado ; Extinta a punibilidade ; Prescrição da Pretensão Punitiva ; CLEBER RODRIGO TOMAZELLI ; FREDERICO PUPO CARRIJO DE ANDRADE
+Furto ; 0004445-81.2018.8.26.0438 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade pelo cumprimento do acordo de não persecução penal ; GUILHERME HENRIQUE GOMES DE SOUZA ; PEDRO DE CASTRO E SOUSA
+Furto (art. 155) ; 0002040-59.2016.8.26.0271 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Adriano da Silva dos Reis ; Udo Wolff Dick Appolo Do Amaral
+Furto ; 0004520-91.2018.8.26.0189 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Catia Grigatti dos Santos ; JULIANO SANTOS DE LIMA
+Furto ; 0002748-32.2018.8.26.0565 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; CAIO DA SILVA GONÇALVES ; Pedro Corrêa Liao
+Furto ; 0001450-87.2016.8.26.0625 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Daniela Ferreira dos Santos ; Cláudia Calles Novellino Ballestero
+Furto ; 0004037-37.2012.8.26.0459 ; Não informado ; Extinta a punibilidade ; Prescrição da Pretensão Punitiva ; JESSICA PATRÍCIA CONSTANTINO DE CASTRO ; FREDERICO PUPO CARRIJO DE ANDRADE
+Furto ; 0009550-87.2019.8.26.0152 ; 3 anos e 6 meses de reclusão e 97 dias-multa ; 3 anos e 6 meses de reclusão e 97 dias-multa, convertidos em prestação de serviços à comunidade e prestação pecuniária ; Condenado ; Marcos Antonio Alves da Silva ; RAFAEL RAUCH
+Furto ; 0005717-89.2015.8.26.0576 ; 1 ano de reclusão e 10 dias-multa ; 1 ano e 2 meses de reclusão e 11 dias-multa ; Condenado ; ELTON KLEBER DA SILVA ; LUCIANA CASSIANO ZAMPERLINI COCHITO
+Furto ; 0005717-89.2015.8.26.0576 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; FERNANDO DONIZETI DA SILVA ; LUCIANA CASSIANO ZAMPERLINI COCHITO
+Furto ; 0005717-89.2015.8.26.0576 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; CLEYTON DE SOUZA UNGRIAS ; LUCIANA CASSIANO ZAMPERLINI COCHITO
+Furto ; 0000813-15.2017.8.26.0072 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; THIAGO FERNANDES PEREIRA ; JOAO CARLOS SAUD ABDALA FILHO
+Furto ; 0009336-19.2016.8.26.0050 ; Não informado ; Extinta a Punibilidade ; Extinção da Punibilidade ; ROBSON FRANCA FIUZA DA SILVA ; FABIOLA OLIVEIRA SILVA
+Receptação ; 0001566-97.2017.8.26.0095 ; Não informado ; Absolvido ; Absolvido ; WELINGTON FERNANDO DA SILVA ; MARCELA MACHADO MARTINIANO
+Furto ; 0000801-94.2016.8.26.0311 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; Emerson Carlos Nogueira de Oliveira ; VANDICKSON SOARES EMIDIO
+Furto ; 0005063-16.2008.8.26.0587 ; Não informado ; Extinta a Punibilidade ; Extinção da Punibilidade ; Juvenal Rocha da Silva ; GLAUCIA FERNANDES PAIVA
+Furto ; 0006406-91.2018.8.26.0362 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Rogerio de Souza ; PAULO ROGERIO MALVEZZI
+Furto ; 0000038-53.2015.8.26.0659 ; Não informado ; Absolvida ; Absolvido ; Valdete do Nascimento Martins ; Fábio Marcelo Holanda
+Furto ; 0000601-61.2016.8.26.0352 ; Não informado ; Extinta a pena de multa ; Extinção da Pena de Multa ; DANILO HENRIQUE PAULA DE OLIVEIRA ; ELISA LEONESI MALUF
+Furto ; 0002387-17.2016.8.26.0587 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão e 14 dias-multa ; Extinta a Punibilidade ; JOSÉ FABIANO RIBEIRO SILVA ; GLAUCIA FERNANDES PAIVA
+Furto ; 0006100-79.2018.8.26.0635 ; None ; 8 meses de reclusão e 6 dias-multa ; Condenado ; JOHNNY STEPHAN DE SOUSA CESARIO ; Ana Helena Rodrigues Mellim
+Furto ; 0009108-64.2006.8.26.0189 ; None ; None ; Extinta a Punibilidade ; Antonio Carlos dos Santos ; VINICIUS CASTREQUINI BUFULIN
+Furto ; 0000198-95.2017.8.26.0566 ; None ; None ; Extinta a Punibilidade ; Hélio Vendramini Junior ; André Luiz de Macedo
+Furto ; 0007282-94.2006.8.26.0482 ; None ; None ; Extinta a Punibilidade ; Valderlei da Silva Siqueira ; Cibele Carrasco Rainho Novo
+Furto ; 0000802-08.2018.8.26.0603 ; None ; None ; Extinta a Punibilidade ; Pedro Borges Filho ; Leonardo Lopes Sardinha
+Furto ; 0006039-92.2011.8.26.0045 ; 2 anos de reclusão ; 2 anos de reclusão e 10 dias-multa ; Condenado ; Fernando Aparecido Catani ; NAIRA BLANCO MACHADO
+Furto ; 0003620-96.2016.8.26.0248 ; 2 anos de reclusão e 10 dias-multa ; 2 anos e 4 meses de reclusão e 11 dias-multa ; Condenado ; Ivonete Alexandrina dos Santos ; Daniela Faria Romano
+Furto ; 0000967-64.2015.8.26.0537 ; None ; None ; Extinta a Punibilidade ; Rosimeire Galdino dos Santos ; KLEBER LELES DE SOUZA
+Furto ; 0002267-50.2022.8.26.0526 ; 3 anos de reclusão e 15 dias-multa ; 4 anos e 8 meses de reclusão e 22 dias-multa ; Condenado ; ALEX DA ROCHA PINHEIRO ; Beatriz Sylvia Straube de Almeida Prado Costa
+Furto ; 0000391-84.2018.8.26.0628 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; ERIVALTO DE JESUS SANTOS ; TALES NOVAES FRANCIS DICLER
+Furto ; 0006395-53.2017.8.26.0635 ; 2 anos e 4 meses de reclusão e 11 dias-multa ; 2 anos e 4 meses de reclusão, substituída por prestação de serviços à comunidade, e 11 dias-multa ; Condenado ; Anderson Aparecido Santana ; Fabíola Oliveira Silva
+Furto ; 0000234-17.2016.8.26.0488 ; None ; None ; Extinta a Punibilidade ; Michel dos Santos Silva ; Lucas Campos de Souza
+Furto ; 0005148-03.2018.8.26.0635 ; None ; None ; Extinta a Punibilidade ; MAIKE RODRIGO DOS SANTOS DIAS ; Renata William Rached Catelli
+Furto ; 0000614-97.2016.8.26.0275 ; 2 anos e 4 meses de reclusão e 11 dias-multa ; 2 anos de reclusão, substituída por prestação de serviços à comunidade e prestação pecuniária, e 10 dias-multa ; Condenado ; Clélio Cristóvão Santos de Almeida ; VINICIUS JOSÉ CAETANO MACHADO DE LIMA
+Furto ; 0000614-97.2016.8.26.0275 ; 2 anos e 4 meses de reclusão e 11 dias-multa ; 2 anos de reclusão, substituída por prestação de serviços à comunidade e prestação pecuniária, e 10 dias-multa ; Condenado ; Diogo de Souza Silva ; VINICIUS JOSÉ CAETANO MACHADO DE LIMA
+Furto ; 0005187-09.2022.8.26.0037 ; 3 anos de reclusão e 15 dias multa ; 5 anos e 10 meses de reclusão, além do pagamento de 28 dias-multa ; Condenado ; JOÃO DE PAULA DA SILVA NETO ; Roberto Raineri Simão
+Furto ; 0005074-50.2022.8.26.0362 ; 1 anos e 3 meses de reclusão e pagamento de 12 dias-multa ; 1 ano, 11 meses e 10 dias de reclusão e pagamento de 18 dias multa ; Condenado ; MARCIO DONIZETE APARECIDA ; PAULO ROGERIO MALVEZZI
+Furto ; 0000096-87.2017.8.26.0238 ; None ; None ; Extinta a Punibilidade ; BENTO JOAQUIM DE OLIVEIRA NETO ; Luiz Fernando Angiolucci
+Furto ; 0001112-82.2016.8.26.0506 ; dois anos, oito meses e vinte dias de reclusão e pagamento de doze dias-multa ; 3 (três) anos, 2 (dois) meses e 3 (três) dias de reclusão e pagamento de 14 dias-multa ; Condenado ; Jean Rafael de Carvalho ; Guacy Sibille Leite
+Furto ; 0000759-73.2021.8.26.0536 ; 1 (um) ano de reclusão e 10 (dez) dias-multa ; 6 (seis) meses de reclusão ; Condenado ; JOSE CARLOS DOS SANTOS FILHO ; EDMILSON ROSA DOS SANTOS
+Furto ; 0000156-88.2017.8.26.0358 ; 02 anos e 04 meses de reclusão e 11 dias-multa ; 03 anos, 10 meses e 20 dias de reclusão e 18 dias-multa ; Condenado ; Kevin Maxi Miler Fuzati Costa ; Natália Berti
+Furto ; 0003746-57.2013.8.26.0538 ; Não informado ; Absolvido ; Absolvido ; Gustavo Michelon ; FELIPE GUINSANI
+Furto ; 0007189-53.2018.8.26.0566 ; Não informado ; Extinção da punibilidade ; Extinção da punibilidade ; MARCIO APARECIDO GAINO ; André Luiz de Macedo
+Furto (art. 155) ; 0003137-35.2012.8.26.0142 ; Não encontrado ; Absolvido ; Absolvido ; LUIZ HENRIQUE DE OLIVEIRA MANSIN ; FABIANO MOTA CARDOSO
+Furto ; 0000750-53.2015.8.26.0106 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; FABIO DOS SANTOS LISBOA ; DANIEL NAKAO MAIBASHI
+Furto ; 0002721-63.2017.8.26.0022 ; Não encontrado ; 1 ano de reclusão em regime aberto ; Condenado ; EDSON FERNANDO TAVARES ; Fernando Leonardi Campanella
+Furto ; 0000500-86.2018.8.26.0535 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; ROGERIO AUGUSTO DE OLIVEIRA ; ANDRE LUIZ DA SILVA DA CUNHA
+Furto ; 0000337-93.2018.8.26.0022 ; Não encontrado ; 8 meses e 26 dias de reclusão em regime semiaberto ; Condenado ; CARLOS ROBINSON DAÓLIO ; Fernando Leonardi Campanella
+Furto ; 0005069-67.2017.8.26.0050 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; ADALBERTO CARLOS DOS REIS ; Lilian Lage Humes
+Furto ; 0002062-82.2017.8.26.0530 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Ronaldo Adriano da Silva ; Guaracy Sibille Leite
+Furto (art. 155) ; 0007820-41.2010.8.26.0157 ; Não encontrado ; Extinta a Pena de Multa ; Extinta a Pena de Multa ; MARCELO FERREIRA ; Rodrigo Pinati da Silva
+Furto ; 0001610-74.2017.8.26.0594 ; Não encontrado ; 1 ano, 6 meses e 20 dias de reclusão em regime aberto ; Condenado ; LUCAS MATHEUS DIAS DA SILVA ; Cláudio Augusto Saad Abujamra
+Furto ; 0000125-82.2016.8.26.0591 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; LUCAS SANTOS BARBOSA DA SILVA ; ALINE TABUCHI DA SILVA
+Furto ; 0002807-18.2016.8.26.0168 ; None ; None ; Extinta a pena de multa ; Eduardo Soares da Silva de Jesus ; Aline Sugahara Bertaco
+Furto ; 0002074-11.2020.8.26.0201 ; 2 anos e 4 meses de reclusão e 11 dias-multa ; 2 anos, 8 meses e 20 dias de reclusão e 12 dias-multa ; Condenado ; JEAN CELSO EVANGELISTA ; Renata Lima Ribeiro Raia
+Furto ; 0002074-11.2020.8.26.0201 ; 2 anos de reclusão e 10 dias-multa ; 2 anos de reclusão e 10 dias-multa ; Condenada, pena substituida por restritivas de direito ; CASSIA STEFANI DE PAULA ; Renata Lima Ribeiro Raia
+Furto (art. 155) ; 0000150-13.2001.8.26.0562 ; None ; None ; Extinta a punibilidade ; UBIRACI TORRES GARCIA ; Silvana Amneris Rôlo Pereira Borges
+Furto (art. 155) ; 0008905-20.2008.8.26.0323 ; 1 ano, 1 mês e 15 dias de reclusão e 11 dias-multa ; 1 ano, 8 meses e 29 dias de reclusão e 16 dias-multa ; Condenado ; JOEL GUEDES DIAS ; Daniel Otero Pereira da Costa
+Furto ; 0000981-28.2018.8.26.0542 ; None ; None ; Extinta a punibilidade ; ROBSON RIBEIRO ; MARCIA DE MELLO ALCOFORADO HERRERO
+Furto (art. 155) ; 0000295-91.2010.8.26.0291 ; None ; None ; Extinta a punibilidade ; Marcelo Cândido da Silva ; Leandro Galluzzi dos Santos
+Furto ; 0003845-31.2014.8.26.0590 ; None ; None ; Extinta a punibilidade ; Marcelo Marcos Guimarães ; Luís Guilherme Vaz de Lima Cardinale
+Furto ; 0000088-79.2017.8.26.0022 ; None ; None ; Extinta a pena de multa ; Luis Henrique Martins ; Fernando Leonardi Campanella
+Furto ; 0001287-73.2022.8.26.0536 ; None ; None ; Absolvido ; Marcos Roberto da Silva ; Alexandre Torres de Aguiar
+Furto ; 0003042-70.2015.8.26.0248 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado, pena substituida por restritiva de direitos ; Maykon de Lima Francisco ; Daniela Faria Romano
+Furto ; 0002645-28.2013.8.26.0168 ; Não foi definido. ; Absolvido. ; Absolvido ; Gevaldo Matias Dantas ; ALINE TABUCHI DA SILVA
+Furto ; 0000207-78.2018.8.26.0095 ; 1 ano e 10 dias-multa ; 8 meses de reclusão e 6 dias-multa. ; Condenado ; Wesley Fernando Cardoso ; MARCELA MACHADO MARTINIANO
+Furto ; 0000207-78.2018.8.26.0095 ; Não foi definido. ; Absolvido. ; Absolvido ; Matheus Fernando Pereira ; MARCELA MACHADO MARTINIANO
+Furto ; 0000859-39.2018.8.26.0146 ; Não foi definido. ; Absolvido. ; Absolvido ; Valentim Moreira dos Santos ; JULIANA SILVA FREITAS
+Furto ; 0008464-12.2018.8.26.0348 ; 02 anos de reclusão e 10 dias-multa ; 02 anos de reclusão e 10 dias-multa ; Condenado ; Giovani Burato Alvim ; Paulo Antonio Canali Campanella
+Furto ; 0003009-29.2015.8.26.0362 ; Não foi definido. ; Extinta a punibilidade ; Extinta a punibilidade ; Isaque Fernandes ; PAULO ROGERIO MALVEZZI
+Furto ; 0002466-34.2016.8.26.0542 ; Não foi definido. ; Extinta a punibilidade ; Extinta a punibilidade ; Wesley de Lucas ; MARIANA HORTA GREENHALGH
+Furto ; 0008698-03.2012.8.26.0510 ; Não foi definido. ; Absolvido. ; Absolvido ; Nilton dos Santos de Almeida ; CAIO CESAR GINEZ ALMEIDA BUENO
+Furto ; 0002070-50.2010.8.26.0095 ; Não foi definido. ; Absolvido. ; Absolvido ; Luzia Santos da Silva ; MARCELA MACHADO MARTINIANO
+Furto ; 0000001-69.2013.8.26.0538 ; Não foi definido. ; Extinta a punibilidade ; Extinta a punibilidade ; Priscila Segantini ; GUILHERME MARTINS DAMINI
+Furto ; 0000001-69.2013.8.26.0538 ; Não foi definido. ; Extinta a punibilidade ; Extinta a punibilidade ; Isabel Cristina Gimenez Segantini ; GUILHERME MARTINS DAMINI
+Furto ; 0007524-33.2015.8.26.0322 ; Não foi definido. ; Absolvido. ; Absolvido ; Alex Henrique Pereira Alves ; Jane Carrasco Alves Floriano
+Furto ; 0006079-44.2013.8.26.0291 ; Não informado ; Extinta a punibilidade em relação à pena de multa ; Extinção da Punibilidade ; Alafi Rodrigo Carreira ; Leandro Galluzzi dos Santos
+Furto ; 0007364-26.2014.8.26.0586 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Carlos Cesar da Paixao Marinho ; Flavio Roberto de Carvalho
+Furto ; 0004091-47.2018.8.26.0635 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 8 meses de reclusão e 6 dias-multa ; Condenado ; JOSUE JORDAN RICARDO LINARES MIRANDA ; MANOELA ASSEF DA SILVA
+Furto ; 0007342-34.2008.8.26.0050 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Alceri Floriano Ferreira ; Luciane Jabur Mouchaloite Figueiredo
+Furto ; 0002556-44.2014.8.26.0079 ; 1 ano de reclusão ; 1 ano de reclusão ; Condenado ; Fabio Andrade Santiago ; CRISTINA ESCHER
+Furto ; 0001634-44.2014.8.26.0615 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 4 meses de reclusão e 3 dias-multa ; Condenado ; Jeferson Augusto de Souza ; Renato Soares de Melo Filho
+Furto ; 0006933-93.2016.8.26.0077 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Franciscarlos de Jesus de Souza ; ADRIANO PINTO DE OLIVEIRA
+Furto ; 0003675-83.2015.8.26.0506 ; Não informado ; Absolvido ; Absolvido ; Alex Adriano Fratti ; Guacy Sibille Leite
+Furto ; 0000468-96.2018.8.26.0530 ; Não informado ; Extinta a pena de multa ; Extinção da pena de multa ; Vinicius Soares da Silva ; Viviane Decnop Freitas Figueira
+Furto ; 0000662-03.2016.8.26.0616 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Renato Seichi Seo ; Milton de Oliveira Sampaio Neto
+Furto ; 0003578-47.2016.8.26.0248 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão, em regime inicial aberto, e 10 dias-multa ; Condenado ; Junior Aparecido Satil ; JOSE EDUARDO DA COSTA
+Furto ; 0004579-60.2008.8.26.0050 ; None ; None ; Extinta a Punibilidade ; Ivanei Penha da Silva ; Margot Chrysostomo Corrêa
+Furto ; 0001834-96.2016.8.26.0642 ; 1 ano de reclusão e 11 dias-multa ; 1 ano e 2 meses de reclusão, em regime inicial semiaberto, e 11 dias-multa ; Condenado ; Carlos Andre Machado Garcia ; Diogo Volpe Gonçalves Soares
+Furto ; 0001117-62.2022.8.26.0161 ; 3 anos de reclusão e 15 dias-multa ; 3 anos de reclusão, em regime aberto, e 15 dias-multa ; Condenado ; Guilhermo Orlando Buitrago Bustos ; Patrícia Helena Hehl Forjaz de Toledo
+Furto ; 0005875-55.2018.8.26.0604 ; 2 anos de reclusão e 20 dias-multa ; 2 anos reclusão, em regime inicial semiaberto, e 20 dias-multa ; Condenado ; ELIABINER HENRIQUE RIBEIRO ; André Forato Anhê
+Furto ; 0005468-62.2007.8.26.0595 ; None ; None ; Extinta a Punibilidade ; Joao Antonio Lopes Gonzales ; JULIANA MARIA FINATI
+Furto ; 0002685-58.2009.8.26.0068 ; None ; None ; Extinta a Punibilidade ; Amarildo dos Santos Donizete ; Cyntia Menezes de Paula Straforini
+Furto ; 0002850-60.2017.8.26.0542 ; 2 anos e 4 meses de reclusão, e 11 dias-multa ; 2 anos, 8 meses e 20 dias de reclusão, em regime inicial fechado, e 12 dias-multa ; Condenado ; Renato Silva de Oliveira ; MARCIA DE MELLO ALCOFORADO HERRERO
+Furto ; 0000449-43.2020.8.26.0620 ; 02 (dois) anos e 09 (nove) meses de reclusão e 53 (cinquenta e três) dias-multa ; 02 (dois) anos e 09 (nove) meses de reclusão, no regime ABERTO,  além de pagamento de 53 (cinquenta e três) dias-multa ; Condenado ; Eliseu de Camargo ; DIANA CRISTINA SILVA SPESSOTTO
+Furto ; 0003472-92.2018.8.26.0126 ; None ; None ; Extinta a Punibilidade ; ALAN DE MORAES ARAÚJO ; JULIO DA SILVA BRANCHINI
+tipo_crime;numero_processo;sentença_base;sentença_definitiva;conclusao;nome_suspeito;nome_juiz
+Furto ; 0001557-61.2017.8.26.0540 ; 1 ano de reclusão e 10 dias-multa ; 1 ano e 4 meses de reclusão e 13 dias-multa ; Condenado ; Rodrigo Aparecido Rodrigues de Moraes ; Paulo Antonio Canali Campanella
+Furto ; 0000617-20.2018.8.26.0069 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; Lindomar Barros Roza ; FABIO ALEXANDRE MARINELLI SOLA
+Furto ; 0005351-24.2016.8.26.0153 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Meire Adriana Carvalho ; GABRIEL ALVES BUENO PEREIRA
+Furto ; 0000198-92.2011.8.26.0247 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Vivian de Oliveira Salvador ; LUCAS GARBOCCI DA MOTTA
+Furto ; 0001238-74.2016.8.26.0493 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão, e 14 dias-multa ; Condenado ; IVO TIAGO PEIXOTO DE ANDRADE ; MARCEL PANGONI GUERRA
+Furto ; 0000149-84.2018.8.26.0189 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Suely Peres Gama ; JULIANO SANTOS DE LIMA
+Furto ; 0004190-17.2016.8.26.0108 ; Não informado ; Extinta a pena de multa ; Extinta a pena de multa ; MARCO ANTONIO SANDES DE OLIVEIRA ; Renato dos Santos
+Furto ; 0000583-78.2022.8.26.0142 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Naiara Beatriz dos Santos da Cruz ; FAULER FELIX DE AVILA
+Furto ; 0003890-90.2014.8.26.0022 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa, substituída por pena restritiva de direitos ; Condenado ; Alex Sandro Ribeiro ; Fabiola Brito do Amaral
+Furto ; 0000560-97.2018.8.26.0587 ; 2 anos de reclusão e 10 dias-multa ; 2 anos de reclusão e 10 dias-multa, substituída por pena restritiva de direitos ; Condenado ; JOÃO VITOR LUCRÉCIO ; Glaucia Fernandes Paiva
+Furto (art. 155) ; 0006111-93.2012.8.26.0223 ; 1 ano e 2 meses de reclusão, regime inicial aberto, e pagamento de 6 dias-multa ; Extinta a punibilidade pela ocorrência da prescrição da pretensão executória do Estado ; Extinta a Punibilidade ; Raul Portela Cândido ; Denise Gomes Bezerra Mota
+Furto ; 0008328-27.2018.8.26.0635 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; RUBENS MIGLIANO MONTELEONE ; Lilian Lage Humes
+Furto (art. 155) ; 0006246-87.2014.8.26.0271 ; 5 anos e 4 meses de reclusão e 168 dias-multa, em regime fechado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Silvio Rezende Viana ; Udo Wolff Dick Appolo Do Amaral
+Furto (art. 155) ; 0005385-43.2010.8.26.0271 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; Danilo Pereira Pinheiro ; Udo Wolff Dick Appolo Do Amaral
+Furto ; 0000206-93.2018.8.26.0095 ; N/A ; Absolvido ; Absolvido ; WILLIAN TESSUTTI GUILHERME ; MARCELA MACHADO MARTINIANO
+Furto ; 0000206-93.2018.8.26.0095 ; N/A ; Absolvido ; Absolvido ; IGOR JULIO DE ALMEIDA ; MARCELA MACHADO MARTINIANO
+Furto ; 0007673-03.2017.8.26.0405 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; KARINA MARIA DO ROSARIO ANTONIO ; MARIANA HORTA GREENHALGH
+Furto ; 0000618-37.2017.8.26.0587 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; ISRAEL PEREIRA BARRETO ; GLAUCIA FERNANDES PAIVA
+Furto ; 0002147-21.2018.8.26.0405 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; ITALO RODRIGUES CONCIO ; MARIANA HORTA GREENHALGH
+Furto ; 0004262-86.2014.8.26.0459 ; N/A ; Extinta a Punibilidade ; Extinta a Punibilidade ; WALDEMIR ANTÔNIO MATRICARDI JÚNIOR ; FREDERICO PUPO CARRIJO DE ANDRADE
+Furto ; 0007765-33.2004.8.26.0050 ; N/A ; Extinta a punibilidade ; Extinta a punibilidade ; Maria Sidineide Barbosa ; Cynthia Torres Cristofaro
+Furto ; 0000812-44.2019.8.26.0368 ; 2 anos e 4 meses de reclusão e 17 dias-multa ; 2 anos, 7 meses e 15 dias de reclusão e 19 dias-multa ; Condenada ; Andréia Thomaz Ventura ; Gilson Miguel Gomes da Silva
+Furto ; 0001369-91.2017.8.26.0306 ; 01 ano e 02 meses de reclusão ; 02 anos, 08 meses e 20 dias de reclusão e 10 dias-multa ; Condenado ; Adenilson Cândido de Oliveira ; Natália Berti
+Furto ; 0000446-02.2018.8.26.0348 ; 02 anos e 04 meses de reclusão e 11 dias-multa ; 03 anos, 07 meses e 16 dias de reclusão e 16 dias-multa ; Condenado ; EDiSON DE SOUZA NASCIMENTO ; Paulo Antonio Canali Campanella
+Furto ; 0009133-48.2016.8.26.0635 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; None ; Extinta a Punibilidade ; BRIAN CHIARELLI LYRA COSTA ; LETICIA DE ASSIS BRUNING
+Furto ; 0009503-42.2022.8.26.0562 ; 1 ano de reclusão e 10 dias-multa ; 01 ano e 04 meses de reclusão, com o pagamento de 13 dias-multa ; Condenado ; GABRIEL SILVA MORAES ; Leonardo de Mello Gonçalves
+Furto (art. 155) ; 0000120-10.2020.8.26.0045 ; 02 (dois) anos de reclusão e 10 dias-multa ; 02 (dois) anos de reclusão, além de 10 dias multa ; Condenado ; Antonio Almeida de Araujo ; NAIRA BLANCO MACHADO
+Furto ; 0000600-83.2013.8.26.0125 ; None ; None ; Extinta a punibilidade ; Ricardo Giatti ; ANDRE LUIZ MARCONDES PONTES
+Furto ; 0007258-31.2016.8.26.0348 ; 1 ano de reclusão e 10 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão, e 15 dias-multa ; Condenada ; GIOVANA RODRIGUES SOARES ; SANDRO RAFAEL BARBOSA PACHECO
+Furto ; 0007258-31.2016.8.26.0348 ; 1 ano de reclusão e 10 dias-multa ; 1 ano e 2 meses de reclusão, e 11 dias-multa ; Condenado ; SILVIO DOMINGUES DE CAMPOS ; SANDRO RAFAEL BARBOSA PACHECO
+Furto ; 0001125-86.2021.8.26.0383 ; None ; None ; Absolvido ; JOÃO ANTÔNIO FREITAS PEREIRA ; Kerla Karen Ramalho de Castilho Magrini
+Furto (art. 155) ; 0000492-73.2022.8.26.0534 ; 2 anos de reclusão e 10 dias-multa ; None ; Reabilitado ; Flaviano de Souza Alves ; Adriana Vicentin Pezzatti de Carvalho
+Furto ; 0001396-11.2018.8.26.0542 ; Não informado ; Extinta a punibilidade ; Absolvido ; WELDON SANTOS CUSTODIO ; MARIANA HORTA GREENHALGH
+Furto (art. 155) ; 0004041-49.2017.8.26.0152 ; Não informado ; Extinta a punibilidade ; Absolvido ; Edmauro Jose da Silva ; RAFAEL RAUCH
+Furto ; 0004682-02.2016.8.26.0272 ; Não informado ; Extinta a punibilidade ; Absolvido ; Rogerio  Augusto da Silva ; VANESSA APARECIDA BUENO
+Furto ; 0005348-34.2022.8.26.0032 ; 2 anos e 4 meses de reclusão e 11 dias-multa. ; 2 anos, 8 meses e 20 dias de reclusão e 12 dias-multa ; Condenado ; Edilson Jeso da Silva ; Roberto Soares Leite
+Furto ; 0007970-67.2015.8.26.0635 ; Não informado ; Extinta a punibilidade ; Absolvido ; ALEXANDRE PEREIRA CYRILLO DA SILVA ; FERNANDO AUGUSTO ANDRADE CONCEIÇÃO
+Furto ; 0002644-71.2016.8.26.0642 ; Não informado ; 4 meses de reclusão e 3 dias-multa ; Condenado ; Carlos Heller Moses Ferreira ; Diogo Volpe Gonçalves Soares
+Furto ; 0001862-87.2020.8.26.0201 ; Não informado ; Absolvido ; Absolvido ; FABIO MARTINS SAROA ; TIAGO TADEU SANTOS COELHO
+Furto ; 0001461-66.2017.8.26.0210 ; 1 ano de reclusão e 10 dias-multa ; 1 ano e 4 meses de reclusão e 13 dias-multa ; Condenado ; Wiliam Carlos dos Santos ; ANDERSON VALENTE
+Furto ; 0001459-19.2016.8.26.0150 ; 2 anos de reclusão e 10 dias-multa ; Extinta a punibilidade ; Absolvido ; CLAUDINEI ALVES DA SILVA ; Maria Thereza Nogueira Pinto
+Furto ; 0001459-19.2016.8.26.0150 ; 2 anos de reclusão e 10 dias-multa ; Extinta a punibilidade ; Absolvido ; LUIS CARLOS MORAIS ; Maria Thereza Nogueira Pinto
+Receptação qualificada ; 0001459-19.2016.8.26.0150 ; Não informado ; Absolvido ; Absolvido ; ANTONIO ALBERTO GOMES DE SOUZA ; Maria Thereza Nogueira Pinto
+Furto (art. 155) ; 0003694-70.2006.8.26.0582 ; Não informado ; Absolvido ; Absolvido ; Anderson Alves Pedroso ; Matheus Oliveira Nery Borges
+Furto ; 0004827-58.2016.8.26.0272 ; Não informado ; Extinção da pena de multa ; Extinção da pena de multa ; DAVID RAFAEL DE SOUZA ; Helia Regina Pichotano
+Furto ; 0004349-37.2016.8.26.0050 ; Não informado ; Absolvido ; Absolvido ; MARCO ANTONIO MASSARO ; ANA CAROLINA MUNHOZ DE ALMEIDA
+Furto de coisa comum ; 0000875-19.2011.8.26.0152 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; MAURO FERREIRA DA CRUZ e SANDRO REBELLO DA SILVA ; Andressa Martins Bejarano
+Furto ; 0000044-83.2017.8.26.0564 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; ANGELO KISSELOFF LOPES RUBINHO ; Edegar de Sousa Castro
+Furto ; 0002107-13.2013.8.26.0050 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; CLAYTON MOTA PIRES DE ALMEIDA ; Augusto Antonini
+Furto ; 0002511-28.2016.8.26.0028 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Danielle Aparecida Marcondes de Carvalho ; ANDERSON DA SILVA ALMEIDA
+Furto ; 0005813-09.2016.8.26.0079 ; 1 ano e 2 meses de reclusão ; Pena restritiva de direito - Prestação de serviços à comunidade e pena pecuniária ; Condenado ; MAICON DE LIMA ; CRISTINA ESCHER
+Furto ; 0000634-65.2017.8.26.0530 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Lerediana Andressa Alves e Marta Chenci ; Guaracy Sibille Leite
+Furto ; 0000162-58.2017.8.26.0435 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Raphael Júnior Guedes Paula ; Dayse Lemos de Oliveira
+Furto ; 0008016-62.2018.8.26.0405 ; Não informado ; Extinta a Punibilidade ; Extinta a Punibilidade ; WASHINGTON LUIZ CORREIA ; MARIANA HORTA GREENHALGH
+Furto ; 0002603-79.2017.8.26.0542 ; Não encontrado ; Extinta a punibilidade ; Absolvido ; VANDERLEI DE CASTRO JUNIOR ; MARIANA HORTA GREENHALGH
+Furto ; 0002284-62.2016.8.26.0408 ; 1 a 4 anos de reclusão ; Extinta a punibilidade ; Absolvido ; MARCOS BARBOSA ; Renata Ferreira dos Santos Carvalho
+Furto ; 0004086-66.2018.8.26.0201 ; Não encontrado ; 3 anos, 1 mês e 10 dias de reclusão e 15 dias-multa ; Condenado ; Nilton Antonio de Lima ; Renata Lima Ribeiro Raia
+Furto ; 0000556-62.2021.8.26.0617 ; 1 ano e 6 meses de reclusão e 15 dias-multa ; 1 ano, 4 meses e 13 dias de reclusão e 13 dias-multa ; Condenado ; VICTOR HUGO FILETO ; DENISE VIEIRA MOREIRA
+Furto ; 0008543-17.2015.8.26.0050 ; Não encontrado ; Extinta a punibilidade ; Absolvido ; Marcos Gilberto Santiago ; Rodrigo Cesar Muller Valente
+Furto ; 0000016-31.2018.8.26.0322 ; 1 ano e 4 meses de reclusão, mais 13 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão, mais 15 dias-multa ; Condenado ; Anderson Leandro Trindade ; Jane Carrasco Alves Floriano
+Furto ; 0005625-97.2018.8.26.0482 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão e 14 dias-multa ; Condenado ; Alexandre dos Reis Piccinin ; Cibele Carrasco Rainho Novo
+Furto ; 0005748-40.2015.8.26.0405 ; Não encontrado ; Extinta a punibilidade ; Absolvido ; Jose Carlos de Lima Silva Veroneze ; MARIANA HORTA GREENHALGH
+Furto ; 0002523-42.2018.8.26.0361 ; 1 ano, 02 meses e 12 dias de reclusão e 12 dias-multa ; 1 ano, 02 meses e 12 dias de reclusão e 12 dias-multa ; Condenado ; Carlos Kevin Gimenes ; Tatiana Saes Valverde Ormeleze
+Receptação ; 0002523-42.2018.8.26.0361 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; Davy Camargo Casanova Poso ; Tatiana Saes Valverde Ormeleze
+Furto ; 0000992-17.2012.8.26.0300 ; 2 anos de reclusão e 10 dias-multa ; 2 anos e 8 meses de reclusão e 13 dias-multa ; Condenado ; Cleã Henrique de Oliveira ; Mariana Tonoli Angeli
+Furto ; 0000992-17.2012.8.26.0300 ; Não encontrado ; Absolvido ; Absolvido ; Rafael Alexandre Carvalho ; Mariana Tonoli Angeli
+Furto ; 0000117-12.2021.8.26.0630 ; 2 anos, 4 meses e 24 dias de reclusão e 12 dias-multa ; 3 anos, 8 meses e 24 dias de reclusão e 18 dias-multa ; Condenado ; Moises de Oliveira ; EUGENIO AUGUSTO CLEMENTI JUNIOR
+Furto ; 0001837-05.2011.8.26.0035 ; 2 anos de reclusão e 10 dias-multa ; 1 ano e 4 meses de reclusão e 6 dias-multa ; Condenado ; CLODOALDO LUCIANO DOS REIS ; Fabiola Brito do Amaral
+Furto ; 0003406-28.2020.8.26.0099 ; 2 anos de reclusão e 10 dias-multa ; 8 meses de reclusão e 3 dias-multa ; Condenado ; JEFFERSON PIRES COUVO ; Nicole de Almeida Campos Leite Colombini
+Furto ; 0002274-20.2014.8.26.0430 ; None ; None ; Extinta a Punibilidade ; MARCOS ALESSANDRO DE SOUZA DA SILVA ; LUAN CASAGRANDE
+Furto ; 0001601-27.2018.8.26.0126 ; None ; None ; Extinta a Punibilidade ; ELZILÉIA VENTURA DA SILVA ; JULIO DA SILVA BRANCHINI
+Furto ; 0006308-68.2015.8.26.0441 ; None ; None ; Extinta a Pena ; Daniel Iatauro Navarro ; ANDERSON JOSÉ BORGES DA MOTA
+Furto ; 0005215-29.2018.8.26.0453 ; None ; None ; Absolvida ; Camila Bardini Freitas ; MOEMA MOREIRA PONCE LACERDA
+Furto ; 0005215-29.2018.8.26.0453 ; None ; None ; Absolvida ; MÁRCIA CHAVES GALLO ; MOEMA MOREIRA PONCE LACERDA
+Furto ; 0002551-07.2017.8.26.0535 ; 1 ano de reclusão e 10 dias-multa ; 6 meses de reclusão e 5 dias-multa ; Condenado ; WILLIAM SANTOS RIVAROLI ; MIRIAN KEIKO SANCHES MACEDO
+Furto ; 0001281-04.2018.8.26.0408 ; None ; None ; Extinta a Punibilidade ; JOSÉ LUCIANO DA SILVA ; Renata Ferreira dos Santos Carvalho
+Furto ; 0000329-46.2016.8.26.0456 ; None ; None ; Extinto o Feito ; DIEGO DA SILVA CRISTINO ; ADRIANO CAMARGO PATUSSI
+Furto ; 0000025-30.2022.8.26.0426 ; None ; None ; Absolvido ; MICHELLE APARECIDA BARBOSA DE OLIVEIRA ; DANIEL DIEGO CARRIJO
+Furto ; 0000025-30.2022.8.26.0426 ; None ; None ; Condenado ; CLEBER PADILHA FERRARI ; DANIEL DIEGO CARRIJO
+Furto ; 0008951-41.2017.8.26.0566 ; None ; None ; None ; RENATA COIMBRÃO TIKAMI ; André Luiz de Macedo
+Furto ; 0001779-17.2016.8.26.0038 ; None ; None ; Absolvido ; JOSÉ NELSON RIBEIRO DOS SANTOS ; Rafael Pavan de Moraes Filgueira
+Furto ; 0000766-59.2015.8.26.0024 ; 02 (dois) anos de reclusão e 10 (dez) dias multa ; 02 (dois) anos de reclusão e 10 (dez) dias multa ; Condenado ; JEFFERSON PEREIRA DA SILVA ; ALEXANDRE RODRIGUES FERREIRA
+Furto ; 0008394-12.2015.8.26.0635 ; None ; None ; None ; CAIO EDUARDO GOMES DO NASCIMENTO ; Lilian Lage Humes
+Furto ; 0009320-31.2016.8.26.0126 ; None ; None ; None ; MARIA DE LOURDES DE ABREU ANDRADE ; JULIO DA SILVA BRANCHINI
+Furto (Crime Tentado) ; 0000581-75.2017.8.26.0630 ; 10 (dez) dias-multa ; 6 (seis) dias-multa ; Condenado ; CRISTIANO VIEIRA VILA ; Letícia Lemos Rossi
+Furto ; 0005432-81.2016.8.26.0408 ; None ; None ; None ; JOÃO VITOR LEMES ; Renata Ferreira dos Santos Carvalho
+Furto ; 0004369-82.2017.8.26.0635 ; None ; None ; None ; PEDRO FERNANDES BELEBECHA FILHO ; Augusto Antonini
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano de reclusão, além de 10 dias-multa ; 1 ano de reclusão, além de 10 dias-multa ; Condenado ; VINICIUS ROBERTO GOMES DE FREITAS ; Alexandro Conceição dos Santos
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano de reclusão, além de 10 dias-multa ; 1 ano de reclusão, além de 10 dias-multa ; Condenado ; PAULO HENRIQUE MOREIRA ORSI ; Alexandro Conceição dos Santos
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano de reclusão, além de 10 dias-multa ; 1 ano de reclusão, além de 10 dias-multa ; Condenado ; PAULO ROGÉRIO CERQUEIRA FILHO ; Alexandro Conceição dos Santos
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano, 3 meses e 6 dias de reclusão, além de 12 dias-multa ; 1 ano, 8 meses e 8 dias de reclusão, além de 16 dias-multa ; Condenado ; CRISTIANO MORAES SILVA ; Alexandro Conceição dos Santos
+Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior ; 0005522-71.2017.8.26.0047 ; 1 ano de reclusão ; 1 ano de reclusão ; Condenado ; MICHEL ALEXANDRE DA SILVA ; Alexandro Conceição dos Santos
+Furto ; 0004193-47.2016.8.26.0568 ; 2 anos de reclusão ; 2 anos de reclusão, convertidos em 10 dias-multa e prestação de serviços à comunidade ; Condenado ; GUILHERME AUGUSTO SANSANA ; Elaní Cristina Mendes Marum
+Furto ; 0001342-92.2015.8.26.0625 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; Joao Luiz Goncalves Neto Junior ; Fernanda Teixeira Salviano da Rocha
+Furto (art. 155) ; 0001618-20.2007.8.26.0459 ; Não informado ; Extinta a punibilidade ; Prescrição da Pretensão Punitiva ; CLEBER RODRIGO TOMAZELLI ; FREDERICO PUPO CARRIJO DE ANDRADE
+Furto ; 0004445-81.2018.8.26.0438 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade pelo cumprimento do acordo de não persecução penal ; GUILHERME HENRIQUE GOMES DE SOUZA ; PEDRO DE CASTRO E SOUSA
+Furto (art. 155) ; 0002040-59.2016.8.26.0271 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Adriano da Silva dos Reis ; Udo Wolff Dick Appolo Do Amaral
+Furto ; 0004520-91.2018.8.26.0189 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Catia Grigatti dos Santos ; JULIANO SANTOS DE LIMA
+Furto ; 0002748-32.2018.8.26.0565 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; CAIO DA SILVA GONÇALVES ; Pedro Corrêa Liao
+Furto ; 0001450-87.2016.8.26.0625 ; Não informado ; Extinta a punibilidade ; Extinção da punibilidade ; Daniela Ferreira dos Santos ; Cláudia Calles Novellino Ballestero
+Furto ; 0004037-37.2012.8.26.0459 ; Não informado ; Extinta a punibilidade ; Prescrição da Pretensão Punitiva ; JESSICA PATRÍCIA CONSTANTINO DE CASTRO ; FREDERICO PUPO CARRIJO DE ANDRADE
+Furto ; 0009550-87.2019.8.26.0152 ; 3 anos e 6 meses de reclusão e 97 dias-multa ; 3 anos e 6 meses de reclusão e 97 dias-multa, convertidos em prestação de serviços à comunidade e prestação pecuniária ; Condenado ; Marcos Antonio Alves da Silva ; RAFAEL RAUCH
+Furto ; 0005717-89.2015.8.26.0576 ; 1 ano de reclusão e 10 dias-multa ; 1 ano e 2 meses de reclusão e 11 dias-multa ; Condenado ; ELTON KLEBER DA SILVA ; LUCIANA CASSIANO ZAMPERLINI COCHITO
+Furto ; 0005717-89.2015.8.26.0576 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; FERNANDO DONIZETI DA SILVA ; LUCIANA CASSIANO ZAMPERLINI COCHITO
+Furto ; 0005717-89.2015.8.26.0576 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; CLEYTON DE SOUZA UNGRIAS ; LUCIANA CASSIANO ZAMPERLINI COCHITO
+Furto ; 0000813-15.2017.8.26.0072 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; THIAGO FERNANDES PEREIRA ; JOAO CARLOS SAUD ABDALA FILHO
+Furto ; 0009336-19.2016.8.26.0050 ; Não informado ; Extinta a Punibilidade ; Extinção da Punibilidade ; ROBSON FRANCA FIUZA DA SILVA ; FABIOLA OLIVEIRA SILVA
+Receptação ; 0001566-97.2017.8.26.0095 ; Não informado ; Absolvido ; Absolvido ; WELINGTON FERNANDO DA SILVA ; MARCELA MACHADO MARTINIANO
+Furto ; 0000801-94.2016.8.26.0311 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; Emerson Carlos Nogueira de Oliveira ; VANDICKSON SOARES EMIDIO
+Furto ; 0005063-16.2008.8.26.0587 ; Não informado ; Extinta a Punibilidade ; Extinção da Punibilidade ; Juvenal Rocha da Silva ; GLAUCIA FERNANDES PAIVA
+Furto ; 0006406-91.2018.8.26.0362 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Rogerio de Souza ; PAULO ROGERIO MALVEZZI
+Furto ; 0000038-53.2015.8.26.0659 ; Não informado ; Absolvida ; Absolvido ; Valdete do Nascimento Martins ; Fábio Marcelo Holanda
+Furto ; 0000601-61.2016.8.26.0352 ; Não informado ; Extinta a pena de multa ; Extinção da Pena de Multa ; DANILO HENRIQUE PAULA DE OLIVEIRA ; ELISA LEONESI MALUF
+Furto ; 0002387-17.2016.8.26.0587 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 1 ano, 6 meses e 20 dias de reclusão e 14 dias-multa ; Extinta a Punibilidade ; JOSÉ FABIANO RIBEIRO SILVA ; GLAUCIA FERNANDES PAIVA
+Furto ; 0006100-79.2018.8.26.0635 ; None ; 8 meses de reclusão e 6 dias-multa ; Condenado ; JOHNNY STEPHAN DE SOUSA CESARIO ; Ana Helena Rodrigues Mellim
+Furto ; 0009108-64.2006.8.26.0189 ; None ; None ; Extinta a Punibilidade ; Antonio Carlos dos Santos ; VINICIUS CASTREQUINI BUFULIN
+Furto ; 0000198-95.2017.8.26.0566 ; None ; None ; Extinta a Punibilidade ; Hélio Vendramini Junior ; André Luiz de Macedo
+Furto ; 0007282-94.2006.8.26.0482 ; None ; None ; Extinta a Punibilidade ; Valderlei da Silva Siqueira ; Cibele Carrasco Rainho Novo
+Furto ; 0000802-08.2018.8.26.0603 ; None ; None ; Extinta a Punibilidade ; Pedro Borges Filho ; Leonardo Lopes Sardinha
+Furto ; 0006039-92.2011.8.26.0045 ; 2 anos de reclusão ; 2 anos de reclusão e 10 dias-multa ; Condenado ; Fernando Aparecido Catani ; NAIRA BLANCO MACHADO
+Furto ; 0003620-96.2016.8.26.0248 ; 2 anos de reclusão e 10 dias-multa ; 2 anos e 4 meses de reclusão e 11 dias-multa ; Condenado ; Ivonete Alexandrina dos Santos ; Daniela Faria Romano
+Furto ; 0000967-64.2015.8.26.0537 ; None ; None ; Extinta a Punibilidade ; Rosimeire Galdino dos Santos ; KLEBER LELES DE SOUZA
+Furto ; 0002267-50.2022.8.26.0526 ; 3 anos de reclusão e 15 dias-multa ; 4 anos e 8 meses de reclusão e 22 dias-multa ; Condenado ; ALEX DA ROCHA PINHEIRO ; Beatriz Sylvia Straube de Almeida Prado Costa
+Furto ; 0000391-84.2018.8.26.0628 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado ; ERIVALTO DE JESUS SANTOS ; TALES NOVAES FRANCIS DICLER
+Furto ; 0006395-53.2017.8.26.0635 ; 2 anos e 4 meses de reclusão e 11 dias-multa ; 2 anos e 4 meses de reclusão, substituída por prestação de serviços à comunidade, e 11 dias-multa ; Condenado ; Anderson Aparecido Santana ; Fabíola Oliveira Silva
+Furto ; 0000234-17.2016.8.26.0488 ; None ; None ; Extinta a Punibilidade ; Michel dos Santos Silva ; Lucas Campos de Souza
+Furto ; 0005148-03.2018.8.26.0635 ; None ; None ; Extinta a Punibilidade ; MAIKE RODRIGO DOS SANTOS DIAS ; Renata William Rached Catelli
+Furto ; 0000614-97.2016.8.26.0275 ; 2 anos e 4 meses de reclusão e 11 dias-multa ; 2 anos de reclusão, substituída por prestação de serviços à comunidade e prestação pecuniária, e 10 dias-multa ; Condenado ; Clélio Cristóvão Santos de Almeida ; VINICIUS JOSÉ CAETANO MACHADO DE LIMA
+Furto ; 0000614-97.2016.8.26.0275 ; 2 anos e 4 meses de reclusão e 11 dias-multa ; 2 anos de reclusão, substituída por prestação de serviços à comunidade e prestação pecuniária, e 10 dias-multa ; Condenado ; Diogo de Souza Silva ; VINICIUS JOSÉ CAETANO MACHADO DE LIMA
+Furto ; 0005187-09.2022.8.26.0037 ; 3 anos de reclusão e 15 dias multa ; 5 anos e 10 meses de reclusão, além do pagamento de 28 dias-multa ; Condenado ; JOÃO DE PAULA DA SILVA NETO ; Roberto Raineri Simão
+Furto ; 0005074-50.2022.8.26.0362 ; 1 anos e 3 meses de reclusão e pagamento de 12 dias-multa ; 1 ano, 11 meses e 10 dias de reclusão e pagamento de 18 dias multa ; Condenado ; MARCIO DONIZETE APARECIDA ; PAULO ROGERIO MALVEZZI
+Furto ; 0000096-87.2017.8.26.0238 ; None ; None ; Extinta a Punibilidade ; BENTO JOAQUIM DE OLIVEIRA NETO ; Luiz Fernando Angiolucci
+Furto ; 0001112-82.2016.8.26.0506 ; dois anos, oito meses e vinte dias de reclusão e pagamento de doze dias-multa ; 3 (três) anos, 2 (dois) meses e 3 (três) dias de reclusão e pagamento de 14 dias-multa ; Condenado ; Jean Rafael de Carvalho ; Guacy Sibille Leite
+Furto ; 0000759-73.2021.8.26.0536 ; 1 (um) ano de reclusão e 10 (dez) dias-multa ; 6 (seis) meses de reclusão ; Condenado ; JOSE CARLOS DOS SANTOS FILHO ; EDMILSON ROSA DOS SANTOS
+Furto ; 0000156-88.2017.8.26.0358 ; 02 anos e 04 meses de reclusão e 11 dias-multa ; 03 anos, 10 meses e 20 dias de reclusão e 18 dias-multa ; Condenado ; Kevin Maxi Miler Fuzati Costa ; Natália Berti
+Furto ; 0003746-57.2013.8.26.0538 ; Não informado ; Absolvido ; Absolvido ; Gustavo Michelon ; FELIPE GUINSANI
+Furto ; 0007189-53.2018.8.26.0566 ; Não informado ; Extinção da punibilidade ; Extinção da punibilidade ; MARCIO APARECIDO GAINO ; André Luiz de Macedo
+Furto (art. 155) ; 0003137-35.2012.8.26.0142 ; Não encontrado ; Absolvido ; Absolvido ; LUIZ HENRIQUE DE OLIVEIRA MANSIN ; FABIANO MOTA CARDOSO
+Furto ; 0000750-53.2015.8.26.0106 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; FABIO DOS SANTOS LISBOA ; DANIEL NAKAO MAIBASHI
+Furto ; 0002721-63.2017.8.26.0022 ; Não encontrado ; 1 ano de reclusão em regime aberto ; Condenado ; EDSON FERNANDO TAVARES ; Fernando Leonardi Campanella
+Furto ; 0000500-86.2018.8.26.0535 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; ROGERIO AUGUSTO DE OLIVEIRA ; ANDRE LUIZ DA SILVA DA CUNHA
+Furto ; 0000337-93.2018.8.26.0022 ; Não encontrado ; 8 meses e 26 dias de reclusão em regime semiaberto ; Condenado ; CARLOS ROBINSON DAÓLIO ; Fernando Leonardi Campanella
+Furto ; 0005069-67.2017.8.26.0050 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; ADALBERTO CARLOS DOS REIS ; Lilian Lage Humes
+Furto ; 0002062-82.2017.8.26.0530 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; Ronaldo Adriano da Silva ; Guaracy Sibille Leite
+Furto (art. 155) ; 0007820-41.2010.8.26.0157 ; Não encontrado ; Extinta a Pena de Multa ; Extinta a Pena de Multa ; MARCELO FERREIRA ; Rodrigo Pinati da Silva
+Furto ; 0001610-74.2017.8.26.0594 ; Não encontrado ; 1 ano, 6 meses e 20 dias de reclusão em regime aberto ; Condenado ; LUCAS MATHEUS DIAS DA SILVA ; Cláudio Augusto Saad Abujamra
+Furto ; 0000125-82.2016.8.26.0591 ; Não encontrado ; Extinta a Punibilidade ; Extinta a Punibilidade ; LUCAS SANTOS BARBOSA DA SILVA ; ALINE TABUCHI DA SILVA
+Furto ; 0002807-18.2016.8.26.0168 ; None ; None ; Extinta a pena de multa ; Eduardo Soares da Silva de Jesus ; Aline Sugahara Bertaco
+Furto ; 0002074-11.2020.8.26.0201 ; 2 anos e 4 meses de reclusão e 11 dias-multa ; 2 anos, 8 meses e 20 dias de reclusão e 12 dias-multa ; Condenado ; JEAN CELSO EVANGELISTA ; Renata Lima Ribeiro Raia
+Furto ; 0002074-11.2020.8.26.0201 ; 2 anos de reclusão e 10 dias-multa ; 2 anos de reclusão e 10 dias-multa ; Condenada, pena substituida por restritivas de direito ; CASSIA STEFANI DE PAULA ; Renata Lima Ribeiro Raia
+Furto (art. 155) ; 0000150-13.2001.8.26.0562 ; None ; None ; Extinta a punibilidade ; UBIRACI TORRES GARCIA ; Silvana Amneris Rôlo Pereira Borges
+Furto (art. 155) ; 0008905-20.2008.8.26.0323 ; 1 ano, 1 mês e 15 dias de reclusão e 11 dias-multa ; 1 ano, 8 meses e 29 dias de reclusão e 16 dias-multa ; Condenado ; JOEL GUEDES DIAS ; Daniel Otero Pereira da Costa
+Furto ; 0000981-28.2018.8.26.0542 ; None ; None ; Extinta a punibilidade ; ROBSON RIBEIRO ; MARCIA DE MELLO ALCOFORADO HERRERO
+Furto (art. 155) ; 0000295-91.2010.8.26.0291 ; None ; None ; Extinta a punibilidade ; Marcelo Cândido da Silva ; Leandro Galluzzi dos Santos
+Furto ; 0003845-31.2014.8.26.0590 ; None ; None ; Extinta a punibilidade ; Marcelo Marcos Guimarães ; Luís Guilherme Vaz de Lima Cardinale
+Furto ; 0000088-79.2017.8.26.0022 ; None ; None ; Extinta a pena de multa ; Luis Henrique Martins ; Fernando Leonardi Campanella
+Furto ; 0001287-73.2022.8.26.0536 ; None ; None ; Absolvido ; Marcos Roberto da Silva ; Alexandre Torres de Aguiar
+Furto ; 0003042-70.2015.8.26.0248 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão e 10 dias-multa ; Condenado, pena substituida por restritiva de direitos ; Maykon de Lima Francisco ; Daniela Faria Romano
+Furto ; 0002645-28.2013.8.26.0168 ; Não foi definido. ; Absolvido. ; Absolvido ; Gevaldo Matias Dantas ; ALINE TABUCHI DA SILVA
+Furto ; 0000207-78.2018.8.26.0095 ; 1 ano e 10 dias-multa ; 8 meses de reclusão e 6 dias-multa. ; Condenado ; Wesley Fernando Cardoso ; MARCELA MACHADO MARTINIANO
+Furto ; 0000207-78.2018.8.26.0095 ; Não foi definido. ; Absolvido. ; Absolvido ; Matheus Fernando Pereira ; MARCELA MACHADO MARTINIANO
+Furto ; 0000859-39.2018.8.26.0146 ; Não foi definido. ; Absolvido. ; Absolvido ; Valentim Moreira dos Santos ; JULIANA SILVA FREITAS
+Furto ; 0008464-12.2018.8.26.0348 ; 02 anos de reclusão e 10 dias-multa ; 02 anos de reclusão e 10 dias-multa ; Condenado ; Giovani Burato Alvim ; Paulo Antonio Canali Campanella
+Furto ; 0003009-29.2015.8.26.0362 ; Não foi definido. ; Extinta a punibilidade ; Extinta a punibilidade ; Isaque Fernandes ; PAULO ROGERIO MALVEZZI
+Furto ; 0002466-34.2016.8.26.0542 ; Não foi definido. ; Extinta a punibilidade ; Extinta a punibilidade ; Wesley de Lucas ; MARIANA HORTA GREENHALGH
+Furto ; 0008698-03.2012.8.26.0510 ; Não foi definido. ; Absolvido. ; Absolvido ; Nilton dos Santos de Almeida ; CAIO CESAR GINEZ ALMEIDA BUENO
+Furto ; 0002070-50.2010.8.26.0095 ; Não foi definido. ; Absolvido. ; Absolvido ; Luzia Santos da Silva ; MARCELA MACHADO MARTINIANO
+Furto ; 0000001-69.2013.8.26.0538 ; Não foi definido. ; Extinta a punibilidade ; Extinta a punibilidade ; Priscila Segantini ; GUILHERME MARTINS DAMINI
+Furto ; 0000001-69.2013.8.26.0538 ; Não foi definido. ; Extinta a punibilidade ; Extinta a punibilidade ; Isabel Cristina Gimenez Segantini ; GUILHERME MARTINS DAMINI
+Furto ; 0007524-33.2015.8.26.0322 ; Não foi definido. ; Absolvido. ; Absolvido ; Alex Henrique Pereira Alves ; Jane Carrasco Alves Floriano
+Furto ; 0006079-44.2013.8.26.0291 ; Não informado ; Extinta a punibilidade em relação à pena de multa ; Extinção da Punibilidade ; Alafi Rodrigo Carreira ; Leandro Galluzzi dos Santos
+Furto ; 0007364-26.2014.8.26.0586 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Carlos Cesar da Paixao Marinho ; Flavio Roberto de Carvalho
+Furto ; 0004091-47.2018.8.26.0635 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 8 meses de reclusão e 6 dias-multa ; Condenado ; JOSUE JORDAN RICARDO LINARES MIRANDA ; MANOELA ASSEF DA SILVA
+Furto ; 0007342-34.2008.8.26.0050 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Alceri Floriano Ferreira ; Luciane Jabur Mouchaloite Figueiredo
+Furto ; 0002556-44.2014.8.26.0079 ; 1 ano de reclusão ; 1 ano de reclusão ; Condenado ; Fabio Andrade Santiago ; CRISTINA ESCHER
+Furto ; 0001634-44.2014.8.26.0615 ; 1 ano e 2 meses de reclusão e 11 dias-multa ; 4 meses de reclusão e 3 dias-multa ; Condenado ; Jeferson Augusto de Souza ; Renato Soares de Melo Filho
+Furto ; 0006933-93.2016.8.26.0077 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Franciscarlos de Jesus de Souza ; ADRIANO PINTO DE OLIVEIRA
+Furto ; 0003675-83.2015.8.26.0506 ; Não informado ; Absolvido ; Absolvido ; Alex Adriano Fratti ; Guacy Sibille Leite
+Furto ; 0000468-96.2018.8.26.0530 ; Não informado ; Extinta a pena de multa ; Extinção da pena de multa ; Vinicius Soares da Silva ; Viviane Decnop Freitas Figueira
+Furto ; 0000662-03.2016.8.26.0616 ; Não informado ; Extinta a punibilidade ; Extinção da Punibilidade ; Renato Seichi Seo ; Milton de Oliveira Sampaio Neto
+Furto ; 0003578-47.2016.8.26.0248 ; 1 ano de reclusão e 10 dias-multa ; 1 ano de reclusão, em regime inicial aberto, e 10 dias-multa ; Condenado ; Junior Aparecido Satil ; JOSE EDUARDO DA COSTA
+Furto ; 0004579-60.2008.8.26.0050 ; None ; None ; Extinta a Punibilidade ; Ivanei Penha da Silva ; Margot Chrysostomo Corrêa
+Furto ; 0001834-96.2016.8.26.0642 ; 1 ano de reclusão e 11 dias-multa ; 1 ano e 2 meses de reclusão, em regime inicial semiaberto, e 11 dias-multa ; Condenado ; Carlos Andre Machado Garcia ; Diogo Volpe Gonçalves Soares
+Furto ; 0001117-62.2022.8.26.0161 ; 3 anos de reclusão e 15 dias-multa ; 3 anos de reclusão, em regime aberto, e 15 dias-multa ; Condenado ; Guilhermo Orlando Buitrago Bustos ; Patrícia Helena Hehl Forjaz de Toledo
+Furto ; 0005875-55.2018.8.26.0604 ; 2 anos de reclusão e 20 dias-multa ; 2 anos reclusão, em regime inicial semiaberto, e 20 dias-multa ; Condenado ; ELIABINER HENRIQUE RIBEIRO ; André Forato Anhê
+Furto ; 0005468-62.2007.8.26.0595 ; None ; None ; Extinta a Punibilidade ; Joao Antonio Lopes Gonzales ; JULIANA MARIA FINATI
+Furto ; 0002685-58.2009.8.26.0068 ; None ; None ; Extinta a Punibilidade ; Amarildo dos Santos Donizete ; Cyntia Menezes de Paula Straforini
+Furto ; 0002850-60.2017.8.26.0542 ; 2 anos e 4 meses de reclusão, e 11 dias-multa ; 2 anos, 8 meses e 20 dias de reclusão, em regime inicial fechado, e 12 dias-multa ; Condenado ; Renato Silva de Oliveira ; MARCIA DE MELLO ALCOFORADO HERRERO
+Furto ; 0000449-43.2020.8.26.0620 ; 02 (dois) anos e 09 (nove) meses de reclusão e 53 (cinquenta e três) dias-multa ; 02 (dois) anos e 09 (nove) meses de reclusão, no regime ABERTO,  além de pagamento de 53 (cinquenta e três) dias-multa ; Condenado ; Eliseu de Camargo ; DIANA CRISTINA SILVA SPESSOTTO
+Furto ; 0003472-92.2018.8.26.0126 ; None ; None ; Extinta a Punibilidade ; ALAN DE MORAES ARAÚJO ; JULIO DA SILVA BRANCHINI

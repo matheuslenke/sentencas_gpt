@@ -1,0 +1,5 @@
+langchain
+openai
+PyPDF2
+pydantic-core==2.14.5
+vertexai
