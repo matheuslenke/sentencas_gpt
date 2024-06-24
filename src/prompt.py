@@ -36,3 +36,17 @@ def get_gemini_prompt():
             "nome_juiz": "nome"
         }, ...]
     """
+
+def get_calculate_date_prompt():
+    return """
+        Você me ajudará a calcular o tempo de prisão de um réu. A entrada será um array em JSON com os seguintes campos:
+        [{
+            "sentença_base": "A sentença base, em anos, meses ou dias",
+            "sentença_definitiva": "sentença final, em anos, meses ou dias"
+        }, ...]
+
+        Como resultado, você retornará um array JSON com o seguinte formato:
+        [{ "tempo_prisao": "tempo de prisão em dias (somente em dias!)" }, ...]
+
+        O JSON de Input estará dentro do delimitador ### <JSON aqui> ###.
+    """

@@ -2,34 +2,39 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 
-folder_path = './penas_dias'  # Replace with the actual path to the pena_dias folder
+folder_path = './results/dados_sentencas.xlsx'  # Replace with the actual path to the pena_dias folder
 
 def get_data():
-    files = os.listdir(folder_path)
-    dfs = []
-    for file in files:
-        if file.endswith('.csv'):
-            file_path = os.path.join(folder_path, file)
-            df = pd.read_csv(file_path, delimiter=';')
-            dfs.append(df)
-    combined_df = pd.concat(dfs)
+    df = pd.read_excel(folder_path, sheet_name=None)
+    combined_df = pd.concat(df.values(), ignore_index=True)
     return combined_df
+
+def clean_data(df: pd.DataFrame):
+    df = df[df['tempo_preso'] != 0]
+    return df
 
 def estimar_bayesiano():
     combined_df = get_data()
     combined_df.describe()
+    combined_df = clean_data(combined_df)
 
-    mean_approximation = combined_df['Pena em Dias'].mean()
-    print("Mean of Pena em Dias:")
-    print(mean_approximation)
+    unique_crimes = combined_df['tipo_crime'].unique()
+    fig, ax = plt.subplots(len(unique_crimes), 1, figsize=(10, 8))
 
-    mean_by_categoria = combined_df.groupby('Crime')['Pena em Dias'].mean()
-    print("\nMean of Pena em Dias by Categoria:")
-    print(mean_by_categoria)
+    for i, crime in enumerate(unique_crimes):
+        ax[i].hist(combined_df[combined_df['tipo_crime'] == crime]['tempo_preso'], bins=10)
+        ax[i].set_xlabel('Pena em Dias')
+        ax[i].set_ylabel('Frequência')
+        ax[i].set_title(f'Histograma da Distribuição de Pena em Dias para o Crime: {crime}')
 
-    std_by_categoria = combined_df.groupby('Crime')['Pena em Dias'].std()
-    plt.errorbar(mean_by_categoria.index, mean_by_categoria, yerr=std_by_categoria, fmt='o')
-    plt.xlabel('Categoria')
-    plt.ylabel('Média de Pena em Dias')
-    plt.title('Aproximação das Médias de Pena em Dias por Categoria')
+    plt.tight_layout()
+    plt.show()
+    fig, ax = plt.subplots(figsize=(10, 8))
+    for i, crime in enumerate(unique_crimes):
+        ax.hist(combined_df[combined_df['tipo_crime'] == crime]['tempo_preso'], bins=10, alpha=0.5, label=crime)
+    ax.set_xlabel('Pena em Dias')
+    ax.set_ylabel('Frequência')
+    ax.set_title('Histograma da Distribuição de Pena em Dias para Diferentes Crimes')
+    ax.legend()
+    plt.tight_layout()
     plt.show()

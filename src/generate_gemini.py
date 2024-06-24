@@ -17,11 +17,16 @@ safety_settings = {
     generative_models.HarmCategory.HARM_CATEGORY_HARASSMENT: generative_models.HarmBlockThreshold.BLOCK_MEDIUM_AND_ABOVE,
 }
 
-def generate(message):
+def generate(message, prompt=get_gemini_prompt()):
+    '''
+        This function generates content using the Gemini model.
+        message: The message from user input
+        prompt: the prompt to be used
+    '''
     vertexai.init(project="gemini-code-project", location="us-central1")
     model = GenerativeModel(
         "gemini-1.5-pro",
-        system_instruction=[get_gemini_prompt()]
+        system_instruction=[prompt]
     )
     new_message = f"### {message} ###"
     responses = model.generate_content(
