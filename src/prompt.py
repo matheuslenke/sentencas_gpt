@@ -37,6 +37,19 @@ def get_instructions_prompt():
         }, ...]
     """
 
+def get_instructions_prompt_intermediate_sentence() -> str:
+    return """Você é um assistente útil projetado para gerar resultados em JSON. Você é um assistente legal especializado em sentenças judiciais brasileiras. Analise as sentenças dentro da seção delimitada (###), separadas por ($$$) e forneça um array JSON com a seguinte estrutura:
+
+[{
+  "numero_processo": "O número do processo",
+  "tipo_crime": "Tipo de crime",
+  "pena_base": "A pena base, decretada no início",
+  "pena_definitiva": "A pena final",
+  "agravantes": "Agravantes da pena que aumentam a mesma",
+  "atenuantes": "Atenuantes da pena que reduzem a mesma"
+}, ...]
+"""
+
 def get_calculate_date_prompt():
     return """
         Você me ajudará a calcular o tempo de prisão de um réu. A entrada será um array em JSON com os seguintes campos:

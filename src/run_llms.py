@@ -1,6 +1,7 @@
 import os
 import PyPDF2
 import time
+from src.generate_ollama import generate_completion
 from src.generate_gemini import generate
 from src.generate_openai import make_completion
 
@@ -59,14 +60,13 @@ def run_llm_in_chunk(chunk, pdfs_folder, index):
 
 def run_llm_in_data(pdf_data, index):
     # Sending request to Gemini with current chunk of data
-    responses = make_completion(pdf_data)
+    responses = generate(pdf_data)
     
     for response in responses:
-        save_to_file(f"results/result-llama3-{crime_category}_{index}.md", response)
-        print(response, end="")
+        save_to_file(f"results/result-gemini-{crime_category}_{index}.md", response)
     return responses
 
-async def run_llms(with_chunks: bool = False):
+async def run_llms(with_chunks: bool = True):
     '''
         Main function that get the data from each downloaded PDF and
         generate the response using the Gemini or the OpenAI model.
@@ -81,7 +81,7 @@ async def run_llms(with_chunks: bool = False):
         for chunk in pdf_files_chunks:
             run_llm_in_chunk(chunk=chunk, pdfs_folder=pdfs_folder, index=index)
             index += 1
-            time.sleep(0.5)
+            time.sleep(10)
     else:
         pdf_files = get_files(pdfs_folder)
         for pdf_file in pdf_files:
