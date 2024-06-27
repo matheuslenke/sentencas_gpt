@@ -2,7 +2,7 @@ import vertexai
 from vertexai.generative_models import GenerativeModel
 import vertexai.preview.generative_models as generative_models
 
-from src.prompt import get_gemini_prompt
+from src.prompt import get_instructions_prompt
 
 generation_config = {
     "max_output_tokens": 8192,
@@ -17,7 +17,7 @@ safety_settings = {
     generative_models.HarmCategory.HARM_CATEGORY_HARASSMENT: generative_models.HarmBlockThreshold.BLOCK_MEDIUM_AND_ABOVE,
 }
 
-def generate(message, prompt=get_gemini_prompt()):
+def generate(message, prompt=get_instructions_prompt()):
     '''
         This function generates content using the Gemini model.
         message: The message from user input
@@ -35,5 +35,5 @@ def generate(message, prompt=get_gemini_prompt()):
         safety_settings=safety_settings,
         stream=True,
     )
-    return responses
+    return responses[0].text
 

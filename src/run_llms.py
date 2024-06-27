@@ -2,6 +2,7 @@ import os
 import PyPDF2
 import time
 from src.generate_gemini import generate
+from src.generate_openai import make_completion
 
 crime_category = "roubo_simples"
 
@@ -54,25 +55,36 @@ def run_llm_in_chunk(chunk, pdfs_folder, index):
     save_to_file(f"results/sentencas/{crime_category}/{crime_category}_{index}.md", pdf_data)
 
     # Sending request to Gemini with current chunk of data
-    responses = generate(pdf_data)
+    run_llm_in_data(pdf_data, index)
 
-    # Saving the responses to a file
+def run_llm_in_data(pdf_data, index):
+    # Sending request to Gemini with current chunk of data
+    responses = make_completion(pdf_data)
+    
     for response in responses:
-        save_to_file(f"results/result-gemini-{crime_category}_{index}.md", response.text)
-        print(response.text, end="")
+        save_to_file(f"results/result-llama3-{crime_category}_{index}.md", response)
+        print(response, end="")
+    return responses
 
-async def run_llms():
+async def run_llms(with_chunks: bool = False):
     '''
         Main function that get the data from each downloaded PDF and
         generate the response using the Gemini or the OpenAI model.
     '''
     # Define the path to the PDF folder
     pdfs_folder = f"data/{crime_category}"
-    pdf_files_chunks = get_pdf_chunks(pdfs_folder)
 
     # Process each chunk of pdf_files
     index = 0
-    for chunk in pdf_files_chunks:
-        run_llm_in_chunk(chunk=chunk, pdfs_folder=pdfs_folder, index=index)
-        index += 1
-        time.sleep(0.5)
+    if with_chunks:
+        pdf_files_chunks = get_pdf_chunks(pdfs_folder)
+        for chunk in pdf_files_chunks:
+            run_llm_in_chunk(chunk=chunk, pdfs_folder=pdfs_folder, index=index)
+            index += 1
+            time.sleep(0.5)
+    else:
+        pdf_files = get_files(pdfs_folder)
+        for pdf_file in pdf_files:
+            pdf_data = get_pdf_data(pdfs_folder, pdf_file)
+            run_llm_in_data(pdf_data=pdf_data, index=index)
+            index += 1

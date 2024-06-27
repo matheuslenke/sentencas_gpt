@@ -1,27 +1,35 @@
 from openai import OpenAI
 
+from src.prompt import get_instructions_prompt
+
 # Point to the local server
-client = OpenAI(base_url="http://localhost:1234/v1", api_key="lm-studio")
+client = OpenAI(base_url="http://localhost:11434/v1", api_key="ollama")
 
 def get_embedding(text, model="nomic-ai/nomic-embed-text-v1.5-GGUF"):
    text = text.replace("\n", " ")
    return client.embeddings.create(input = [text], model=model).data[0].embedding
 
-async def make_completion(history, message):
+def make_completion(message):
+    history = [
+        {"role": "system", "content": get_instructions_prompt()}
+    ]
     new_message = {"role": "user", "content": f"### {message} ###"}
     history.append(new_message)
 
 
     completion = client.chat.completions.create(
-        model="lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF",
+        model="llama3",
         messages=history,
         temperature=0.7,
         stream=True,
     )
+    final_response = get_all_chunks(completion)
+    return final_response
 
-    with open("results/result.md", "a") as result_file:
-        for chunk in completion:
-            if chunk.choices[0].delta.content:
-                result_file.write(chunk.choices[0].delta.content)
-                print(chunk.choices[0].delta.content, end="", flush=True)
-        result_file.write("\n")
+def get_all_chunks(completion):
+    final_response = ""
+    for chunk in completion:
+        if chunk.choices[0].delta.content:
+            final_response += chunk.choices[0].delta.content
+            print(chunk.choices[0].delta.content, end="", flush=True)
+    return final_response

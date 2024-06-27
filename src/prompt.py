@@ -18,7 +18,7 @@ def get_history():
     ]
     return history
 
-def get_gemini_prompt():
+def get_instructions_prompt():
     return """
         Você me ajudará a extrair dados de sentenças de juízes brasileiros. Este arquivo está em português. A entrada será o conteúdo de vários arquivos dentro do delimitador ### pdf_data ###. Cada arquivo contém uma sentença de um juiz, e o delimitador $$$ está diferenciando cada um dos documentos.
         Obedeça as seguintes instruções:
