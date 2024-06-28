@@ -5,3 +5,8 @@ pydantic-core==2.14.5
 vertexai
 bs4
 openpyxl
+ollama
+instructor
+anthropic
+tiktoken
+llmlingua

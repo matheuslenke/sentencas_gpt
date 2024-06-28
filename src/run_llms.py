@@ -60,13 +60,13 @@ def run_llm_in_chunk(chunk, pdfs_folder, index):
 
 def run_llm_in_data(pdf_data, index):
     # Sending request to Gemini with current chunk of data
-    responses = generate(pdf_data)
+    responses = make_completion(pdf_data)
     
     for response in responses:
         save_to_file(f"results/result-gemini-{crime_category}_{index}.md", response)
     return responses
 
-async def run_llms(with_chunks: bool = True):
+async def run_llms(with_chunks: bool = False):
     '''
         Main function that get the data from each downloaded PDF and
         generate the response using the Gemini or the OpenAI model.
@@ -85,6 +85,11 @@ async def run_llms(with_chunks: bool = True):
     else:
         pdf_files = get_files(pdfs_folder)
         for pdf_file in pdf_files:
-            pdf_data = get_pdf_data(pdfs_folder, pdf_file)
-            run_llm_in_data(pdf_data=pdf_data, index=index)
-            index += 1
+            try:
+                pdf_data = get_pdf_data(pdfs_folder, pdf_file)
+                run_llm_in_data(pdf_data=pdf_data, index=index)
+            except Exception as e:
+                print(f"Error: {e}")
+            finally:
+                index += 1
+                continue

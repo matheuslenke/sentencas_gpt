@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 from src.extract_data import extract_data
-from src.json_to_csv import load_all_jsons
+from src.json_to_csv import load_all_jsons, load_all_jsons_intermediate
 from src.run_llms import change_category, run_llms
 from src.calculate_date import calculate_dates, date_to_csv
 from src.extract_sentences_time import extract_sentence_times
@@ -70,7 +70,8 @@ def main():
             
     elif args.command == 'json-to-csv':
         if args.type:
-            load_all_jsons(args.type)
+            # load_all_jsons(args.type)
+            load_all_jsons_intermediate(args.type)
         else:
             print("Please provide the -t argument for crime type.")
 

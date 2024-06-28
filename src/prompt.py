@@ -38,16 +38,16 @@ def get_instructions_prompt():
     """
 
 def get_instructions_prompt_intermediate_sentence() -> str:
-    return """Você é um assistente útil projetado para gerar resultados em JSON. Você é um assistente legal especializado em sentenças judiciais brasileiras. Analise as sentenças dentro da seção delimitada (###), separadas por ($$$) e forneça um array JSON com a seguinte estrutura:
+    return """Você é um assistente útil projetado para extrair informações de sentenças judiciais brasileiras.
+    Você deve 
+    Analise a sentença judicial dentro da seção delimitada por (###) e siga as seguinte instruções:
 
-[{
-  "numero_processo": "O número do processo",
-  "tipo_crime": "Tipo de crime",
-  "pena_base": "A pena base, decretada no início",
-  "pena_definitiva": "A pena final",
-  "agravantes": "Agravantes da pena que aumentam a mesma",
-  "atenuantes": "Atenuantes da pena que reduzem a mesma"
-}, ...]
+    1. Qual número do processo?
+    2. Qual o tipo de crime cometido pelo réu? (tipo_crime);
+    3. Qual a pena base? decretada no início da sentença (pena_base)
+    4. Qual os agravantes da pena que aumentam a mesma? informe o tempo (agravantes)
+    5. Qual os atenuantes da pena que reduzem a mesma? informe o tempo (atenuantes)
+    6. Caso uma informação não esteja presente, retorne "Não informado" no campo correspondente.
 """
 
 def get_calculate_date_prompt():

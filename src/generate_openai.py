@@ -1,34 +1,43 @@
+from typing import List, Optional
 from openai import OpenAI
+import instructor
+from pydantic import BaseModel
+from llmlingua import PromptCompressor
 
 from src.prompt import get_instructions_prompt_intermediate_sentence
 
-# Point to the local server
-client = OpenAI(base_url="http://localhost:11434/v1", api_key="ollama")
+# Output structure for our sentences
+class SentenceInfo(BaseModel):
+    numero_processo: Optional[str]
+    tipo_crime: Optional[str]
+    pena_base: Optional[str]
+    agravantes: List[str]
+    atenuantes: List[str]
 
-def get_embedding(text, model="nomic-ai/nomic-embed-text-v1.5-GGUF"):
-   text = text.replace("\n", " ")
-   return client.embeddings.create(input = [text], model=model).data[0].embedding
+# Point to the local server
+client = instructor.from_openai(
+    OpenAI(
+        base_url="http://localhost:11434/v1",
+        api_key="ollama"),
+        mode=instructor.Mode.JSON,
+    )
 
 def make_completion(message):
     history = [
-        {"role": "user", "content": get_instructions_prompt_intermediate_sentence() + f"### {message} ###"}
+        {"role": "system", "content": get_instructions_prompt_intermediate_sentence() }
     ]
-    # new_message = {"role": "user", "content": f"### {message} ###"}
-    # history.append(new_message)
 
-    completion = client.chat.completions.create(
-        model="gemma2:9b",
+    llm_lingua = PromptCompressor("microsoft/phi-2")
+    compressed_prompt = llm_lingua.compress_prompt(message, target_context=8192, use_llmlingua2=True)
+    new_message = {"role": "user", "content": f"\n### {compressed_prompt} ###"}
+    history.append(new_message)
+    
+    sentenceInfo, completion = client.chat.create_with_completion(
+        model="gemma:9b",
         messages=history,
-        temperature=0.7,
-        stream=True
+        response_model=SentenceInfo
     )
-    final_response = get_all_chunks(completion)
+    final_response = sentenceInfo.__str__()
+    print(completion.choices[0].message.content)
     return final_response
 
-def get_all_chunks(completion):
-    final_response = ""
-    for chunk in completion:
-        if chunk.choices[0].delta.content:
-            final_response += chunk.choices[0].delta.content
-            print(chunk.choices[0].delta.content, end="", flush=True)
-    return final_response
